@@ -1,6090 +1,5220 @@
 [
   {
-    "firstName": "Mikaella",
-    "lastName": "Bowens",
+    "name": "Mikaella Bowens",
     "gender": "Female",
     "weightClass": "+64",
     "entryTotal": "97"
   },
   {
-    "firstName": "Liliana",
-    "lastName": "Ray",
+    "name": "Liliana Ray",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "100"
   },
   {
-    "firstName": "Amber",
-    "lastName": "Lavigne-Bulman",
+    "name": "Amber Lavigne-Bulman",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "127"
   },
   {
-    "firstName": "Alexandra",
-    "lastName": "Tereszczenko",
+    "name": "Alexandra Tereszczenko",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "149"
   },
   {
-    "firstName": "Olga",
-    "lastName": "Krzyszton",
+    "name": "Olga Krzyszton",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "128"
   },
   {
-    "firstName": "Mary",
-    "lastName": "Quigley",
+    "name": "Mary Quigley",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "0"
   },
   {
-    "firstName": "Beth",
-    "lastName": "Simon",
+    "name": "Beth Simon",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "170"
   },
   {
-    "firstName": "LISA",
-    "lastName": "BAETE",
+    "name": "LISA BAETE",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "165"
   },
   {
-    "firstName": "Kristina",
-    "lastName": "Mohn",
+    "name": "Kristina Mohn",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "142"
   },
   {
-    "firstName": "Ashley",
-    "lastName": "Yates",
+    "name": "Ashley Yates",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "135"
   },
   {
-    "firstName": "Vladislava",
-    "lastName": "Davydova",
+    "name": "Vladislava Davydova",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "120"
   },
   {
-    "firstName": "Jessica",
-    "lastName": "King",
+    "name": "Jessica King",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "133"
   },
   {
-    "firstName": "Lisa",
-    "lastName": "Talcott",
+    "name": "Lisa Talcott",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "128"
   },
   {
-    "firstName": "Nadine",
-    "lastName": "Jones",
+    "name": "Nadine Jones",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "95"
   },
   {
-    "firstName": "Aria",
-    "lastName": "Zayed",
+    "name": "Aria Zayed",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "141"
   },
   {
-    "firstName": "Walker",
-    "lastName": "Stanley",
+    "name": "Walker Stanley",
     "gender": "Male",
     "weightClass": "+73",
     "entryTotal": "180"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "Burk",
+    "name": "Jacob Burk",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "261"
   },
   {
-    "firstName": "Blake",
-    "lastName": "Foltz",
+    "name": "Blake Foltz",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "240"
   },
   {
-    "firstName": "Jurgen",
-    "lastName": "Martens",
+    "name": "Jurgen Martens",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "194"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "Brenza",
+    "name": "Jacob Brenza",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "315"
   },
   {
-    "firstName": "Eleanor",
-    "lastName": "Cler",
+    "name": "Eleanor Cler",
     "gender": "Female",
     "weightClass": "+76",
     "entryTotal": "150"
   },
   {
-    "firstName": "Kimberly",
-    "lastName": "Wiese",
+    "name": "Kimberly Wiese",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "185"
   },
   {
-    "firstName": "Jennifer",
-    "lastName": "Gerasimos",
+    "name": "Jennifer Gerasimos",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "155"
   },
   {
-    "firstName": "Minnie",
-    "lastName": "Copp",
+    "name": "Minnie Copp",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "0"
   },
   {
-    "firstName": "Samantha",
-    "lastName": "Chucka",
+    "name": "Samantha Chucka",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "159"
   },
   {
-    "firstName": "Katherine",
-    "lastName": "Cirone",
+    "name": "Katherine Cirone",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "147"
   },
   {
-    "firstName": "Catharine",
-    "lastName": "Messersmith",
+    "name": "Catharine Messersmith",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "154"
   },
   {
-    "firstName": "Jen",
-    "lastName": "Segadelli",
+    "name": "Jen Segadelli",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "130"
   },
   {
-    "firstName": "Danielle",
-    "lastName": "Jorda",
+    "name": "Danielle Jorda",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "90"
   },
   {
-    "firstName": "Kristina",
-    "lastName": "Teel",
+    "name": "Kristina Teel",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "145"
   },
   {
-    "firstName": "Beth",
-    "lastName": "DiFelice",
+    "name": "Beth DiFelice",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "85"
   },
   {
-    "firstName": "Krista",
-    "lastName": "Dornbush",
+    "name": "Krista Dornbush",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "110"
   },
   {
-    "firstName": "Chereese",
-    "lastName": "Creel",
+    "name": "Chereese Creel",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "183"
   },
   {
-    "firstName": "Brittany",
-    "lastName": "Panerali",
+    "name": "Brittany Panerali",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "176"
   },
   {
-    "firstName": "Talley",
-    "lastName": "Halvorson",
+    "name": "Talley Halvorson",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "177"
   },
   {
-    "firstName": "Sydney",
-    "lastName": "Collins",
+    "name": "Sydney Collins",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "195"
   },
   {
-    "firstName": "Joshua",
-    "lastName": "Claravall",
+    "name": "Joshua Claravall",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "210"
   },
   {
-    "firstName": "Marc",
-    "lastName": "Tumamak",
+    "name": "Marc Tumamak",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "205"
   },
   {
-    "firstName": "Eric",
-    "lastName": "Siegel",
+    "name": "Eric Siegel",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "195"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "Echols",
+    "name": "Jacob Echols",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "250"
   },
   {
-    "firstName": "Dahlia",
-    "lastName": "Sokolow",
+    "name": "Dahlia Sokolow",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "106"
   },
   {
-    "firstName": "Emily",
-    "lastName": "Paoloni",
+    "name": "Emily Paoloni",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "90"
   },
   {
-    "firstName": "Kareema",
-    "lastName": "Salah",
+    "name": "Kareema Salah",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "150"
   },
   {
-    "firstName": "Julie",
-    "lastName": "Bachman",
+    "name": "Julie Bachman",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "145"
   },
   {
-    "firstName": "Vanessa",
-    "lastName": "Alfaro",
+    "name": "Vanessa Alfaro",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "138"
   },
   {
-    "firstName": "Amy",
-    "lastName": "Herrera",
+    "name": "Amy Herrera",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "95"
   },
   {
-    "firstName": "Jennifer",
-    "lastName": "Sprague",
+    "name": "Jennifer Sprague",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "95"
   },
   {
-    "firstName": "Donna",
-    "lastName": "Peters",
+    "name": "Donna Peters",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "83"
   },
   {
-    "firstName": "Barbara",
-    "lastName": "Rivers",
+    "name": "Barbara Rivers",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "46"
   },
   {
-    "firstName": "Hayley",
-    "lastName": "Bell",
+    "name": "Hayley Bell",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "177"
   },
   {
-    "firstName": "Kayla",
-    "lastName": "Webb",
+    "name": "Kayla Webb",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "160"
   },
   {
-    "firstName": "Ashlie",
-    "lastName": "Pankonin",
+    "name": "Ashlie Pankonin",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "187"
   },
   {
-    "firstName": "M. Claire",
-    "lastName": "Akin",
+    "name": "M. Claire Akin",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "186"
   },
   {
-    "firstName": "liam",
-    "lastName": "gargan",
+    "name": "liam gargan",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "134"
   },
   {
-    "firstName": "Bryce",
-    "lastName": "Antonelli",
+    "name": "Bryce Antonelli",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "195"
   },
   {
-    "firstName": "Telesforo",
-    "lastName": "Dacanay",
+    "name": "Telesforo Dacanay",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "241"
   },
   {
-    "firstName": "Tim",
-    "lastName": "Geiman",
+    "name": "Tim Geiman",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "230"
   },
   {
-    "firstName": "Jonathan",
-    "lastName": "Willmoth",
+    "name": "Jonathan Willmoth",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "180"
   },
   {
-    "firstName": "Brad",
-    "lastName": "Baldwin",
+    "name": "Brad Baldwin",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "215"
   },
   {
-    "firstName": "Robert",
-    "lastName": "Malkin",
+    "name": "Robert Malkin",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "215"
   },
   {
-    "firstName": "Rayya",
-    "lastName": "Howard",
+    "name": "Rayya Howard",
     "gender": "Female",
     "weightClass": "30",
     "entryTotal": "55"
   },
   {
-    "firstName": "Piper",
-    "lastName": "Jones",
+    "name": "Piper Jones",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "120"
   },
   {
-    "firstName": "Sunrise",
-    "lastName": "de",
+    "name": "Sunrise de",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "116"
   },
   {
-    "firstName": "Adelyn",
-    "lastName": "Jones",
+    "name": "Adelyn Jones",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "0"
   },
   {
-    "firstName": "Kaydence",
-    "lastName": "Moss",
+    "name": "Kaydence Moss",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "110"
   },
   {
-    "firstName": "Natalie Jean",
-    "lastName": "Vezina",
+    "name": "Natalie Jean Vezina",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "140"
   },
   {
-    "firstName": "Tracy",
-    "lastName": "Wong",
+    "name": "Tracy Wong",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "0"
   },
   {
-    "firstName": "Bethany",
-    "lastName": "Farrar",
+    "name": "Bethany Farrar",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "130"
   },
   {
-    "firstName": "Jessica",
-    "lastName": "Cummings",
+    "name": "Jessica Cummings",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "140"
   },
   {
-    "firstName": "Julie",
-    "lastName": "Felix",
+    "name": "Julie Felix",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "149"
   },
   {
-    "firstName": "Lisa",
-    "lastName": "Bagby",
+    "name": "Lisa Bagby",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "134"
   },
   {
-    "firstName": "norelle",
-    "lastName": "justice",
+    "name": "norelle justice",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "170"
   },
   {
-    "firstName": "Mariah",
-    "lastName": "merkle",
+    "name": "Mariah merkle",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "177"
   },
   {
-    "firstName": "Christine",
-    "lastName": "Yee",
+    "name": "Christine Yee",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "185"
   },
   {
-    "firstName": "Gavin",
-    "lastName": "Burrows",
+    "name": "Gavin Burrows",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "100"
   },
   {
-    "firstName": "Sebastian",
-    "lastName": "Stodel",
+    "name": "Sebastian Stodel",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "217"
   },
   {
-    "firstName": "Nicholas",
-    "lastName": "Deshaies",
+    "name": "Nicholas Deshaies",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "210"
   },
   {
-    "firstName": "David",
-    "lastName": "Cormier",
+    "name": "David Cormier",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "240"
   },
   {
-    "firstName": "Dominic",
-    "lastName": "Montoya",
+    "name": "Dominic Montoya",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "255"
   },
   {
-    "firstName": "Joshua",
-    "lastName": "Cruz",
+    "name": "Joshua Cruz",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "295"
   },
   {
-    "firstName": "Maya",
-    "lastName": "Litt",
+    "name": "Maya Litt",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "109"
   },
   {
-    "firstName": "Marianna",
-    "lastName": "Marchese",
+    "name": "Marianna Marchese",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "127"
   },
   {
-    "firstName": "Ireland",
-    "lastName": "Grimes",
+    "name": "Ireland Grimes",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "161"
   },
   {
-    "firstName": "Tara",
-    "lastName": "Mann",
+    "name": "Tara Mann",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "131"
   },
   {
-    "firstName": "Chelsey",
-    "lastName": "Tharp",
+    "name": "Chelsey Tharp",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "180"
   },
   {
-    "firstName": "Rayna",
-    "lastName": "Matsuno",
+    "name": "Rayna Matsuno",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "110"
   },
   {
-    "firstName": "Amy",
-    "lastName": "Tunis",
+    "name": "Amy Tunis",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "160"
   },
   {
-    "firstName": "Lindsey",
-    "lastName": "Knight",
+    "name": "Lindsey Knight",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "151"
   },
   {
-    "firstName": "Nicole",
-    "lastName": "Rucker",
+    "name": "Nicole Rucker",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "187"
   },
   {
-    "firstName": "Melody",
-    "lastName": "Adair",
+    "name": "Melody Adair",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "190"
   },
   {
-    "firstName": "LeKiesha",
-    "lastName": "White",
+    "name": "LeKiesha White",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "200"
   },
   {
-    "firstName": "Jaeden",
-    "lastName": "Capito",
+    "name": "Jaeden Capito",
     "gender": "Male",
     "weightClass": "+102",
     "entryTotal": "260"
   },
   {
-    "firstName": "Romeo",
-    "lastName": "Thompson",
+    "name": "Romeo Thompson",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "240"
   },
   {
-    "firstName": "Kyle",
-    "lastName": "Martin",
+    "name": "Kyle Martin",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "309"
   },
   {
-    "firstName": "Jordan",
-    "lastName": "Jacobs",
+    "name": "Jordan Jacobs",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "265"
   },
   {
-    "firstName": "Derrick",
-    "lastName": "Lee",
+    "name": "Derrick Lee",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "180"
   },
   {
-    "firstName": "david",
-    "lastName": "tundel",
+    "name": "david tundel",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "200"
   },
   {
-    "firstName": "Marc",
-    "lastName": "Marquez",
+    "name": "Marc Marquez",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "280"
   },
   {
-    "firstName": "Tyler",
-    "lastName": "Siefke",
+    "name": "Tyler Siefke",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "292"
   },
   {
-    "firstName": "Colin",
-    "lastName": "Castagna",
+    "name": "Colin Castagna",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "320"
   },
   {
-    "firstName": "Lyla",
-    "lastName": "Sharp",
+    "name": "Lyla Sharp",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "105"
   },
   {
-    "firstName": "Makiyah",
-    "lastName": "Nickerson",
+    "name": "Makiyah Nickerson",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "180"
   },
   {
-    "firstName": "Amy",
-    "lastName": "Livingston",
+    "name": "Amy Livingston",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "106"
   },
   {
-    "firstName": "Anne",
-    "lastName": "Core",
+    "name": "Anne Core",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "120"
   },
   {
-    "firstName": "Jasmine",
-    "lastName": "Suguitan",
+    "name": "Jasmine Suguitan",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "150"
   },
   {
-    "firstName": "Martha",
-    "lastName": "Crain",
+    "name": "Martha Crain",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "131"
   },
   {
-    "firstName": "Eunice",
-    "lastName": "Rho",
+    "name": "Eunice Rho",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "155"
   },
   {
-    "firstName": "Kristin",
-    "lastName": "Maselli",
+    "name": "Kristin Maselli",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "140"
   },
   {
-    "firstName": "Rebecca",
-    "lastName": "Merino",
+    "name": "Rebecca Merino",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "155"
   },
   {
-    "firstName": "Heather",
-    "lastName": "Zrebiec",
+    "name": "Heather Zrebiec",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "142"
   },
   {
-    "firstName": "Emily",
-    "lastName": "Hubbard",
+    "name": "Emily Hubbard",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "130"
   },
   {
-    "firstName": "Sarah",
-    "lastName": "Tyler",
+    "name": "Sarah Tyler",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "195"
   },
   {
-    "firstName": "Marjorie",
-    "lastName": "Gottier",
+    "name": "Marjorie Gottier",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "161"
   },
   {
-    "firstName": "Jill",
-    "lastName": "Schuster",
+    "name": "Jill Schuster",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "74"
   },
   {
-    "firstName": "Gretchen",
-    "lastName": "Stolte",
+    "name": "Gretchen Stolte",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "185"
   },
   {
-    "firstName": "Logan",
-    "lastName": "Lockwood",
+    "name": "Logan Lockwood",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "250"
   },
   {
-    "firstName": "Brad",
-    "lastName": "Medley",
+    "name": "Brad Medley",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "215"
   },
   {
-    "firstName": "Brian",
-    "lastName": "Leung",
+    "name": "Brian Leung",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "210"
   },
   {
-    "firstName": "Christopher",
-    "lastName": "Gregg",
+    "name": "Christopher Gregg",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "196"
   },
   {
-    "firstName": "Teddy",
-    "lastName": "Perez",
+    "name": "Teddy Perez",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "290"
   },
   {
-    "firstName": "Raghad (Ray Ray)",
-    "lastName": "Alshwikhat",
+    "name": "Raghad (Ray Ray) Alshwikhat",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "90"
   },
   {
-    "firstName": "Kaitlyn",
-    "lastName": "Mardeusz",
+    "name": "Kaitlyn Mardeusz",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "120"
   },
   {
-    "firstName": "Brittany",
-    "lastName": "Mutton",
+    "name": "Brittany Mutton",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "133"
   },
   {
-    "firstName": "Lindsey",
-    "lastName": "Moynihan",
+    "name": "Lindsey Moynihan",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "118"
   },
   {
-    "firstName": "Amanda",
-    "lastName": "Feist",
+    "name": "Amanda Feist",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "173"
   },
   {
-    "firstName": "Kathleen",
-    "lastName": "Le",
+    "name": "Kathleen Le",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "140"
   },
   {
-    "firstName": "Lindsey",
-    "lastName": "Yeom",
+    "name": "Lindsey Yeom",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "166"
   },
   {
-    "firstName": "Xander",
-    "lastName": "Boese",
+    "name": "Xander Boese",
     "gender": "Male",
     "weightClass": "44",
     "entryTotal": "60"
   },
   {
-    "firstName": "Gavin",
-    "lastName": "Beach",
+    "name": "Gavin Beach",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "184"
   },
   {
-    "firstName": "Blake",
-    "lastName": "Dickison",
+    "name": "Blake Dickison",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "190"
   },
   {
-    "firstName": "Malaquias",
-    "lastName": "Coronado",
+    "name": "Malaquias Coronado",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "261"
   },
   {
-    "firstName": "Chris",
-    "lastName": "Johnson",
+    "name": "Chris Johnson",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "245"
   },
   {
-    "firstName": "Bryann",
-    "lastName": "Turner",
+    "name": "Bryann Turner",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "269"
   },
   {
-    "firstName": "Fred",
-    "lastName": "Macaraeg",
+    "name": "Fred Macaraeg",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "206"
   },
   {
-    "firstName": "Samuel",
-    "lastName": "Lind",
+    "name": "Samuel Lind",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "235"
   },
   {
-    "firstName": "Hutton",
-    "lastName": "Boles",
+    "name": "Hutton Boles",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "310"
   },
   {
-    "firstName": "Austin",
-    "lastName": "Davis",
+    "name": "Austin Davis",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "292"
   },
   {
-    "firstName": "Chase",
-    "lastName": "Durham",
+    "name": "Chase Durham",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "300"
   },
   {
-    "firstName": "Alexander",
-    "lastName": "Connery",
+    "name": "Alexander Connery",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "295"
   },
   {
-    "firstName": "Jordan",
-    "lastName": "Berroteran",
+    "name": "Jordan Berroteran",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "311"
   },
   {
-    "firstName": "Charlotte",
-    "lastName": "Sullivan",
+    "name": "Charlotte Sullivan",
     "gender": "Female",
     "weightClass": "40",
     "entryTotal": "62"
   },
   {
-    "firstName": "Danielle",
-    "lastName": "Do",
+    "name": "Danielle Do",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "87"
   },
   {
-    "firstName": "Kloe",
-    "lastName": "Beardsley",
+    "name": "Kloe Beardsley",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "100"
   },
   {
-    "firstName": "Stevie",
-    "lastName": "Majoros",
+    "name": "Stevie Majoros",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "120"
   },
   {
-    "firstName": "Addison",
-    "lastName": "Ruocco",
+    "name": "Addison Ruocco",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "139"
   },
   {
-    "firstName": "Erin",
-    "lastName": "Mena",
+    "name": "Erin Mena",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "150"
   },
   {
-    "firstName": "Amanda",
-    "lastName": "Roberts",
+    "name": "Amanda Roberts",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "185"
   },
   {
-    "firstName": "Rebecca",
-    "lastName": "Chow",
+    "name": "Rebecca Chow",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "120"
   },
   {
-    "firstName": "Angela",
-    "lastName": "Di",
+    "name": "Angela Di",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "130"
   },
   {
-    "firstName": "Kelly",
-    "lastName": "Garber",
+    "name": "Kelly Garber",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "95"
   },
   {
-    "firstName": "Allie",
-    "lastName": "Jarvis",
+    "name": "Allie Jarvis",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "195"
   },
   {
-    "firstName": "Chelsea",
-    "lastName": "Nieves",
+    "name": "Chelsea Nieves",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "180"
   },
   {
-    "firstName": "Denise",
-    "lastName": "Tam",
+    "name": "Denise Tam",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "200"
   },
   {
-    "firstName": "Haston",
-    "lastName": "Hill",
+    "name": "Haston Hill",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "235"
   },
   {
-    "firstName": "Luke",
-    "lastName": "Twardy",
+    "name": "Luke Twardy",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "250"
   },
   {
-    "firstName": "Chieh-Hsin",
-    "lastName": "You",
+    "name": "Chieh-Hsin You",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "260"
   },
   {
-    "firstName": "Oscar",
-    "lastName": "Fernandez",
+    "name": "Oscar Fernandez",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "235"
   },
   {
-    "firstName": "Jonathan",
-    "lastName": "Herrera",
+    "name": "Jonathan Herrera",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "220"
   },
   {
-    "firstName": "Lourence",
-    "lastName": "Cabantog",
+    "name": "Lourence Cabantog",
     "gender": "Male",
     "weightClass": "55",
     "entryTotal": "185"
   },
   {
-    "firstName": "Brayden",
-    "lastName": "Edman",
+    "name": "Brayden Edman",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "285"
   },
   {
-    "firstName": "Scarlet",
-    "lastName": "Ruiz",
+    "name": "Scarlet Ruiz",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "95"
   },
   {
-    "firstName": "Gabrielle",
-    "lastName": "Gutierrez",
+    "name": "Gabrielle Gutierrez",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "103"
   },
   {
-    "firstName": "Ireland",
-    "lastName": "OBrien",
+    "name": "Ireland OBrien",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "128"
   },
   {
-    "firstName": "danila",
-    "lastName": "tuazon",
+    "name": "danila tuazon",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "180"
   },
   {
-    "firstName": "Hayden",
-    "lastName": "Mentzer",
+    "name": "Hayden Mentzer",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "157"
   },
   {
-    "firstName": "Lisa",
-    "lastName": "Guadagnolo",
+    "name": "Lisa Guadagnolo",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "130"
   },
   {
-    "firstName": "Elaine",
-    "lastName": "Tsay",
+    "name": "Elaine Tsay",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "136"
   },
   {
-    "firstName": "Kimberly",
-    "lastName": "Andrew",
+    "name": "Kimberly Andrew",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "170"
   },
   {
-    "firstName": "Natalie",
-    "lastName": "Jonsson",
+    "name": "Natalie Jonsson",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "130"
   },
   {
-    "firstName": "Christina",
-    "lastName": "Girton",
+    "name": "Christina Girton",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "115"
   },
   {
-    "firstName": "Juliet",
-    "lastName": "Aguilar",
+    "name": "Juliet Aguilar",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "173"
   },
   {
-    "firstName": "Damian",
-    "lastName": "Guzman",
+    "name": "Damian Guzman",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "219"
   },
   {
-    "firstName": "David",
-    "lastName": "Evans",
+    "name": "David Evans",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "215"
   },
   {
-    "firstName": "Kieven",
-    "lastName": "Fischer",
+    "name": "Kieven Fischer",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "242"
   },
   {
-    "firstName": "Elias",
-    "lastName": "Hamp",
+    "name": "Elias Hamp",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "290"
   },
   {
-    "firstName": "John",
-    "lastName": "Ellison",
+    "name": "John Ellison",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "240"
   },
   {
-    "firstName": "Marady",
-    "lastName": "Chhun",
+    "name": "Marady Chhun",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "255"
   },
   {
-    "firstName": "Eric",
-    "lastName": "Chen",
+    "name": "Eric Chen",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "230"
   },
   {
-    "firstName": "Ivan",
-    "lastName": "Escott",
+    "name": "Ivan Escott",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "305"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "Cluff",
+    "name": "Jacob Cluff",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "313"
   },
   {
-    "firstName": "Payton",
-    "lastName": "Mangay-ayam",
+    "name": "Payton Mangay-ayam",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "163"
   },
   {
-    "firstName": "Wynter",
-    "lastName": "Montgomery",
+    "name": "Wynter Montgomery",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "143"
   },
   {
-    "firstName": "Ella",
-    "lastName": "Crane",
+    "name": "Ella Crane",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "155"
   },
   {
-    "firstName": "Kathryn",
-    "lastName": "North",
+    "name": "Kathryn North",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "125"
   },
   {
-    "firstName": "Kimberlee",
-    "lastName": "Douglas",
+    "name": "Kimberlee Douglas",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "205"
   },
   {
-    "firstName": "Sarah",
-    "lastName": "Campos",
+    "name": "Sarah Campos",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "140"
   },
   {
-    "firstName": "Chelsea",
-    "lastName": "Hopkins",
+    "name": "Chelsea Hopkins",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "155"
   },
   {
-    "firstName": "Susannah",
-    "lastName": "Perez",
+    "name": "Susannah Perez",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "100"
   },
   {
-    "firstName": "Kahla",
-    "lastName": "Hill",
+    "name": "Kahla Hill",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "160"
   },
   {
-    "firstName": "Rachel",
-    "lastName": "Clemmer",
+    "name": "Rachel Clemmer",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "177"
   },
   {
-    "firstName": "Connor",
-    "lastName": "Chan",
+    "name": "Connor Chan",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "235"
   },
   {
-    "firstName": "Jaime Inigo",
-    "lastName": "Flor",
+    "name": "Jaime Inigo Flor",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "210"
   },
   {
-    "firstName": "Jonathan",
-    "lastName": "Raymond",
+    "name": "Jonathan Raymond",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "250"
   },
   {
-    "firstName": "Daniel",
-    "lastName": "Brown",
+    "name": "Daniel Brown",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "259"
   },
   {
-    "firstName": "Douglas",
-    "lastName": "Desatnik",
+    "name": "Douglas Desatnik",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "170"
   },
   {
-    "firstName": "Kent",
-    "lastName": "Neuerburg",
+    "name": "Kent Neuerburg",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "169"
   },
   {
-    "firstName": "Jaimerius",
-    "lastName": "Williams",
+    "name": "Jaimerius Williams",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "330"
   },
   {
-    "firstName": "William",
-    "lastName": "Palumbo",
+    "name": "William Palumbo",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "296"
   },
   {
-    "firstName": "Ryan",
-    "lastName": "Lowrey",
+    "name": "Ryan Lowrey",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "298"
   },
   {
-    "firstName": "Norman",
-    "lastName": "Carreiro",
+    "name": "Norman Carreiro",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "285"
   },
   {
-    "firstName": "Layla",
-    "lastName": "Johnson",
+    "name": "Layla Johnson",
     "gender": "Female",
     "weightClass": "33",
     "entryTotal": "55"
   },
   {
-    "firstName": "Thevini",
-    "lastName": "Withana",
+    "name": "Thevini Withana",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "72"
   },
   {
-    "firstName": "Abigail",
-    "lastName": "Wunderlich",
+    "name": "Abigail Wunderlich",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "113"
   },
   {
-    "firstName": "Jaycee",
-    "lastName": "Mann",
+    "name": "Jaycee Mann",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "170"
   },
   {
-    "firstName": "Noelle",
-    "lastName": "Sallaz",
+    "name": "Noelle Sallaz",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "110"
   },
   {
-    "firstName": "Rachel",
-    "lastName": "Reiboldt",
+    "name": "Rachel Reiboldt",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "145"
   },
   {
-    "firstName": "TIA",
-    "lastName": "VANCE",
+    "name": "TIA VANCE",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "134"
   },
   {
-    "firstName": "Gwendolyn",
-    "lastName": "Montgomery",
+    "name": "Gwendolyn Montgomery",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "110"
   },
   {
-    "firstName": "Natasha",
-    "lastName": "Wunderlich",
+    "name": "Natasha Wunderlich",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "135"
   },
   {
-    "firstName": "Stephanie",
-    "lastName": "Ross",
+    "name": "Stephanie Ross",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "180"
   },
   {
-    "firstName": "Alexis",
-    "lastName": "Danchak",
+    "name": "Alexis Danchak",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "175"
   },
   {
-    "firstName": "Caitlin",
-    "lastName": "Thilges",
+    "name": "Caitlin Thilges",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "220"
   },
   {
-    "firstName": "Ryan",
-    "lastName": "Murphy",
+    "name": "Ryan Murphy",
     "gender": "Male",
     "weightClass": "+73",
     "entryTotal": "140"
   },
   {
-    "firstName": "Brian",
-    "lastName": "Hernandez",
+    "name": "Brian Hernandez",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "234"
   },
   {
-    "firstName": "Pablo",
-    "lastName": "Castillo",
+    "name": "Pablo Castillo",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "265"
   },
   {
-    "firstName": "Jason",
-    "lastName": "Dinius",
+    "name": "Jason Dinius",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "265"
   },
   {
-    "firstName": "Carlos",
-    "lastName": "Martinez",
+    "name": "Carlos Martinez",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "0"
   },
   {
-    "firstName": "Christopher",
-    "lastName": "Camenares",
+    "name": "Christopher Camenares",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "235"
   },
   {
-    "firstName": "Colton",
-    "lastName": "Risinger",
+    "name": "Colton Risinger",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "295"
   },
   {
-    "firstName": "James",
-    "lastName": "Tice",
+    "name": "James Tice",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "325"
   },
   {
-    "firstName": "Desirae",
-    "lastName": "Phoenix",
+    "name": "Desirae Phoenix",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "110"
   },
   {
-    "firstName": "Elizabeth",
-    "lastName": "Klinge",
+    "name": "Elizabeth Klinge",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "109"
   },
   {
-    "firstName": "Gigi",
-    "lastName": "Smith",
+    "name": "Gigi Smith",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "153"
   },
   {
-    "firstName": "Emma",
-    "lastName": "Heck",
+    "name": "Emma Heck",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "170"
   },
   {
-    "firstName": "Jane",
-    "lastName": "Miller",
+    "name": "Jane Miller",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "160"
   },
   {
-    "firstName": "Stephanie",
-    "lastName": "Giacalone",
+    "name": "Stephanie Giacalone",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "165"
   },
   {
-    "firstName": "Kelly",
-    "lastName": "Nichols",
+    "name": "Kelly Nichols",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "140"
   },
   {
-    "firstName": "Crystal",
-    "lastName": "Ball",
+    "name": "Crystal Ball",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "145"
   },
   {
-    "firstName": "Shannalyn",
-    "lastName": "West",
+    "name": "Shannalyn West",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "135"
   },
   {
-    "firstName": "Meghan",
-    "lastName": "Campion",
+    "name": "Meghan Campion",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "118"
   },
   {
-    "firstName": "Jennifer",
-    "lastName": "Valosek",
+    "name": "Jennifer Valosek",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "125"
   },
   {
-    "firstName": "Jamie",
-    "lastName": "Hegg",
+    "name": "Jamie Hegg",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "205"
   },
   {
-    "firstName": "Dominic",
-    "lastName": "Sanchez",
+    "name": "Dominic Sanchez",
     "gender": "Male",
     "weightClass": "36",
     "entryTotal": "50"
   },
   {
-    "firstName": "William",
-    "lastName": "Drake",
+    "name": "William Drake",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "180"
   },
   {
-    "firstName": "Christopher",
-    "lastName": "MCDONALD",
+    "name": "Christopher MCDONALD",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "187"
   },
   {
-    "firstName": "Manuel",
-    "lastName": "Kimmons",
+    "name": "Manuel Kimmons",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "280"
   },
   {
-    "firstName": "Erik",
-    "lastName": "Schreiber",
+    "name": "Erik Schreiber",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "251"
   },
   {
-    "firstName": "Alvin",
-    "lastName": "Matthews",
+    "name": "Alvin Matthews",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "110"
   },
   {
-    "firstName": "Jeffy",
-    "lastName": "Li",
+    "name": "Jeffy Li",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "280"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "Marks",
+    "name": "Jacob Marks",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "295"
   },
   {
-    "firstName": "Maryam",
-    "lastName": "Grafton",
+    "name": "Maryam Grafton",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "140"
   },
   {
-    "firstName": "Aleah",
-    "lastName": "Baron",
+    "name": "Aleah Baron",
     "gender": "Female",
     "weightClass": "+81",
     "entryTotal": "179"
   },
   {
-    "firstName": "Sophia",
-    "lastName": "Milian",
+    "name": "Sophia Milian",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "129"
   },
   {
-    "firstName": "Gracy",
-    "lastName": "Johnson",
+    "name": "Gracy Johnson",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "170"
   },
   {
-    "firstName": "Michaela",
-    "lastName": "Flaherty",
+    "name": "Michaela Flaherty",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "115"
   },
   {
-    "firstName": "Ashley",
-    "lastName": "Burnell",
+    "name": "Ashley Burnell",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "125"
   },
   {
-    "firstName": "Kathryn",
-    "lastName": "Flores",
+    "name": "Kathryn Flores",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "147"
   },
   {
-    "firstName": "Urbana",
-    "lastName": "Sepulveda",
+    "name": "Urbana Sepulveda",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "153"
   },
   {
-    "firstName": "Diana",
-    "lastName": "Thorne",
+    "name": "Diana Thorne",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "135"
   },
   {
-    "firstName": "Shannon",
-    "lastName": "Strzynski",
+    "name": "Shannon Strzynski",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "103"
   },
   {
-    "firstName": "Nicole",
-    "lastName": "Kennedy-Raymes",
+    "name": "Nicole Kennedy-Raymes",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "115"
   },
   {
-    "firstName": "Julia",
-    "lastName": "Ryan",
+    "name": "Julia Ryan",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "194"
   },
   {
-    "firstName": "David",
-    "lastName": "Grafton",
+    "name": "David Grafton",
     "gender": "Male",
     "weightClass": "36",
     "entryTotal": "75"
   },
   {
-    "firstName": "Cody",
-    "lastName": "Anderson",
+    "name": "Cody Anderson",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "145"
   },
   {
-    "firstName": "Nathan",
-    "lastName": "Cohen",
+    "name": "Nathan Cohen",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "220"
   },
   {
-    "firstName": "Christopher",
-    "lastName": "Douglas",
+    "name": "Christopher Douglas",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "260"
   },
   {
-    "firstName": "Gavin",
-    "lastName": "Hough",
+    "name": "Gavin Hough",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "260"
   },
   {
-    "firstName": "Michael",
-    "lastName": "Keating",
+    "name": "Michael Keating",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "160"
   },
   {
-    "firstName": "Javan",
-    "lastName": "Freyenberger",
+    "name": "Javan Freyenberger",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "275"
   },
   {
-    "firstName": "Barry",
-    "lastName": "Lewis",
+    "name": "Barry Lewis",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "110"
   },
   {
-    "firstName": "Reagan",
-    "lastName": "Herchold",
+    "name": "Reagan Herchold",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "110"
   },
   {
-    "firstName": "Charlee",
-    "lastName": "Meyer",
+    "name": "Charlee Meyer",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "70"
   },
   {
-    "firstName": "Jasmin",
-    "lastName": "Trinh",
+    "name": "Jasmin Trinh",
     "gender": "Female",
     "weightClass": "40",
     "entryTotal": "84"
   },
   {
-    "firstName": "Nina",
-    "lastName": "Pollack",
+    "name": "Nina Pollack",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "155"
   },
   {
-    "firstName": "Lauryn",
-    "lastName": "Ginsburg",
+    "name": "Lauryn Ginsburg",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "160"
   },
   {
-    "firstName": "Jenny",
-    "lastName": "Clouse",
+    "name": "Jenny Clouse",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "160"
   },
   {
-    "firstName": "Kaylin",
-    "lastName": "White",
+    "name": "Kaylin White",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "170"
   },
   {
-    "firstName": "Carly",
-    "lastName": "Puzacke",
+    "name": "Carly Puzacke",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "180"
   },
   {
-    "firstName": "Desmond",
-    "lastName": "Myles",
+    "name": "Desmond Myles",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "186"
   },
   {
-    "firstName": "Angel",
-    "lastName": "Quintero",
+    "name": "Angel Quintero",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "245"
   },
   {
-    "firstName": "Marcus",
-    "lastName": "Sweet",
+    "name": "Marcus Sweet",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "240"
   },
   {
-    "firstName": "Michael",
-    "lastName": "Davidge",
+    "name": "Michael Davidge",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "270"
   },
   {
-    "firstName": "Enzo",
-    "lastName": "Mancini",
+    "name": "Enzo Mancini",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "275"
   },
   {
-    "firstName": "Shamil",
-    "lastName": "Parbhoo",
+    "name": "Shamil Parbhoo",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "194"
   },
   {
-    "firstName": "Jason",
-    "lastName": "Bolton",
+    "name": "Jason Bolton",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "222"
   },
   {
-    "firstName": "Brandon",
-    "lastName": "Hocke",
+    "name": "Brandon Hocke",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "222"
   },
   {
-    "firstName": "Tony",
-    "lastName": "Lau",
+    "name": "Tony Lau",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "190"
   },
   {
-    "firstName": "Kevin",
-    "lastName": "Dittler",
+    "name": "Kevin Dittler",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "173"
   },
   {
-    "firstName": "William",
-    "lastName": "McClure",
+    "name": "William McClure",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "140"
   },
   {
-    "firstName": "Arron",
-    "lastName": "Tate",
+    "name": "Arron Tate",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "292"
   },
   {
-    "firstName": "Jaedyn",
-    "lastName": "Orton",
+    "name": "Jaedyn Orton",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "125"
   },
   {
-    "firstName": "Skylar",
-    "lastName": "Fernandes",
+    "name": "Skylar Fernandes",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "85"
   },
   {
-    "firstName": "Sara",
-    "lastName": "Donis",
+    "name": "Sara Donis",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "165"
   },
   {
-    "firstName": "brittany",
-    "lastName": "venzke",
+    "name": "brittany venzke",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "127"
   },
   {
-    "firstName": "Katrina",
-    "lastName": "Rasmussen",
+    "name": "Katrina Rasmussen",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "205"
   },
   {
-    "firstName": "Huyen-Lam",
-    "lastName": "Nguyen",
+    "name": "Huyen-Lam Nguyen",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "85"
   },
   {
-    "firstName": "Kelley",
-    "lastName": "Howell",
+    "name": "Kelley Howell",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "95"
   },
   {
-    "firstName": "Lenore",
-    "lastName": "Grijalva",
+    "name": "Lenore Grijalva",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "90"
   },
   {
-    "firstName": "Virginie",
-    "lastName": "Beljour",
+    "name": "Virginie Beljour",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "150"
   },
   {
-    "firstName": "Couger",
-    "lastName": "Jaramillo",
+    "name": "Couger Jaramillo",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "179"
   },
   {
-    "firstName": "Alexis",
-    "lastName": "Wolfe",
+    "name": "Alexis Wolfe",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "175"
   },
   {
-    "firstName": "MATTIE",
-    "lastName": "FLICKINGER",
+    "name": "MATTIE FLICKINGER",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "190"
   },
   {
-    "firstName": "Thea",
-    "lastName": "Wall",
+    "name": "Thea Wall",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "215"
   },
   {
-    "firstName": "Kaden",
-    "lastName": "Quick",
+    "name": "Kaden Quick",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "255"
   },
   {
-    "firstName": "Derick",
-    "lastName": "Puff",
+    "name": "Derick Puff",
     "gender": "Male",
     "weightClass": "55",
     "entryTotal": "170"
   },
   {
-    "firstName": "Justin",
-    "lastName": "Frimmel",
+    "name": "Justin Frimmel",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "250"
   },
   {
-    "firstName": "Andrew",
-    "lastName": "Pensko",
+    "name": "Andrew Pensko",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "250"
   },
   {
-    "firstName": "Keith",
-    "lastName": "Hicks",
+    "name": "Keith Hicks",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "255"
   },
   {
-    "firstName": "gabe",
-    "lastName": "chhum",
+    "name": "gabe chhum",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "270"
   },
   {
-    "firstName": "Nicolas",
-    "lastName": "Munro",
+    "name": "Nicolas Munro",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "296"
   },
   {
-    "firstName": "Paloma",
-    "lastName": "Milian",
+    "name": "Paloma Milian",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "52"
   },
   {
-    "firstName": "Nicoly",
-    "lastName": "Dos",
+    "name": "Nicoly Dos",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "104"
   },
   {
-    "firstName": "Zoey",
-    "lastName": "Morelli",
+    "name": "Zoey Morelli",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "130"
   },
   {
-    "firstName": "Patricia",
-    "lastName": "Bennett",
+    "name": "Patricia Bennett",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "150"
   },
   {
-    "firstName": "Carly",
-    "lastName": "Best",
+    "name": "Carly Best",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "188"
   },
   {
-    "firstName": "A. Isabelle",
-    "lastName": "Miller",
+    "name": "A. Isabelle Miller",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "135"
   },
   {
-    "firstName": "Katherine",
-    "lastName": "Brown",
+    "name": "Katherine Brown",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "154"
   },
   {
-    "firstName": "Sarah",
-    "lastName": "Hellwig",
+    "name": "Sarah Hellwig",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "150"
   },
   {
-    "firstName": "Makayla",
-    "lastName": "Cogan",
+    "name": "Makayla Cogan",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "140"
   },
   {
-    "firstName": "gretchen",
-    "lastName": "messner",
+    "name": "gretchen messner",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "170"
   },
   {
-    "firstName": "Bryn",
-    "lastName": "Odberg",
+    "name": "Bryn Odberg",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "200"
   },
   {
-    "firstName": "Teresa",
-    "lastName": "Kiel",
+    "name": "Teresa Kiel",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "186"
   },
   {
-    "firstName": "Faith",
-    "lastName": "Cooke",
+    "name": "Faith Cooke",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "165"
   },
   {
-    "firstName": "Jamelle",
-    "lastName": "Apolinar",
+    "name": "Jamelle Apolinar",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "196"
   },
   {
-    "firstName": "Chase",
-    "lastName": "Dooley",
+    "name": "Chase Dooley",
     "gender": "Male",
     "weightClass": "+102",
     "entryTotal": "228"
   },
   {
-    "firstName": "Brendan",
-    "lastName": "Giddings",
+    "name": "Brendan Giddings",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "250"
   },
   {
-    "firstName": "Daniel",
-    "lastName": "Louie",
+    "name": "Daniel Louie",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "175"
   },
   {
-    "firstName": "Charles",
-    "lastName": "Janicki",
+    "name": "Charles Janicki",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "170"
   },
   {
-    "firstName": "Steve",
-    "lastName": "Nicholls",
+    "name": "Steve Nicholls",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "230"
   },
   {
-    "firstName": "Howard",
-    "lastName": "Roche",
+    "name": "Howard Roche",
     "gender": "Male",
     "weightClass": "55",
     "entryTotal": "222"
   },
   {
-    "firstName": "Elle",
-    "lastName": "Bays",
+    "name": "Elle Bays",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "175"
   },
   {
-    "firstName": "Brianna",
-    "lastName": "Leverenz",
+    "name": "Brianna Leverenz",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "178"
   },
   {
-    "firstName": "Karisa",
-    "lastName": "Rossman",
+    "name": "Karisa Rossman",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "180"
   },
   {
-    "firstName": "Rebecca",
-    "lastName": "Murdoch",
+    "name": "Rebecca Murdoch",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "132"
   },
   {
-    "firstName": "Karen",
-    "lastName": "Agena",
+    "name": "Karen Agena",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "110"
   },
   {
-    "firstName": "Stephanie",
-    "lastName": "Geer",
+    "name": "Stephanie Geer",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "123"
   },
   {
-    "firstName": "maria",
-    "lastName": "shesiuk",
+    "name": "maria shesiuk",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "155"
   },
   {
-    "firstName": "Cherisse",
-    "lastName": "Taylor",
+    "name": "Cherisse Taylor",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "151"
   },
   {
-    "firstName": "Genessee",
-    "lastName": "Quizon",
+    "name": "Genessee Quizon",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "118"
   },
   {
-    "firstName": "Samantha",
-    "lastName": "Artiga",
+    "name": "Samantha Artiga",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "121"
   },
   {
-    "firstName": "Elizabeth",
-    "lastName": "Korchnak",
+    "name": "Elizabeth Korchnak",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "128"
   },
   {
-    "firstName": "Sandra",
-    "lastName": "Guterres",
+    "name": "Sandra Guterres",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "80"
   },
   {
-    "firstName": "Jasmine",
-    "lastName": "He",
+    "name": "Jasmine He",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "168"
   },
   {
-    "firstName": "Danielle",
-    "lastName": "Abusow",
+    "name": "Danielle Abusow",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "193"
   },
   {
-    "firstName": "Karlie",
-    "lastName": "Zumbro",
+    "name": "Karlie Zumbro",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "175"
   },
   {
-    "firstName": "Preston",
-    "lastName": "Sparks",
+    "name": "Preston Sparks",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "175"
   },
   {
-    "firstName": "James-David",
-    "lastName": "Dendy",
+    "name": "James-David Dendy",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "230"
   },
   {
-    "firstName": "Zachary",
-    "lastName": "Leach",
+    "name": "Zachary Leach",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "245"
   },
   {
-    "firstName": "glenn",
-    "lastName": "shull",
+    "name": "glenn shull",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "129"
   },
   {
-    "firstName": "Nick",
-    "lastName": "DeShane",
+    "name": "Nick DeShane",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "310"
   },
   {
-    "firstName": "Ellen",
-    "lastName": "Lehman",
+    "name": "Ellen Lehman",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "120"
   },
   {
-    "firstName": "Alyssa",
-    "lastName": "Hines",
+    "name": "Alyssa Hines",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "140"
   },
   {
-    "firstName": "Autumn",
-    "lastName": "Sands",
+    "name": "Autumn Sands",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "166"
   },
   {
-    "firstName": "Allison",
-    "lastName": "Rebustillo",
+    "name": "Allison Rebustillo",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "180"
   },
   {
-    "firstName": "Violeta",
-    "lastName": "Fernandez",
+    "name": "Violeta Fernandez",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "163"
   },
   {
-    "firstName": "Kailey",
-    "lastName": "Papas",
+    "name": "Kailey Papas",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "200"
   },
   {
-    "firstName": "Marissa",
-    "lastName": "Reeves",
+    "name": "Marissa Reeves",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "115"
   },
   {
-    "firstName": "Flo",
-    "lastName": "Ursua",
+    "name": "Flo Ursua",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "120"
   },
   {
-    "firstName": "Paula",
-    "lastName": "Habel",
+    "name": "Paula Habel",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "140"
   },
   {
-    "firstName": "DOLORES",
-    "lastName": "TRIVIZ",
+    "name": "DOLORES TRIVIZ",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "90"
   },
   {
-    "firstName": "Amanda",
-    "lastName": "Serapiglia",
+    "name": "Amanda Serapiglia",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "136"
   },
   {
-    "firstName": "emma",
-    "lastName": "sabini",
+    "name": "emma sabini",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "165"
   },
   {
-    "firstName": "Juliana",
-    "lastName": "Riotto",
+    "name": "Juliana Riotto",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "225"
   },
   {
-    "firstName": "Evan",
-    "lastName": "Gehret",
+    "name": "Evan Gehret",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "235"
   },
   {
-    "firstName": "Moses",
-    "lastName": "Corbell",
+    "name": "Moses Corbell",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "236"
   },
   {
-    "firstName": "Bryant",
-    "lastName": "Illenberg",
+    "name": "Bryant Illenberg",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "290"
   },
   {
-    "firstName": "Michael",
-    "lastName": "Burr",
+    "name": "Michael Burr",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "230"
   },
   {
-    "firstName": "Sid",
-    "lastName": "Florendo",
+    "name": "Sid Florendo",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "182"
   },
   {
-    "firstName": "George",
-    "lastName": "Averitt",
+    "name": "George Averitt",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "287"
   },
   {
-    "firstName": "Charles",
-    "lastName": "Shervheim",
+    "name": "Charles Shervheim",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "312"
   },
   {
-    "firstName": "Kyla",
-    "lastName": "Byron",
+    "name": "Kyla Byron",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "76"
   },
   {
-    "firstName": "Gianna",
-    "lastName": "Van",
+    "name": "Gianna Van",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "162"
   },
   {
-    "firstName": "Isabel",
-    "lastName": "Zach",
+    "name": "Isabel Zach",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "190"
   },
   {
-    "firstName": "Derien",
-    "lastName": "Pratt",
+    "name": "Derien Pratt",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "131"
   },
   {
-    "firstName": "Courtney",
-    "lastName": "Hanson",
+    "name": "Courtney Hanson",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "161"
   },
   {
-    "firstName": "Amy",
-    "lastName": "West",
+    "name": "Amy West",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "135"
   },
   {
-    "firstName": "Brigitte",
-    "lastName": "Bieyro",
+    "name": "Brigitte Bieyro",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "135"
   },
   {
-    "firstName": "Heather",
-    "lastName": "Thrush",
+    "name": "Heather Thrush",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "118"
   },
   {
-    "firstName": "Stacy",
-    "lastName": "Harrison",
+    "name": "Stacy Harrison",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "116"
   },
   {
-    "firstName": "Brenda",
-    "lastName": "Espinoza",
+    "name": "Brenda Espinoza",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "148"
   },
   {
-    "firstName": "Margaret",
-    "lastName": "binzer",
+    "name": "Margaret binzer",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "100"
   },
   {
-    "firstName": "Nicole",
-    "lastName": "Caamano",
+    "name": "Nicole Caamano",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "223"
   },
   {
-    "firstName": "Kelsey",
-    "lastName": "Koontz",
+    "name": "Kelsey Koontz",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "200"
   },
   {
-    "firstName": "Jamie",
-    "lastName": "Pearce",
+    "name": "Jamie Pearce",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "185"
   },
   {
-    "firstName": "Samuel",
-    "lastName": "Lewis",
+    "name": "Samuel Lewis",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "210"
   },
   {
-    "firstName": "David",
-    "lastName": "Bray",
+    "name": "David Bray",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "285"
   },
   {
-    "firstName": "Josue",
-    "lastName": "Castaneda",
+    "name": "Josue Castaneda",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "185"
   },
   {
-    "firstName": "Quinn",
-    "lastName": "Kashishian",
+    "name": "Quinn Kashishian",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "233"
   },
   {
-    "firstName": "Conner",
-    "lastName": "Sparks",
+    "name": "Conner Sparks",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "295"
   },
   {
-    "firstName": "Josh",
-    "lastName": "Brinkworth",
+    "name": "Josh Brinkworth",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "295"
   },
   {
-    "firstName": "Keilana",
-    "lastName": "Brewer",
+    "name": "Keilana Brewer",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "135"
   },
   {
-    "firstName": "Allie",
-    "lastName": "Nichols",
+    "name": "Allie Nichols",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "150"
   },
   {
-    "firstName": "Kate",
-    "lastName": "Reichelderfer",
+    "name": "Kate Reichelderfer",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "148"
   },
   {
-    "firstName": "Julie",
-    "lastName": "Mizak",
+    "name": "Julie Mizak",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "145"
   },
   {
-    "firstName": "Eun jung",
-    "lastName": "Koh",
+    "name": "Eun jung Koh",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "126"
   },
   {
-    "firstName": "Vicki",
-    "lastName": "Piper",
+    "name": "Vicki Piper",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "133"
   },
   {
-    "firstName": "Georgia",
-    "lastName": "Cameron",
+    "name": "Georgia Cameron",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "178"
   },
   {
-    "firstName": "Laura",
-    "lastName": "Cochran",
+    "name": "Laura Cochran",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "180"
   },
   {
-    "firstName": "Kha-Nhu",
-    "lastName": "Lam",
+    "name": "Kha-Nhu Lam",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "160"
   },
   {
-    "firstName": "Ava",
-    "lastName": "Biesterfeld",
+    "name": "Ava Biesterfeld",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "211"
   },
   {
-    "firstName": "Rachael",
-    "lastName": "Skinner",
+    "name": "Rachael Skinner",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "183"
   },
   {
-    "firstName": "Megan",
-    "lastName": "Munsell",
+    "name": "Megan Munsell",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "175"
   },
   {
-    "firstName": "Leanne",
-    "lastName": "Watson",
+    "name": "Leanne Watson",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "193"
   },
   {
-    "firstName": "Jenna",
-    "lastName": "McClain",
+    "name": "Jenna McClain",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "190"
   },
   {
-    "firstName": "Scott",
-    "lastName": "Gonzalez",
+    "name": "Scott Gonzalez",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "193"
   },
   {
-    "firstName": "Darren",
-    "lastName": "Scott",
+    "name": "Darren Scott",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "177"
   },
   {
-    "firstName": "Timothy",
-    "lastName": "Luistro",
+    "name": "Timothy Luistro",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "220"
   },
   {
-    "firstName": "Bobby",
-    "lastName": "Hill",
+    "name": "Bobby Hill",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "250"
   },
   {
-    "firstName": "Cameron",
-    "lastName": "Lee",
+    "name": "Cameron Lee",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "270"
   },
   {
-    "firstName": "Calvin",
-    "lastName": "Lackey",
+    "name": "Calvin Lackey",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "280"
   },
   {
-    "firstName": "Brooklynn",
-    "lastName": "Hoover",
+    "name": "Brooklynn Hoover",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "125"
   },
   {
-    "firstName": "madeline",
-    "lastName": "francescone",
+    "name": "madeline francescone",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "150"
   },
   {
-    "firstName": "Jane",
-    "lastName": "Levy",
+    "name": "Jane Levy",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "105"
   },
   {
-    "firstName": "Alexa",
-    "lastName": "Estevez",
+    "name": "Alexa Estevez",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "173"
   },
   {
-    "firstName": "Elouise",
-    "lastName": "Schultz",
+    "name": "Elouise Schultz",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "160"
   },
   {
-    "firstName": "Stephanie",
-    "lastName": "Langdon",
+    "name": "Stephanie Langdon",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "123"
   },
   {
-    "firstName": "Kendele",
-    "lastName": "Miyasaki",
+    "name": "Kendele Miyasaki",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "120"
   },
   {
-    "firstName": "Crysta",
-    "lastName": "Parkin",
+    "name": "Crysta Parkin",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "137"
   },
   {
-    "firstName": "Heather",
-    "lastName": "Krause",
+    "name": "Heather Krause",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "115"
   },
   {
-    "firstName": "Jenny",
-    "lastName": "Hwa",
+    "name": "Jenny Hwa",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "156"
   },
   {
-    "firstName": "Ana",
-    "lastName": "Kelly",
+    "name": "Ana Kelly",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "160"
   },
   {
-    "firstName": "Jeanna",
-    "lastName": "Mullen",
+    "name": "Jeanna Mullen",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "175"
   },
   {
-    "firstName": "Robert",
-    "lastName": "Whitlock",
+    "name": "Robert Whitlock",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "240"
   },
   {
-    "firstName": "Kason",
-    "lastName": "Luu",
+    "name": "Kason Luu",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "182"
   },
   {
-    "firstName": "Ryan",
-    "lastName": "McDonald",
+    "name": "Ryan McDonald",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "290"
   },
   {
-    "firstName": "Rucker",
-    "lastName": "Johnson",
+    "name": "Rucker Johnson",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "240"
   },
   {
-    "firstName": "Thomas",
-    "lastName": "Dubay",
+    "name": "Thomas Dubay",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "245"
   },
   {
-    "firstName": "Bryson",
-    "lastName": "Brown",
+    "name": "Bryson Brown",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "215"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "Howard",
+    "name": "Jacob Howard",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "212"
   },
   {
-    "firstName": "Christopher",
-    "lastName": "Hernandez",
+    "name": "Christopher Hernandez",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "267"
   },
   {
-    "firstName": "Aurora",
-    "lastName": "Garland",
+    "name": "Aurora Garland",
     "gender": "Female",
     "weightClass": "40",
     "entryTotal": "60"
   },
   {
-    "firstName": "Kaia",
-    "lastName": "Jacobs",
+    "name": "Kaia Jacobs",
     "gender": "Female",
     "weightClass": "+76",
     "entryTotal": "175"
   },
   {
-    "firstName": "Emily",
-    "lastName": "Green",
+    "name": "Emily Green",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "160"
   },
   {
-    "firstName": "Reagan",
-    "lastName": "Best",
+    "name": "Reagan Best",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "133"
   },
   {
-    "firstName": "Madi",
-    "lastName": "Muse",
+    "name": "Madi Muse",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "144"
   },
   {
-    "firstName": "Natalie",
-    "lastName": "Smith",
+    "name": "Natalie Smith",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "144"
   },
   {
-    "firstName": "Kelly",
-    "lastName": "Burrows",
+    "name": "Kelly Burrows",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "128"
   },
   {
-    "firstName": "Laura",
-    "lastName": "Caggiano",
+    "name": "Laura Caggiano",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "185"
   },
   {
-    "firstName": "Aleigh",
-    "lastName": "Moore",
+    "name": "Aleigh Moore",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "165"
   },
   {
-    "firstName": "Kayden",
-    "lastName": "Doherty",
+    "name": "Kayden Doherty",
     "gender": "Male",
     "weightClass": "44",
     "entryTotal": "70"
   },
   {
-    "firstName": "Andrew",
-    "lastName": "Weymer",
+    "name": "Andrew Weymer",
     "gender": "Male",
     "weightClass": "49",
     "entryTotal": "130"
   },
   {
-    "firstName": "Dylan",
-    "lastName": "Brown",
+    "name": "Dylan Brown",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "150"
   },
   {
-    "firstName": "Jack",
-    "lastName": "Green",
+    "name": "Jack Green",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "200"
   },
   {
-    "firstName": "Nahshon",
-    "lastName": "Paul",
+    "name": "Nahshon Paul",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "219"
   },
   {
-    "firstName": "Bryce",
-    "lastName": "Eberhardt",
+    "name": "Bryce Eberhardt",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "254"
   },
   {
-    "firstName": "Samuel",
-    "lastName": "Wainwright",
+    "name": "Samuel Wainwright",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "282"
   },
   {
-    "firstName": "William",
-    "lastName": "Wainwright",
+    "name": "William Wainwright",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "277"
   },
   {
-    "firstName": "cameron",
-    "lastName": "williams",
+    "name": "cameron williams",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "250"
   },
   {
-    "firstName": "Trevor",
-    "lastName": "Owens",
+    "name": "Trevor Owens",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "285"
   },
   {
-    "firstName": "Chrisanto",
-    "lastName": "D'Agostino",
+    "name": "Chrisanto D'Agostino",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "345"
   },
   {
-    "firstName": "Taylor",
-    "lastName": "Fife",
+    "name": "Taylor Fife",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "59"
   },
   {
-    "firstName": "Ayah",
-    "lastName": "Muhammad",
+    "name": "Ayah Muhammad",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "154"
   },
   {
-    "firstName": "Angelina",
-    "lastName": "Dabney",
+    "name": "Angelina Dabney",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "180"
   },
   {
-    "firstName": "Alyssa",
-    "lastName": "Jordan",
+    "name": "Alyssa Jordan",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "157"
   },
   {
-    "firstName": "Ivy",
-    "lastName": "Gunn",
+    "name": "Ivy Gunn",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "170"
   },
   {
-    "firstName": "Rubie",
-    "lastName": "Dobbins",
+    "name": "Rubie Dobbins",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "154"
   },
   {
-    "firstName": "Tristain",
-    "lastName": "Atwood",
+    "name": "Tristain Atwood",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "176"
   },
   {
-    "firstName": "Madison",
-    "lastName": "Atwood",
+    "name": "Madison Atwood",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "187"
   },
   {
-    "firstName": "Lillian",
-    "lastName": "Glueck",
+    "name": "Lillian Glueck",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "162"
   },
   {
-    "firstName": "Tracy",
-    "lastName": "Harris",
+    "name": "Tracy Harris",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "128"
   },
   {
-    "firstName": "Kathryn",
-    "lastName": "Rose",
+    "name": "Kathryn Rose",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "170"
   },
   {
-    "firstName": "Shelby",
-    "lastName": "Pflug",
+    "name": "Shelby Pflug",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "208"
   },
   {
-    "firstName": "Tiffany",
-    "lastName": "Roberts",
+    "name": "Tiffany Roberts",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "185"
   },
   {
-    "firstName": "Ava",
-    "lastName": "Oteri",
+    "name": "Ava Oteri",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "175"
   },
   {
-    "firstName": "Hector",
-    "lastName": "Garcia",
+    "name": "Hector Garcia",
     "gender": "Male",
     "weightClass": "44",
     "entryTotal": "63"
   },
   {
-    "firstName": "Dryden",
-    "lastName": "Yates",
+    "name": "Dryden Yates",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "180"
   },
   {
-    "firstName": "Trevor",
-    "lastName": "Kimm",
+    "name": "Trevor Kimm",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "335"
   },
   {
-    "firstName": "Scott",
-    "lastName": "Harris",
+    "name": "Scott Harris",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "302"
   },
   {
-    "firstName": "Tayon",
-    "lastName": "Vereen",
+    "name": "Tayon Vereen",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "360"
   },
   {
-    "firstName": "carlos",
-    "lastName": "gonzalez",
+    "name": "carlos gonzalez",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "315"
   },
   {
-    "firstName": "Eva",
-    "lastName": "Windsor",
+    "name": "Eva Windsor",
     "gender": "Female",
     "weightClass": "+76",
     "entryTotal": "135"
   },
   {
-    "firstName": "Natalia",
-    "lastName": "Frumker",
+    "name": "Natalia Frumker",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "118"
   },
   {
-    "firstName": "Catessa",
-    "lastName": "Guadagnoli",
+    "name": "Catessa Guadagnoli",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "174"
   },
   {
-    "firstName": "Susan",
-    "lastName": "Gerhard",
+    "name": "Susan Gerhard",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "101"
   },
   {
-    "firstName": "Lucy",
-    "lastName": "Lapane",
+    "name": "Lucy Lapane",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "144"
   },
   {
-    "firstName": "Lisa",
-    "lastName": "Ho",
+    "name": "Lisa Ho",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "185"
   },
   {
-    "firstName": "Erica",
-    "lastName": "Sheagley",
+    "name": "Erica Sheagley",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "177"
   },
   {
-    "firstName": "Andi",
-    "lastName": "Johnson",
+    "name": "Andi Johnson",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "180"
   },
   {
-    "firstName": "Haley",
-    "lastName": "McDaniel",
+    "name": "Haley McDaniel",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "200"
   },
   {
-    "firstName": "Carly",
-    "lastName": "Lansley",
+    "name": "Carly Lansley",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "201"
   },
   {
-    "firstName": "Trisha",
-    "lastName": "Ruyle",
+    "name": "Trisha Ruyle",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "200"
   },
   {
-    "firstName": "Jayden",
-    "lastName": "Whittaker",
+    "name": "Jayden Whittaker",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "155"
   },
   {
-    "firstName": "Harrison",
-    "lastName": "Phelps",
+    "name": "Harrison Phelps",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "205"
   },
   {
-    "firstName": "Ryan",
-    "lastName": "Hansen",
+    "name": "Ryan Hansen",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "280"
   },
   {
-    "firstName": "Shane",
-    "lastName": "Welter",
+    "name": "Shane Welter",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "220"
   },
   {
-    "firstName": "Morgan",
-    "lastName": "Rummel",
+    "name": "Morgan Rummel",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "284"
   },
   {
-    "firstName": "Jason",
-    "lastName": "Ryu",
+    "name": "Jason Ryu",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "243"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "Johnsson",
+    "name": "Jacob Johnsson",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "275"
   },
   {
-    "firstName": "Luke",
-    "lastName": "MacLennan",
+    "name": "Luke MacLennan",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "325"
   },
   {
-    "firstName": "Dimitri",
-    "lastName": "Albury",
+    "name": "Dimitri Albury",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "335"
   },
   {
-    "firstName": "Vivian",
-    "lastName": "Murray",
+    "name": "Vivian Murray",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "77"
   },
   {
-    "firstName": "Ellie",
-    "lastName": "Kichler",
+    "name": "Ellie Kichler",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "110"
   },
   {
-    "firstName": "Christabel Lily",
-    "lastName": "Graton",
+    "name": "Christabel Lily Graton",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "110"
   },
   {
-    "firstName": "Laney",
-    "lastName": "Yost",
+    "name": "Laney Yost",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "150"
   },
   {
-    "firstName": "Melinda",
-    "lastName": "Golden",
+    "name": "Melinda Golden",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "172"
   },
   {
-    "firstName": "Kathleen",
-    "lastName": "Hafeli",
+    "name": "Kathleen Hafeli",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "125"
   },
   {
-    "firstName": "Colleen",
-    "lastName": "Moon",
+    "name": "Colleen Moon",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "124"
   },
   {
-    "firstName": "Laura",
-    "lastName": "Barito",
+    "name": "Laura Barito",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "195"
   },
   {
-    "firstName": "Marion",
-    "lastName": "Meunier",
+    "name": "Marion Meunier",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "191"
   },
   {
-    "firstName": "Spencer",
-    "lastName": "Davern",
+    "name": "Spencer Davern",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "150"
   },
   {
-    "firstName": "Neil",
-    "lastName": "Fountain",
+    "name": "Neil Fountain",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "95"
   },
   {
-    "firstName": "Keegan",
-    "lastName": "McHale",
+    "name": "Keegan McHale",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "170"
   },
   {
-    "firstName": "Asher",
-    "lastName": "Fountain",
+    "name": "Asher Fountain",
     "gender": "Male",
     "weightClass": "+89",
     "entryTotal": "160"
   },
   {
-    "firstName": "Bryant",
-    "lastName": "Thomas",
+    "name": "Bryant Thomas",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "240"
   },
   {
-    "firstName": "Geoffrey",
-    "lastName": "Martin",
+    "name": "Geoffrey Martin",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "230"
   },
   {
-    "firstName": "Charles",
-    "lastName": "Arcario",
+    "name": "Charles Arcario",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "240"
   },
   {
-    "firstName": "Will",
-    "lastName": "Easley",
+    "name": "Will Easley",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "315"
   },
   {
-    "firstName": "Christopher",
-    "lastName": "Marquez",
+    "name": "Christopher Marquez",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "300"
   },
   {
-    "firstName": "Kaleb",
-    "lastName": "wendricks",
+    "name": "Kaleb wendricks",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "345"
   },
   {
-    "firstName": "David",
-    "lastName": "Jorge",
+    "name": "David Jorge",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "330"
   },
   {
-    "firstName": "Zoe",
-    "lastName": "Macias",
+    "name": "Zoe Macias",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "95"
   },
   {
-    "firstName": "Samantha",
-    "lastName": "Goodman",
+    "name": "Samantha Goodman",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "145"
   },
   {
-    "firstName": "Aimee",
-    "lastName": "Causby",
+    "name": "Aimee Causby",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "137"
   },
   {
-    "firstName": "Emily",
-    "lastName": "Lau",
+    "name": "Emily Lau",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "120"
   },
   {
-    "firstName": "Karisa",
-    "lastName": "Hoke",
+    "name": "Karisa Hoke",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "120"
   },
   {
-    "firstName": "Naoko",
-    "lastName": "Miyamoto",
+    "name": "Naoko Miyamoto",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "155"
   },
   {
-    "firstName": "Olivia",
-    "lastName": "Piacentini",
+    "name": "Olivia Piacentini",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "150"
   },
   {
-    "firstName": "Sarah",
-    "lastName": "Sarff",
+    "name": "Sarah Sarff",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "139"
   },
   {
-    "firstName": "Selena",
-    "lastName": "Cearley",
+    "name": "Selena Cearley",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "150"
   },
   {
-    "firstName": "Jennifer",
-    "lastName": "Miller",
+    "name": "Jennifer Miller",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "147"
   },
   {
-    "firstName": "Nataliya",
-    "lastName": "Malyutina",
+    "name": "Nataliya Malyutina",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "140"
   },
   {
-    "firstName": "Kathy",
-    "lastName": "Telfer",
+    "name": "Kathy Telfer",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "73"
   },
   {
-    "firstName": "Brandi",
-    "lastName": "Herring",
+    "name": "Brandi Herring",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "97"
   },
   {
-    "firstName": "Nairobi",
-    "lastName": "Romero",
+    "name": "Nairobi Romero",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "210"
   },
   {
-    "firstName": "Melissa",
-    "lastName": "Salazar",
+    "name": "Melissa Salazar",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "180"
   },
   {
-    "firstName": "Francesca",
-    "lastName": "Duncan",
+    "name": "Francesca Duncan",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "205"
   },
   {
-    "firstName": "Megan",
-    "lastName": "Kudrick",
+    "name": "Megan Kudrick",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "190"
   },
   {
-    "firstName": "Sarah",
-    "lastName": "Barnett",
+    "name": "Sarah Barnett",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "233"
   },
   {
-    "firstName": "Rowdy",
-    "lastName": "Cearley",
+    "name": "Rowdy Cearley",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "170"
   },
   {
-    "firstName": "Timur",
-    "lastName": "Kusov",
+    "name": "Timur Kusov",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "320"
   },
   {
-    "firstName": "Reagan",
-    "lastName": "Case",
+    "name": "Reagan Case",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "105"
   },
   {
-    "firstName": "Isabella",
-    "lastName": "Wray",
+    "name": "Isabella Wray",
     "gender": "Female",
     "weightClass": "+76",
     "entryTotal": "150"
   },
   {
-    "firstName": "Nevaeh",
-    "lastName": "Kellerman",
+    "name": "Nevaeh Kellerman",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "140"
   },
   {
-    "firstName": "Kat",
-    "lastName": "Carter",
+    "name": "Kat Carter",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "200"
   },
   {
-    "firstName": "Alyson",
-    "lastName": "Weidmann",
+    "name": "Alyson Weidmann",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "108"
   },
   {
-    "firstName": "Katelyn",
-    "lastName": "Curtis",
+    "name": "Katelyn Curtis",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "205"
   },
   {
-    "firstName": "Elyssabeth",
-    "lastName": "Beers",
+    "name": "Elyssabeth Beers",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "160"
   },
   {
-    "firstName": "Suzanne",
-    "lastName": "Evans",
+    "name": "Suzanne Evans",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "88"
   },
   {
-    "firstName": "Vicki",
-    "lastName": "Myers",
+    "name": "Vicki Myers",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "90"
   },
   {
-    "firstName": "Kayla",
-    "lastName": "Cocker",
+    "name": "Kayla Cocker",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "180"
   },
   {
-    "firstName": "Alexia",
-    "lastName": "Gonzalez",
+    "name": "Alexia Gonzalez",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "210"
   },
   {
-    "firstName": "Brianna",
-    "lastName": "Chu",
+    "name": "Brianna Chu",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "190"
   },
   {
-    "firstName": "Kristen",
-    "lastName": "Braccio",
+    "name": "Kristen Braccio",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "185"
   },
   {
-    "firstName": "Sebastian",
-    "lastName": "Rose",
+    "name": "Sebastian Rose",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "185"
   },
   {
-    "firstName": "Henry",
-    "lastName": "Ludbrook",
+    "name": "Henry Ludbrook",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "240"
   },
   {
-    "firstName": "Kaiden",
-    "lastName": "Mima",
+    "name": "Kaiden Mima",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "206"
   },
   {
-    "firstName": "James",
-    "lastName": "Braun",
+    "name": "James Braun",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "216"
   },
   {
-    "firstName": "Nathan",
-    "lastName": "Gonzaga",
+    "name": "Nathan Gonzaga",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "265"
   },
   {
-    "firstName": "Andre",
-    "lastName": "Sanchez",
+    "name": "Andre Sanchez",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "240"
   },
   {
-    "firstName": "Jabo",
-    "lastName": "Nguyen",
+    "name": "Jabo Nguyen",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "320"
   },
   {
-    "firstName": "Chassity",
-    "lastName": "Del",
+    "name": "Chassity Del",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "172"
   },
   {
-    "firstName": "Lilla",
-    "lastName": "Heath",
+    "name": "Lilla Heath",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "130"
   },
   {
-    "firstName": "Ansley",
-    "lastName": "Amore",
+    "name": "Ansley Amore",
     "gender": "Female",
     "weightClass": "+81",
     "entryTotal": "173"
   },
   {
-    "firstName": "Anna",
-    "lastName": "Rucker",
+    "name": "Anna Rucker",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "190"
   },
   {
-    "firstName": "Taylor",
-    "lastName": "Hedke",
+    "name": "Taylor Hedke",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "154"
   },
   {
-    "firstName": "Hayden",
-    "lastName": "Brandon",
+    "name": "Hayden Brandon",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "155"
   },
   {
-    "firstName": "Eve",
-    "lastName": "Goldsher",
+    "name": "Eve Goldsher",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "165"
   },
   {
-    "firstName": "Alise",
-    "lastName": "Enriquez",
+    "name": "Alise Enriquez",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "165"
   },
   {
-    "firstName": "Jessica",
-    "lastName": "Heberlein",
+    "name": "Jessica Heberlein",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "131"
   },
   {
-    "firstName": "Erin",
-    "lastName": "Nelson",
+    "name": "Erin Nelson",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "175"
   },
   {
-    "firstName": "Lauren",
-    "lastName": "Storck",
+    "name": "Lauren Storck",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "118"
   },
   {
-    "firstName": "Amy",
-    "lastName": "Hovan",
+    "name": "Amy Hovan",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "174"
   },
   {
-    "firstName": "Leigh-Ann",
-    "lastName": "Trepanier",
+    "name": "Leigh-Ann Trepanier",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "190"
   },
   {
-    "firstName": "Lauren",
-    "lastName": "Lee",
+    "name": "Lauren Lee",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "173"
   },
   {
-    "firstName": "Victoria",
-    "lastName": "Fries",
+    "name": "Victoria Fries",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "200"
   },
   {
-    "firstName": "Deborah",
-    "lastName": "Doran",
+    "name": "Deborah Doran",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "195"
   },
   {
-    "firstName": "Ezekiel",
-    "lastName": "Macias",
+    "name": "Ezekiel Macias",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "132"
   },
   {
-    "firstName": "James",
-    "lastName": "Dantoni",
+    "name": "James Dantoni",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "222"
   },
   {
-    "firstName": "freddie",
-    "lastName": "villanueva",
+    "name": "freddie villanueva",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "190"
   },
   {
-    "firstName": "Kyle",
-    "lastName": "Schulman",
+    "name": "Kyle Schulman",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "338"
   },
   {
-    "firstName": "Amelia",
-    "lastName": "Phillips",
+    "name": "Amelia Phillips",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "136"
   },
   {
-    "firstName": "Paige",
-    "lastName": "Hanchett",
+    "name": "Paige Hanchett",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "125"
   },
   {
-    "firstName": "Amanda",
-    "lastName": "Williams",
+    "name": "Amanda Williams",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "125"
   },
   {
-    "firstName": "Chelsea",
-    "lastName": "Rebholz",
+    "name": "Chelsea Rebholz",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "155"
   },
   {
-    "firstName": "Desiree",
-    "lastName": "Gonzalez",
+    "name": "Desiree Gonzalez",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "108"
   },
   {
-    "firstName": "Sarah",
-    "lastName": "Welsh",
+    "name": "Sarah Welsh",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "145"
   },
   {
-    "firstName": "Amanda",
-    "lastName": "Cann",
+    "name": "Amanda Cann",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "155"
   },
   {
-    "firstName": "Joelle",
-    "lastName": "Emery",
+    "name": "Joelle Emery",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "185"
   },
   {
-    "firstName": "Emma",
-    "lastName": "Hoffman",
+    "name": "Emma Hoffman",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "200"
   },
   {
-    "firstName": "Megan",
-    "lastName": "Brasee",
+    "name": "Megan Brasee",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "200"
   },
   {
-    "firstName": "Sarah",
-    "lastName": "Kajdasz",
+    "name": "Sarah Kajdasz",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "191"
   },
   {
-    "firstName": "Rachel",
-    "lastName": "Brindley",
+    "name": "Rachel Brindley",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "200"
   },
   {
-    "firstName": "Jeremy",
-    "lastName": "Gillihan",
+    "name": "Jeremy Gillihan",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "230"
   },
   {
-    "firstName": "Kendrick",
-    "lastName": "Parideu",
+    "name": "Kendrick Parideu",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "224"
   },
   {
-    "firstName": "Ronald",
-    "lastName": "Johnson",
+    "name": "Ronald Johnson",
     "gender": "Male",
     "weightClass": "55",
     "entryTotal": "73"
   },
   {
-    "firstName": "Kevin",
-    "lastName": "Sheehan",
+    "name": "Kevin Sheehan",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "277"
   },
   {
-    "firstName": "Ross",
-    "lastName": "Twanmoh",
+    "name": "Ross Twanmoh",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "246"
   },
   {
-    "firstName": "Troy",
-    "lastName": "Fries",
+    "name": "Troy Fries",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "320"
   },
   {
-    "firstName": "Jack",
-    "lastName": "Walbye",
+    "name": "Jack Walbye",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "285"
   },
   {
-    "firstName": "Alexander",
-    "lastName": "Souvall",
+    "name": "Alexander Souvall",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "260"
   },
   {
-    "firstName": "Kodi",
-    "lastName": "McBride",
+    "name": "Kodi McBride",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "143"
   },
   {
-    "firstName": "TIERANY",
-    "lastName": "LALLY",
+    "name": "TIERANY LALLY",
     "gender": "Female",
     "weightClass": "40",
     "entryTotal": "75"
   },
   {
-    "firstName": "Alani",
-    "lastName": "Rose",
+    "name": "Alani Rose",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "92"
   },
   {
-    "firstName": "Makenna",
-    "lastName": "Walker",
+    "name": "Makenna Walker",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "110"
   },
   {
-    "firstName": "Brynli",
-    "lastName": "McBride",
+    "name": "Brynli McBride",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "137"
   },
   {
-    "firstName": "Meagan",
-    "lastName": "Chisholm",
+    "name": "Meagan Chisholm",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "108"
   },
   {
-    "firstName": "Jennifer",
-    "lastName": "Houghton",
+    "name": "Jennifer Houghton",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "165"
   },
   {
-    "firstName": "Daisy May",
-    "lastName": "Gutierrez",
+    "name": "Daisy May Gutierrez",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "135"
   },
   {
-    "firstName": "Angie",
-    "lastName": "Cornejo",
+    "name": "Angie Cornejo",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "120"
   },
   {
-    "firstName": "Ambrea",
-    "lastName": "Watts",
+    "name": "Ambrea Watts",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "160"
   },
   {
-    "firstName": "Krisanne",
-    "lastName": "Driscoll",
+    "name": "Krisanne Driscoll",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "95"
   },
   {
-    "firstName": "Monica",
-    "lastName": "Parucho",
+    "name": "Monica Parucho",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "160"
   },
   {
-    "firstName": "Shay",
-    "lastName": "Carlock",
+    "name": "Shay Carlock",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "200"
   },
   {
-    "firstName": "Diego",
-    "lastName": "Cordero",
+    "name": "Diego Cordero",
     "gender": "Male",
     "weightClass": "49",
     "entryTotal": "144"
   },
   {
-    "firstName": "Jagarii",
-    "lastName": "Gardner",
+    "name": "Jagarii Gardner",
     "gender": "Male",
     "weightClass": "55",
     "entryTotal": "180"
   },
   {
-    "firstName": "Gabriel",
-    "lastName": "Couilloud",
+    "name": "Gabriel Couilloud",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "220"
   },
   {
-    "firstName": "Bryan",
-    "lastName": "Jow",
+    "name": "Bryan Jow",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "245"
   },
   {
-    "firstName": "Andrew",
-    "lastName": "Robinson",
+    "name": "Andrew Robinson",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "185"
   },
   {
-    "firstName": "Stephen",
-    "lastName": "Powell",
+    "name": "Stephen Powell",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "179"
   },
   {
-    "firstName": "Michael",
-    "lastName": "Banks",
+    "name": "Michael Banks",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "310"
   },
   {
-    "firstName": "Lily",
-    "lastName": "Ontiveros",
+    "name": "Lily Ontiveros",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "108"
   },
   {
-    "firstName": "Mackenzie",
-    "lastName": "Gaye'",
+    "name": "Mackenzie Gaye'",
     "gender": "Female",
     "weightClass": "+76",
     "entryTotal": "140"
   },
   {
-    "firstName": "Ashley",
-    "lastName": "Dvorin",
+    "name": "Ashley Dvorin",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "163"
   },
   {
-    "firstName": "Ashley",
-    "lastName": "Cronin",
+    "name": "Ashley Cronin",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "120"
   },
   {
-    "firstName": "Lindsay",
-    "lastName": "Perrizo",
+    "name": "Lindsay Perrizo",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "160"
   },
   {
-    "firstName": "Abby",
-    "lastName": "Boon",
+    "name": "Abby Boon",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "140"
   },
   {
-    "firstName": "Tiffany",
-    "lastName": "Gutknecht",
+    "name": "Tiffany Gutknecht",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "90"
   },
   {
-    "firstName": "Erica",
-    "lastName": "Blanton",
+    "name": "Erica Blanton",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "132"
   },
   {
-    "firstName": "Rachel",
-    "lastName": "Conaway",
+    "name": "Rachel Conaway",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "155"
   },
   {
-    "firstName": "Katherine",
-    "lastName": "Lee",
+    "name": "Katherine Lee",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "149"
   },
   {
-    "firstName": "Nicola",
-    "lastName": "Benfield",
+    "name": "Nicola Benfield",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "190"
   },
   {
-    "firstName": "Alicia",
-    "lastName": "DiSpaltro",
+    "name": "Alicia DiSpaltro",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "180"
   },
   {
-    "firstName": "Yuliana",
-    "lastName": "Lopez",
+    "name": "Yuliana Lopez",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "179"
   },
   {
-    "firstName": "Carley",
-    "lastName": "Graham",
+    "name": "Carley Graham",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "185"
   },
   {
-    "firstName": "Antonino",
-    "lastName": "Micela",
+    "name": "Antonino Micela",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "200"
   },
   {
-    "firstName": "Owen",
-    "lastName": "Jones",
+    "name": "Owen Jones",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "235"
   },
   {
-    "firstName": "Colby",
-    "lastName": "Mapps",
+    "name": "Colby Mapps",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "310"
   },
   {
-    "firstName": "Eugene",
-    "lastName": "Shem",
+    "name": "Eugene Shem",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "240"
   },
   {
-    "firstName": "Christian",
-    "lastName": "Tsakanikas",
+    "name": "Christian Tsakanikas",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "290"
   },
   {
-    "firstName": "Mateo",
-    "lastName": "Villa",
+    "name": "Mateo Villa",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "290"
   },
   {
-    "firstName": "Lilly",
-    "lastName": "Mullenaux",
+    "name": "Lilly Mullenaux",
     "gender": "Female",
     "weightClass": "36",
     "entryTotal": "65"
   },
   {
-    "firstName": "Evelyn",
-    "lastName": "Otis",
+    "name": "Evelyn Otis",
     "gender": "Female",
     "weightClass": "40",
     "entryTotal": "53"
   },
   {
-    "firstName": "Kaiya",
-    "lastName": "Blackhurst",
+    "name": "Kaiya Blackhurst",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "110"
   },
   {
-    "firstName": "Mahealani",
-    "lastName": "Mason",
+    "name": "Mahealani Mason",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "151"
   },
   {
-    "firstName": "Delaney",
-    "lastName": "Brown",
+    "name": "Delaney Brown",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "112"
   },
   {
-    "firstName": "Adia",
-    "lastName": "Tomlinson",
+    "name": "Adia Tomlinson",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "144"
   },
   {
-    "firstName": "Eleanor",
-    "lastName": "Otis",
+    "name": "Eleanor Otis",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "130"
   },
   {
-    "firstName": "Traci",
-    "lastName": "Beaune",
+    "name": "Traci Beaune",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "0"
   },
   {
-    "firstName": "Kristin",
-    "lastName": "Curd",
+    "name": "Kristin Curd",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "131"
   },
   {
-    "firstName": "Christine",
-    "lastName": "Moore",
+    "name": "Christine Moore",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "130"
   },
   {
-    "firstName": "Lisa",
-    "lastName": "Barrow",
+    "name": "Lisa Barrow",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "100"
   },
   {
-    "firstName": "Madison",
-    "lastName": "Johnston",
+    "name": "Madison Johnston",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "181"
   },
   {
-    "firstName": "Morgan",
-    "lastName": "Beattie",
+    "name": "Morgan Beattie",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "180"
   },
   {
-    "firstName": "Kayli",
-    "lastName": "Kullos",
+    "name": "Kayli Kullos",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "185"
   },
   {
-    "firstName": "Grayson",
-    "lastName": "Ibrahim",
+    "name": "Grayson Ibrahim",
     "gender": "Male",
     "weightClass": "32",
     "entryTotal": "45"
   },
   {
-    "firstName": "Ashton",
-    "lastName": "McAllister",
+    "name": "Ashton McAllister",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "140"
   },
   {
-    "firstName": "Evan",
-    "lastName": "Kniss",
+    "name": "Evan Kniss",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "216"
   },
   {
-    "firstName": "Andrew",
-    "lastName": "Raudabaugh",
+    "name": "Andrew Raudabaugh",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "250"
   },
   {
-    "firstName": "Jimmy",
-    "lastName": "Marquez",
+    "name": "Jimmy Marquez",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "320"
   },
   {
-    "firstName": "Cameron",
-    "lastName": "Fyffe",
+    "name": "Cameron Fyffe",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "310"
   },
   {
-    "firstName": "Sophia",
-    "lastName": "Hippelheuser",
+    "name": "Sophia Hippelheuser",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "84"
   },
   {
-    "firstName": "Brinlee",
-    "lastName": "Huber",
+    "name": "Brinlee Huber",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "110"
   },
   {
-    "firstName": "Carli",
-    "lastName": "McBride",
+    "name": "Carli McBride",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "140"
   },
   {
-    "firstName": "Grace",
-    "lastName": "Montgomery",
+    "name": "Grace Montgomery",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "185"
   },
   {
-    "firstName": "Talia",
-    "lastName": "Waugh",
+    "name": "Talia Waugh",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "135"
   },
   {
-    "firstName": "Elise",
-    "lastName": "Caron",
+    "name": "Elise Caron",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "163"
   },
   {
-    "firstName": "Amanda",
-    "lastName": "York",
+    "name": "Amanda York",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "120"
   },
   {
-    "firstName": "Carlyn",
-    "lastName": "Winston",
+    "name": "Carlyn Winston",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "174"
   },
   {
-    "firstName": "ALEXANDRIA",
-    "lastName": "Zikoyanis",
+    "name": "ALEXANDRIA Zikoyanis",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "105"
   },
   {
-    "firstName": "Janetta",
-    "lastName": "Lavender",
+    "name": "Janetta Lavender",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "120"
   },
   {
-    "firstName": "Angela",
-    "lastName": "Gallegos",
+    "name": "Angela Gallegos",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "170"
   },
   {
-    "firstName": "Elena",
-    "lastName": "Schorr",
+    "name": "Elena Schorr",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "0"
   },
   {
-    "firstName": "Estelle",
-    "lastName": "Rohr",
+    "name": "Estelle Rohr",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "225"
   },
   {
-    "firstName": "Nyah",
-    "lastName": "Namisnak",
+    "name": "Nyah Namisnak",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "175"
   },
   {
-    "firstName": "Anna",
-    "lastName": "McElderry",
+    "name": "Anna McElderry",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "225"
   },
   {
-    "firstName": "Victoria",
-    "lastName": "Jefferson",
+    "name": "Victoria Jefferson",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "215"
   },
   {
-    "firstName": "Kevin",
-    "lastName": "Hill",
+    "name": "Kevin Hill",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "265"
   },
   {
-    "firstName": "Brian",
-    "lastName": "Smarsh",
+    "name": "Brian Smarsh",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "300"
   },
   {
-    "firstName": "Benson",
-    "lastName": "Robles",
+    "name": "Benson Robles",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "320"
   },
   {
-    "firstName": "Andrew",
-    "lastName": "Guevara",
+    "name": "Andrew Guevara",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "310"
   },
   {
-    "firstName": "Macie",
-    "lastName": "Boast",
+    "name": "Macie Boast",
     "gender": "Female",
     "weightClass": "+64",
     "entryTotal": "95"
   },
   {
-    "firstName": "Josie",
-    "lastName": "Stenstrom",
+    "name": "Josie Stenstrom",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "100"
   },
   {
-    "firstName": "Jordan",
-    "lastName": "Nantz",
+    "name": "Jordan Nantz",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "160"
   },
   {
-    "firstName": "Molly",
-    "lastName": "Dorrance",
+    "name": "Molly Dorrance",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "110"
   },
   {
-    "firstName": "Rebekah",
-    "lastName": "Horn",
+    "name": "Rebekah Horn",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "135"
   },
   {
-    "firstName": "Torie",
-    "lastName": "Mathis",
+    "name": "Torie Mathis",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "103"
   },
   {
-    "firstName": "Tram",
-    "lastName": "Tran",
+    "name": "Tram Tran",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "153"
   },
   {
-    "firstName": "Jessica",
-    "lastName": "Rodriguez",
+    "name": "Jessica Rodriguez",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "166"
   },
   {
-    "firstName": "Samantha",
-    "lastName": "Ellison",
+    "name": "Samantha Ellison",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "175"
   },
   {
-    "firstName": "Marina",
-    "lastName": "Tuono",
+    "name": "Marina Tuono",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "180"
   },
   {
-    "firstName": "Kristen",
-    "lastName": "Erickson",
+    "name": "Kristen Erickson",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "210"
   },
   {
-    "firstName": "Rebecca",
-    "lastName": "Walker",
+    "name": "Rebecca Walker",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "210"
   },
   {
-    "firstName": "Roman",
-    "lastName": "Costa",
+    "name": "Roman Costa",
     "gender": "Male",
     "weightClass": "44",
     "entryTotal": "87"
   },
   {
-    "firstName": "Ciprian",
-    "lastName": "luna",
+    "name": "Ciprian luna",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "220"
   },
   {
-    "firstName": "Jesse",
-    "lastName": "Vezina",
+    "name": "Jesse Vezina",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "240"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "OConnor",
+    "name": "Jacob OConnor",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "275"
   },
   {
-    "firstName": "Connor",
-    "lastName": "Houghton",
+    "name": "Connor Houghton",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "285"
   },
   {
-    "firstName": "Spencer",
-    "lastName": "Dent",
+    "name": "Spencer Dent",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "285"
   },
   {
-    "firstName": "Morgan",
-    "lastName": "McCullough",
+    "name": "Morgan McCullough",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "340"
   },
   {
-    "firstName": "Zachary",
-    "lastName": "Huse",
+    "name": "Zachary Huse",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "340"
   },
   {
-    "firstName": "Briana",
-    "lastName": "DiCosmo",
+    "name": "Briana DiCosmo",
     "gender": "Female",
     "weightClass": "40",
     "entryTotal": "66"
   },
   {
-    "firstName": "Kinsley",
-    "lastName": "Rodden",
+    "name": "Kinsley Rodden",
     "gender": "Female",
     "weightClass": "+76",
     "entryTotal": "171"
   },
   {
-    "firstName": "Ruby",
-    "lastName": "Shepard",
+    "name": "Ruby Shepard",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "190"
   },
   {
-    "firstName": "Stephanie",
-    "lastName": "Jefferson",
+    "name": "Stephanie Jefferson",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "166"
   },
   {
-    "firstName": "Ashley",
-    "lastName": "Helton",
+    "name": "Ashley Helton",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "140"
   },
   {
-    "firstName": "Christina",
-    "lastName": "Lam",
+    "name": "Christina Lam",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "130"
   },
   {
-    "firstName": "Alice",
-    "lastName": "Bauer",
+    "name": "Alice Bauer",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "0"
   },
   {
-    "firstName": "Delores",
-    "lastName": "Hill",
+    "name": "Delores Hill",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "141"
   },
   {
-    "firstName": "Heather",
-    "lastName": "Mentone",
+    "name": "Heather Mentone",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "183"
   },
   {
-    "firstName": "Emily",
-    "lastName": "Shih",
+    "name": "Emily Shih",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "180"
   },
   {
-    "firstName": "Emily",
-    "lastName": "Boyich",
+    "name": "Emily Boyich",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "190"
   },
   {
-    "firstName": "Stefani",
-    "lastName": "Warnick",
+    "name": "Stefani Warnick",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "185"
   },
   {
-    "firstName": "Lily",
-    "lastName": "Turner",
+    "name": "Lily Turner",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "205"
   },
   {
-    "firstName": "Alexandria",
-    "lastName": "Fillmore",
+    "name": "Alexandria Fillmore",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "198"
   },
   {
-    "firstName": "Ryland",
-    "lastName": "Dutton",
+    "name": "Ryland Dutton",
     "gender": "Male",
     "weightClass": "49",
     "entryTotal": "85"
   },
   {
-    "firstName": "Aaron",
-    "lastName": "Denney",
+    "name": "Aaron Denney",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "245"
   },
   {
-    "firstName": "Jabari",
-    "lastName": "Prince",
+    "name": "Jabari Prince",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "282"
   },
   {
-    "firstName": "Cameron",
-    "lastName": "Dowling",
+    "name": "Cameron Dowling",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "245"
   },
   {
-    "firstName": "Aaron",
-    "lastName": "Nice",
+    "name": "Aaron Nice",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "340"
   },
   {
-    "firstName": "malek",
-    "lastName": "mousa",
+    "name": "malek mousa",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "310"
   },
   {
-    "firstName": "Addison",
-    "lastName": "Bell",
+    "name": "Addison Bell",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "150"
   },
   {
-    "firstName": "Caitlyn",
-    "lastName": "Ogami",
+    "name": "Caitlyn Ogami",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "147"
   },
   {
-    "firstName": "Tanya",
-    "lastName": "LaBell",
+    "name": "Tanya LaBell",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "160"
   },
   {
-    "firstName": "Deanna",
-    "lastName": "McGillivray",
+    "name": "Deanna McGillivray",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "190"
   },
   {
-    "firstName": "Stephanie",
-    "lastName": "Rosario",
+    "name": "Stephanie Rosario",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "155"
   },
   {
-    "firstName": "Kat",
-    "lastName": "Bogers",
+    "name": "Kat Bogers",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "145"
   },
   {
-    "firstName": "Jessica",
-    "lastName": "Gianardi",
+    "name": "Jessica Gianardi",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "155"
   },
   {
-    "firstName": "Emily",
-    "lastName": "Kessler-Lewis",
+    "name": "Emily Kessler-Lewis",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "200"
   },
   {
-    "firstName": "Matias",
-    "lastName": "Navarrete",
+    "name": "Matias Navarrete",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "145"
   },
   {
-    "firstName": "Isaiah",
-    "lastName": "Cunningham",
+    "name": "Isaiah Cunningham",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "180"
   },
   {
-    "firstName": "Frank",
-    "lastName": "Jimenez",
+    "name": "Frank Jimenez",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "230"
   },
   {
-    "firstName": "Elijah",
-    "lastName": "Rivera",
+    "name": "Elijah Rivera",
     "gender": "Male",
     "weightClass": "+102",
     "entryTotal": "228"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "Elder",
+    "name": "Jacob Elder",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "265"
   },
   {
-    "firstName": "Michael",
-    "lastName": "Tucciarone",
+    "name": "Michael Tucciarone",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "200"
   },
   {
-    "firstName": "Greg",
-    "lastName": "Karas",
+    "name": "Greg Karas",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "190"
   },
   {
-    "firstName": "Noah",
-    "lastName": "Ranno",
+    "name": "Noah Ranno",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "255"
   },
   {
-    "firstName": "Caleb",
-    "lastName": "Goodman",
+    "name": "Caleb Goodman",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "320"
   },
   {
-    "firstName": "Wyatt",
-    "lastName": "Coffey",
+    "name": "Wyatt Coffey",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "310"
   },
   {
-    "firstName": "Valera `",
-    "lastName": "Djaghouri",
+    "name": "Valera ` Djaghouri",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "290"
   },
   {
-    "firstName": "Russell",
-    "lastName": "Bowman",
+    "name": "Russell Bowman",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "340"
   },
   {
-    "firstName": "Chloe",
-    "lastName": "Desjardins",
+    "name": "Chloe Desjardins",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "130"
   },
   {
-    "firstName": "Allie",
-    "lastName": "Brink",
+    "name": "Allie Brink",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "142"
   },
   {
-    "firstName": "Alexandra",
-    "lastName": "Hibbs",
+    "name": "Alexandra Hibbs",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "125"
   },
   {
-    "firstName": "Penelope",
-    "lastName": "Desjardins",
+    "name": "Penelope Desjardins",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "144"
   },
   {
-    "firstName": "Ava",
-    "lastName": "Jackson",
+    "name": "Ava Jackson",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "138"
   },
   {
-    "firstName": "Colleen",
-    "lastName": "Maring",
+    "name": "Colleen Maring",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "132"
   },
   {
-    "firstName": "Ibis",
-    "lastName": "Loya",
+    "name": "Ibis Loya",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "145"
   },
   {
-    "firstName": "Deanna",
-    "lastName": "Johnson",
+    "name": "Deanna Johnson",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "80"
   },
   {
-    "firstName": "Gretchen",
-    "lastName": "Villa",
+    "name": "Gretchen Villa",
     "gender": "Female",
     "weightClass": "45",
     "entryTotal": "145"
   },
   {
-    "firstName": "Mikerline",
-    "lastName": "Apollon",
+    "name": "Mikerline Apollon",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "168"
   },
   {
-    "firstName": "Leah",
-    "lastName": "Smith",
+    "name": "Leah Smith",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "180"
   },
   {
-    "firstName": "Jes",
-    "lastName": "Franklin",
+    "name": "Jes Franklin",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "200"
   },
   {
-    "firstName": "Nixon",
-    "lastName": "Catalano",
+    "name": "Nixon Catalano",
     "gender": "Male",
     "weightClass": "32",
     "entryTotal": "45"
   },
   {
-    "firstName": "Santos",
-    "lastName": "Torres",
+    "name": "Santos Torres",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "178"
   },
   {
-    "firstName": "Cody",
-    "lastName": "Monsevais",
+    "name": "Cody Monsevais",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "270"
   },
   {
-    "firstName": "Nicholas",
-    "lastName": "Lee",
+    "name": "Nicholas Lee",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "235"
   },
   {
-    "firstName": "Gary",
-    "lastName": "Alinea",
+    "name": "Gary Alinea",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "170"
   },
   {
-    "firstName": "Troy",
-    "lastName": "Stange",
+    "name": "Troy Stange",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "180"
   },
   {
-    "firstName": "Tyler",
-    "lastName": "Schade",
+    "name": "Tyler Schade",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "326"
   },
   {
-    "firstName": "Adam",
-    "lastName": "White",
+    "name": "Adam White",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "300"
   },
   {
-    "firstName": "Nora",
-    "lastName": "Paoloni",
+    "name": "Nora Paoloni",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "95"
   },
   {
-    "firstName": "Ava",
-    "lastName": "Giorgi",
+    "name": "Ava Giorgi",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "170"
   },
   {
-    "firstName": "Elizabeth",
-    "lastName": "Hernandez",
+    "name": "Elizabeth Hernandez",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "141"
   },
   {
-    "firstName": "Rachel",
-    "lastName": "Jackson",
+    "name": "Rachel Jackson",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "116"
   },
   {
-    "firstName": "Kristin",
-    "lastName": "Roskowick",
+    "name": "Kristin Roskowick",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "170"
   },
   {
-    "firstName": "Anne",
-    "lastName": "Powell",
+    "name": "Anne Powell",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "110"
   },
   {
-    "firstName": "Miriam",
-    "lastName": "Smith",
+    "name": "Miriam Smith",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "80"
   },
   {
-    "firstName": "Kaziah",
-    "lastName": "Jones",
+    "name": "Kaziah Jones",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "174"
   },
   {
-    "firstName": "Christine",
-    "lastName": "Reilly",
+    "name": "Christine Reilly",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "183"
   },
   {
-    "firstName": "Flynn",
-    "lastName": "King",
+    "name": "Flynn King",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "190"
   },
   {
-    "firstName": "Carter",
-    "lastName": "Sing",
+    "name": "Carter Sing",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "240"
   },
   {
-    "firstName": "Ryan",
-    "lastName": "Cunningham",
+    "name": "Ryan Cunningham",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "210"
   },
   {
-    "firstName": "Antonio",
-    "lastName": "Marcus",
+    "name": "Antonio Marcus",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "219"
   },
   {
-    "firstName": "Douglas",
-    "lastName": "Perusso",
+    "name": "Douglas Perusso",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "227"
   },
   {
-    "firstName": "osagie",
-    "lastName": "iyamu",
+    "name": "osagie iyamu",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "217"
   },
   {
-    "firstName": "Jacob",
-    "lastName": "Flores",
+    "name": "Jacob Flores",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "240"
   },
   {
-    "firstName": "Dakota",
-    "lastName": "Hooper",
+    "name": "Dakota Hooper",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "280"
   },
   {
-    "firstName": "James",
-    "lastName": "Sayger",
+    "name": "James Sayger",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "260"
   },
   {
-    "firstName": "Xavier",
-    "lastName": "Borde",
+    "name": "Xavier Borde",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "350"
   },
   {
-    "firstName": "Daniel",
-    "lastName": "Russell",
+    "name": "Daniel Russell",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "305"
   },
   {
-    "firstName": "Brooklynn",
-    "lastName": "Vella",
+    "name": "Brooklynn Vella",
     "gender": "Female",
     "weightClass": "36",
     "entryTotal": "61"
   },
   {
-    "firstName": "Madeleine",
-    "lastName": "Maher",
+    "name": "Madeleine Maher",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "120"
   },
   {
-    "firstName": "Mya",
-    "lastName": "Lagares",
+    "name": "Mya Lagares",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "131"
   },
   {
-    "firstName": "Alexa",
-    "lastName": "Woodman",
+    "name": "Alexa Woodman",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "153"
   },
   {
-    "firstName": "Rebecca",
-    "lastName": "Dublin",
+    "name": "Rebecca Dublin",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "190"
   },
   {
-    "firstName": "Marissa",
-    "lastName": "Sterrett",
+    "name": "Marissa Sterrett",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "140"
   },
   {
-    "firstName": "Anna",
-    "lastName": "martin",
+    "name": "Anna martin",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "155"
   },
   {
-    "firstName": "Alice",
-    "lastName": "McBroom",
+    "name": "Alice McBroom",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "163"
   },
   {
-    "firstName": "Madeline",
-    "lastName": "Staniszewski",
+    "name": "Madeline Staniszewski",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "200"
   },
   {
-    "firstName": "anna",
-    "lastName": "maguire",
+    "name": "anna maguire",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "175"
   },
   {
-    "firstName": "Nathanael",
-    "lastName": "Maher",
+    "name": "Nathanael Maher",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "146"
   },
   {
-    "firstName": "Jackson",
-    "lastName": "Crane",
+    "name": "Jackson Crane",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "150"
   },
   {
-    "firstName": "Roy",
-    "lastName": "Maher",
+    "name": "Roy Maher",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "250"
   },
   {
-    "firstName": "Lane",
-    "lastName": "Stewart",
+    "name": "Lane Stewart",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "202"
   },
   {
-    "firstName": "Kyle",
-    "lastName": "Wilp",
+    "name": "Kyle Wilp",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "290"
   },
   {
-    "firstName": "Josh",
-    "lastName": "Purcell",
+    "name": "Josh Purcell",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "193"
   },
   {
-    "firstName": "John",
-    "lastName": "Gilleland",
+    "name": "John Gilleland",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "280"
   },
   {
-    "firstName": "Jeffrey",
-    "lastName": "Gerlach",
+    "name": "Jeffrey Gerlach",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "250"
   },
   {
-    "firstName": "Justin",
-    "lastName": "Perry",
+    "name": "Justin Perry",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "292"
   },
   {
-    "firstName": "Luke",
-    "lastName": "Shamberger",
+    "name": "Luke Shamberger",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "290"
   },
   {
-    "firstName": "Lila",
-    "lastName": "Mangan",
+    "name": "Lila Mangan",
     "gender": "Female",
     "weightClass": "40",
     "entryTotal": "76"
   },
   {
-    "firstName": "Madison",
-    "lastName": "Hatcher",
+    "name": "Madison Hatcher",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "105"
   },
   {
-    "firstName": "Payton",
-    "lastName": "Kramer",
+    "name": "Payton Kramer",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "115"
   },
   {
-    "firstName": "Areeya",
-    "lastName": "Draper",
+    "name": "Areeya Draper",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "102"
   },
   {
-    "firstName": "McKenzie",
-    "lastName": "Hatcher",
+    "name": "McKenzie Hatcher",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "175"
   },
   {
-    "firstName": "Jessica",
-    "lastName": "Walters",
+    "name": "Jessica Walters",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "155"
   },
   {
-    "firstName": "Joanna",
-    "lastName": "Mangiante",
+    "name": "Joanna Mangiante",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "90"
   },
   {
-    "firstName": "Christa",
-    "lastName": "Degidio",
+    "name": "Christa Degidio",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "151"
   },
   {
-    "firstName": "Tiffany",
-    "lastName": "Craven",
+    "name": "Tiffany Craven",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "190"
   },
   {
-    "firstName": "Jessica",
-    "lastName": "Tatman",
+    "name": "Jessica Tatman",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "180"
   },
   {
-    "firstName": "Robin",
-    "lastName": "Leafblad",
+    "name": "Robin Leafblad",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "195"
   },
   {
-    "firstName": "Harley",
-    "lastName": "Creech",
+    "name": "Harley Creech",
     "gender": "Female",
     "weightClass": "81",
     "entryTotal": "210"
   },
   {
-    "firstName": "Alex",
-    "lastName": "Rose",
+    "name": "Alex Rose",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "200"
   },
   {
-    "firstName": "Quinn",
-    "lastName": "Corcoran",
+    "name": "Quinn Corcoran",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "170"
   },
   {
-    "firstName": "Hampton",
-    "lastName": "Morris",
+    "name": "Hampton Morris",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "285"
   },
   {
-    "firstName": "Hunter",
-    "lastName": "Piasecki",
+    "name": "Hunter Piasecki",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "230"
   },
   {
-    "firstName": "Jonathan",
-    "lastName": "McHale",
+    "name": "Jonathan McHale",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "250"
   },
   {
-    "firstName": "Armando",
-    "lastName": "Ordonez",
+    "name": "Armando Ordonez",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "190"
   },
   {
-    "firstName": "Layne",
-    "lastName": "Palm",
+    "name": "Layne Palm",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "330"
   },
   {
-    "firstName": "Joshua",
-    "lastName": "Magee",
+    "name": "Joshua Magee",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "290"
   },
   {
-    "firstName": "Lei",
-    "lastName": "Prescott",
+    "name": "Lei Prescott",
     "gender": "Female",
     "weightClass": "+64",
     "entryTotal": "91"
   },
   {
-    "firstName": "Victoria",
-    "lastName": "Carter",
+    "name": "Victoria Carter",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "154"
   },
   {
-    "firstName": "Lexi",
-    "lastName": "Thomas",
+    "name": "Lexi Thomas",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "185"
   },
   {
-    "firstName": "Casandra",
-    "lastName": "Krier",
+    "name": "Casandra Krier",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "125"
   },
   {
-    "firstName": "Libby",
-    "lastName": "Elias",
+    "name": "Libby Elias",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "140"
   },
   {
-    "firstName": "Courtney",
-    "lastName": "Ihlenfeld",
+    "name": "Courtney Ihlenfeld",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "108"
   },
   {
-    "firstName": "Jamie",
-    "lastName": "Ancewicz",
+    "name": "Jamie Ancewicz",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "119"
   },
   {
-    "firstName": "Tovah",
-    "lastName": "Kjolsrud",
+    "name": "Tovah Kjolsrud",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "85"
   },
   {
-    "firstName": "DanaMarie",
-    "lastName": "Movsessian",
+    "name": "DanaMarie Movsessian",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "151"
   },
   {
-    "firstName": "Nile",
-    "lastName": "Franklin",
+    "name": "Nile Franklin",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "133"
   },
   {
-    "firstName": "Alexis",
-    "lastName": "Boutchie",
+    "name": "Alexis Boutchie",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "175"
   },
   {
-    "firstName": "Daniel",
-    "lastName": "Marquez",
+    "name": "Daniel Marquez",
     "gender": "Male",
     "weightClass": "67",
     "entryTotal": "240"
   },
   {
-    "firstName": "Holton",
-    "lastName": "Lowrie",
+    "name": "Holton Lowrie",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "225"
   },
   {
-    "firstName": "James",
-    "lastName": "Boesch",
+    "name": "James Boesch",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "231"
   },
   {
-    "firstName": "Rafael",
-    "lastName": "Oliver",
+    "name": "Rafael Oliver",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "250"
   },
   {
-    "firstName": "Kellan",
-    "lastName": "Bulman",
+    "name": "Kellan Bulman",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "235"
   },
   {
-    "firstName": "Victor",
-    "lastName": "Igtiben",
+    "name": "Victor Igtiben",
     "gender": "Male",
     "weightClass": "81",
     "entryTotal": "230"
   },
   {
-    "firstName": "Reginald",
-    "lastName": "Mays",
+    "name": "Reginald Mays",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "180"
   },
   {
-    "firstName": "Ethan",
-    "lastName": "Bowen",
+    "name": "Ethan Bowen",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "260"
   },
   {
-    "firstName": "Dustin",
-    "lastName": "Baranowski",
+    "name": "Dustin Baranowski",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "300"
   },
   {
-    "firstName": "Madison",
-    "lastName": "DiCosmo",
+    "name": "Madison DiCosmo",
     "gender": "Female",
     "weightClass": "30",
     "entryTotal": "43"
   },
   {
-    "firstName": "Hailey",
-    "lastName": "Ehlers",
+    "name": "Hailey Ehlers",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "85"
   },
   {
-    "firstName": "Kaya Malia",
-    "lastName": "Henn",
+    "name": "Kaya Malia Henn",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "124"
   },
   {
-    "firstName": "Ivy",
-    "lastName": "Weiss",
+    "name": "Ivy Weiss",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "95"
   },
   {
-    "firstName": "Ella",
-    "lastName": "Gamache",
+    "name": "Ella Gamache",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "105"
   },
   {
-    "firstName": "Kaylee",
-    "lastName": "Landa",
+    "name": "Kaylee Landa",
     "gender": "Female",
     "weightClass": "87",
     "entryTotal": "200"
   },
   {
-    "firstName": "Desirae",
-    "lastName": "Lyall",
+    "name": "Desirae Lyall",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "161"
   },
   {
-    "firstName": "Jacqueline Viola",
-    "lastName": "Moulton",
+    "name": "Jacqueline Viola Moulton",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "130"
   },
   {
-    "firstName": "Claire",
-    "lastName": "Vahary",
+    "name": "Claire Vahary",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "175"
   },
   {
-    "firstName": "Charis",
-    "lastName": "Chan",
+    "name": "Charis Chan",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "187"
   },
   {
-    "firstName": "Darci",
-    "lastName": "Molina",
+    "name": "Darci Molina",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "215"
   },
   {
-    "firstName": "Analise",
-    "lastName": "Kirby",
+    "name": "Analise Kirby",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "182"
   },
   {
-    "firstName": "Alisha",
-    "lastName": "Thresher",
+    "name": "Alisha Thresher",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "165"
   },
   {
-    "firstName": "Preston",
-    "lastName": "Chatman",
+    "name": "Preston Chatman",
     "gender": "Male",
     "weightClass": "55",
     "entryTotal": "77"
   },
   {
-    "firstName": "Jackson",
-    "lastName": "Leonard",
+    "name": "Jackson Leonard",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "260"
   },
   {
-    "firstName": "Douglas",
-    "lastName": "Herder",
+    "name": "Douglas Herder",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "128"
   },
   {
-    "firstName": "Michael",
-    "lastName": "Ziss",
+    "name": "Michael Ziss",
     "gender": "Male",
     "weightClass": "55",
     "entryTotal": "216"
   },
   {
-    "firstName": "Cory",
-    "lastName": "O'Connor",
+    "name": "Cory O'Connor",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "240"
   },
   {
-    "firstName": "Jason",
-    "lastName": "Pendergraph",
+    "name": "Jason Pendergraph",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "285"
   },
   {
-    "firstName": "Cesar",
-    "lastName": "Flores",
+    "name": "Cesar Flores",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "360"
   },
   {
-    "firstName": "Bristol",
-    "lastName": "Dixon",
+    "name": "Bristol Dixon",
     "gender": "Female",
     "weightClass": "+76",
     "entryTotal": "132"
   },
   {
-    "firstName": "Jayleen",
-    "lastName": "Sanchez",
+    "name": "Jayleen Sanchez",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "124"
   },
   {
-    "firstName": "Melina",
-    "lastName": "Rivera",
+    "name": "Melina Rivera",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "131"
   },
   {
-    "firstName": "Peyton",
-    "lastName": "Gunn",
+    "name": "Peyton Gunn",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "125"
   },
   {
-    "firstName": "Jessica",
-    "lastName": "Cruse",
+    "name": "Jessica Cruse",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "117"
   },
   {
-    "firstName": "Jessica",
-    "lastName": "Bachkora",
+    "name": "Jessica Bachkora",
     "gender": "Female",
     "weightClass": "76",
     "entryTotal": "180"
   },
   {
-    "firstName": "Lindsey",
-    "lastName": "Kujawski",
+    "name": "Lindsey Kujawski",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "135"
   },
   {
-    "firstName": "Denise",
-    "lastName": "Hopkins",
+    "name": "Denise Hopkins",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "90"
   },
   {
-    "firstName": "tiffany",
-    "lastName": "leung",
+    "name": "tiffany leung",
     "gender": "Female",
     "weightClass": "49",
     "entryTotal": "130"
   },
   {
-    "firstName": "Brena",
-    "lastName": "Andrews",
+    "name": "Brena Andrews",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "180"
   },
   {
-    "firstName": "Erin",
-    "lastName": "Amos",
+    "name": "Erin Amos",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "185"
   },
   {
-    "firstName": "Christian",
-    "lastName": "Figueroa",
+    "name": "Christian Figueroa",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "230"
   },
   {
-    "firstName": "Michael",
-    "lastName": "Tucciarone",
+    "name": "Michael Tucciarone",
     "gender": "Male",
     "weightClass": "61",
     "entryTotal": "190"
   },
   {
-    "firstName": "Colin",
-    "lastName": "Reis",
+    "name": "Colin Reis",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "320"
   },
   {
-    "firstName": "Eugene",
-    "lastName": "McDougall",
+    "name": "Eugene McDougall",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "220"
   },
   {
-    "firstName": "Dominique",
-    "lastName": "Laster",
+    "name": "Dominique Laster",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "300"
   },
   {
-    "firstName": "Isaac",
-    "lastName": "Cruz",
+    "name": "Isaac Cruz",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "260"
   },
   {
-    "firstName": "evan",
-    "lastName": "reinhart",
+    "name": "evan reinhart",
     "gender": "Male",
     "weightClass": "102",
     "entryTotal": "310"
   },
   {
-    "firstName": "Denali",
-    "lastName": "Scoular",
+    "name": "Denali Scoular",
     "gender": "Male",
     "weightClass": "109",
     "entryTotal": "310"
   },
   {
-    "firstName": "Matthew",
-    "lastName": "Naugle",
+    "name": "Matthew Naugle",
     "gender": "Male",
     "weightClass": "+109",
     "entryTotal": "345"
   },
   {
-    "firstName": "Maddi",
-    "lastName": "Landers",
+    "name": "Maddi Landers",
     "gender": "Female",
     "weightClass": "64",
     "entryTotal": "75"
   },
   {
-    "firstName": "shayla",
-    "lastName": "strickland",
+    "name": "shayla strickland",
     "gender": "Female",
     "weightClass": "55",
     "entryTotal": "99"
   },
   {
-    "firstName": "Anastasia",
-    "lastName": "Jimenez",
+    "name": "Anastasia Jimenez",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "140"
   },
   {
-    "firstName": "Issi Massei",
-    "lastName": "Agrait",
+    "name": "Issi Massei Agrait",
     "gender": "Female",
     "weightClass": "59",
     "entryTotal": "180"
   },
   {
-    "firstName": "Tracy",
-    "lastName": "Chase",
+    "name": "Tracy Chase",
     "gender": "Female",
     "weightClass": "71",
     "entryTotal": "164"
   },
   {
-    "firstName": "Megan",
-    "lastName": "Mathias",
+    "name": "Megan Mathias",
     "gender": "Female",
     "weightClass": "+87",
     "entryTotal": "139"
   },
   {
-    "firstName": "Erubey",
-    "lastName": "Garcia",
+    "name": "Erubey Garcia",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "145"
   },
   {
-    "firstName": "CJ",
-    "lastName": "Fernandez",
+    "name": "CJ Fernandez",
     "gender": "Male",
     "weightClass": "89",
     "entryTotal": "280"
   },
   {
-    "firstName": "Yomar Andres",
-    "lastName": "Lopez",
+    "name": "Yomar Andres Lopez",
     "gender": "Male",
     "weightClass": "96",
     "entryTotal": "305"
   },
   {
-    "firstName": "Martin",
-    "lastName": "Glenn-Adams",
+    "name": "Martin Glenn-Adams",
     "gender": "Male",
     "weightClass": "73",
     "entryTotal": "260"
