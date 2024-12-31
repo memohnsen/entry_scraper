@@ -51,10 +51,11 @@ async function scrapeWeightliftingData() {
                     }
                     const firstName = cells[1]?.textContent.trim();
                     const lastName = cells[2]?.textContent.trim().split(' ')[0];
+                    const gender = cells[7]?.textContent.trim();
+                    const weightClass = cells[9]?.textContent.trim();
                     return {
                         name: `${firstName} ${lastName}`,
-                        gender: cells[7]?.textContent.trim(),
-                        weightClass: cells[9]?.textContent.trim(),
+                        weightCategory: `${gender} ${weightClass}kg`,
                         entryTotal: cells[10]?.textContent.trim()
                     };
                 }).filter(entry => entry !== null);

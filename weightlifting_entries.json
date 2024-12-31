@@ -1,5222 +1,4352 @@
 [
   {
     "name": "Mikaella Bowens",
-    "gender": "Female",
-    "weightClass": "+64",
+    "weightCategory": "Female +64kg",
     "entryTotal": "97"
   },
   {
     "name": "Liliana Ray",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "100"
   },
   {
     "name": "Amber Lavigne-Bulman",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "127"
   },
   {
     "name": "Alexandra Tereszczenko",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "149"
   },
   {
     "name": "Olga Krzyszton",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "128"
   },
   {
     "name": "Mary Quigley",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "0"
   },
   {
     "name": "Beth Simon",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "170"
   },
   {
     "name": "LISA BAETE",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "165"
   },
   {
     "name": "Kristina Mohn",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "142"
   },
   {
     "name": "Ashley Yates",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "135"
   },
   {
     "name": "Vladislava Davydova",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "120"
   },
   {
     "name": "Jessica King",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "133"
   },
   {
     "name": "Lisa Talcott",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "128"
   },
   {
     "name": "Nadine Jones",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "95"
   },
   {
     "name": "Aria Zayed",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "141"
   },
   {
     "name": "Walker Stanley",
-    "gender": "Male",
-    "weightClass": "+73",
+    "weightCategory": "Male +73kg",
     "entryTotal": "180"
   },
   {
     "name": "Jacob Burk",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "261"
   },
   {
     "name": "Blake Foltz",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "240"
   },
   {
     "name": "Jurgen Martens",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "194"
   },
   {
     "name": "Jacob Brenza",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "315"
   },
   {
     "name": "Eleanor Cler",
-    "gender": "Female",
-    "weightClass": "+76",
+    "weightCategory": "Female +76kg",
     "entryTotal": "150"
   },
   {
     "name": "Kimberly Wiese",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "185"
   },
   {
     "name": "Jennifer Gerasimos",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "155"
   },
   {
     "name": "Minnie Copp",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "0"
   },
   {
     "name": "Samantha Chucka",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "159"
   },
   {
     "name": "Katherine Cirone",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "147"
   },
   {
     "name": "Catharine Messersmith",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "154"
   },
   {
     "name": "Jen Segadelli",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "130"
   },
   {
     "name": "Danielle Jorda",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "90"
   },
   {
     "name": "Kristina Teel",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "145"
   },
   {
     "name": "Beth DiFelice",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "85"
   },
   {
     "name": "Krista Dornbush",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "110"
   },
   {
     "name": "Chereese Creel",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "183"
   },
   {
     "name": "Brittany Panerali",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "176"
   },
   {
     "name": "Talley Halvorson",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "177"
   },
   {
     "name": "Sydney Collins",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "195"
   },
   {
     "name": "Joshua Claravall",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "210"
   },
   {
     "name": "Marc Tumamak",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "205"
   },
   {
     "name": "Eric Siegel",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "195"
   },
   {
     "name": "Jacob Echols",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "250"
   },
   {
     "name": "Dahlia Sokolow",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "106"
   },
   {
     "name": "Emily Paoloni",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "90"
   },
   {
     "name": "Kareema Salah",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "150"
   },
   {
     "name": "Julie Bachman",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "145"
   },
   {
     "name": "Vanessa Alfaro",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "138"
   },
   {
     "name": "Amy Herrera",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "95"
   },
   {
     "name": "Jennifer Sprague",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "95"
   },
   {
     "name": "Donna Peters",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "83"
   },
   {
     "name": "Barbara Rivers",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "46"
   },
   {
     "name": "Hayley Bell",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "177"
   },
   {
     "name": "Kayla Webb",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "160"
   },
   {
     "name": "Ashlie Pankonin",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "187"
   },
   {
     "name": "M. Claire Akin",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "186"
   },
   {
     "name": "liam gargan",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "134"
   },
   {
     "name": "Bryce Antonelli",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "195"
   },
   {
     "name": "Telesforo Dacanay",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "241"
   },
   {
     "name": "Tim Geiman",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "230"
   },
   {
     "name": "Jonathan Willmoth",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "180"
   },
   {
     "name": "Brad Baldwin",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "215"
   },
   {
     "name": "Robert Malkin",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "215"
   },
   {
     "name": "Rayya Howard",
-    "gender": "Female",
-    "weightClass": "30",
+    "weightCategory": "Female 30kg",
     "entryTotal": "55"
   },
   {
     "name": "Piper Jones",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "120"
   },
   {
     "name": "Sunrise de",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "116"
   },
   {
     "name": "Adelyn Jones",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "0"
   },
   {
     "name": "Kaydence Moss",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "110"
   },
   {
     "name": "Natalie Jean Vezina",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "140"
   },
   {
     "name": "Tracy Wong",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "0"
   },
   {
     "name": "Bethany Farrar",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "130"
   },
   {
     "name": "Jessica Cummings",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "140"
   },
   {
     "name": "Julie Felix",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "149"
   },
   {
     "name": "Lisa Bagby",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "134"
   },
   {
     "name": "norelle justice",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "170"
   },
   {
     "name": "Mariah merkle",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "177"
   },
   {
     "name": "Christine Yee",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "185"
   },
   {
     "name": "Gavin Burrows",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "100"
   },
   {
     "name": "Sebastian Stodel",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "217"
   },
   {
     "name": "Nicholas Deshaies",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "210"
   },
   {
     "name": "David Cormier",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "240"
   },
   {
     "name": "Dominic Montoya",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "255"
   },
   {
     "name": "Joshua Cruz",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "295"
   },
   {
     "name": "Maya Litt",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "109"
   },
   {
     "name": "Marianna Marchese",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "127"
   },
   {
     "name": "Ireland Grimes",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "161"
   },
   {
     "name": "Tara Mann",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "131"
   },
   {
     "name": "Chelsey Tharp",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "180"
   },
   {
     "name": "Rayna Matsuno",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "110"
   },
   {
     "name": "Amy Tunis",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "160"
   },
   {
     "name": "Lindsey Knight",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "151"
   },
   {
     "name": "Nicole Rucker",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "187"
   },
   {
     "name": "Melody Adair",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "190"
   },
   {
     "name": "LeKiesha White",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "200"
   },
   {
     "name": "Jaeden Capito",
-    "gender": "Male",
-    "weightClass": "+102",
+    "weightCategory": "Male +102kg",
     "entryTotal": "260"
   },
   {
     "name": "Romeo Thompson",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "240"
   },
   {
     "name": "Kyle Martin",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "309"
   },
   {
     "name": "Jordan Jacobs",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "265"
   },
   {
     "name": "Derrick Lee",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "180"
   },
   {
     "name": "david tundel",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "200"
   },
   {
     "name": "Marc Marquez",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "280"
   },
   {
     "name": "Tyler Siefke",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "292"
   },
   {
     "name": "Colin Castagna",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "320"
   },
   {
     "name": "Lyla Sharp",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "105"
   },
   {
     "name": "Makiyah Nickerson",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "180"
   },
   {
     "name": "Amy Livingston",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "106"
   },
   {
     "name": "Anne Core",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "120"
   },
   {
     "name": "Jasmine Suguitan",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "150"
   },
   {
     "name": "Martha Crain",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "131"
   },
   {
     "name": "Eunice Rho",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "155"
   },
   {
     "name": "Kristin Maselli",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "140"
   },
   {
     "name": "Rebecca Merino",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "155"
   },
   {
     "name": "Heather Zrebiec",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "142"
   },
   {
     "name": "Emily Hubbard",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "130"
   },
   {
     "name": "Sarah Tyler",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "195"
   },
   {
     "name": "Marjorie Gottier",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "161"
   },
   {
     "name": "Jill Schuster",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "74"
   },
   {
     "name": "Gretchen Stolte",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "185"
   },
   {
     "name": "Logan Lockwood",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "250"
   },
   {
     "name": "Brad Medley",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "215"
   },
   {
     "name": "Brian Leung",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "210"
   },
   {
     "name": "Christopher Gregg",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "196"
   },
   {
     "name": "Teddy Perez",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "290"
   },
   {
     "name": "Raghad (Ray Ray) Alshwikhat",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "90"
   },
   {
     "name": "Kaitlyn Mardeusz",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "120"
   },
   {
     "name": "Brittany Mutton",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "133"
   },
   {
     "name": "Lindsey Moynihan",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "118"
   },
   {
     "name": "Amanda Feist",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "173"
   },
   {
     "name": "Kathleen Le",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "140"
   },
   {
     "name": "Lindsey Yeom",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "166"
   },
   {
     "name": "Xander Boese",
-    "gender": "Male",
-    "weightClass": "44",
+    "weightCategory": "Male 44kg",
     "entryTotal": "60"
   },
   {
     "name": "Gavin Beach",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "184"
   },
   {
     "name": "Blake Dickison",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "190"
   },
   {
     "name": "Malaquias Coronado",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "261"
   },
   {
     "name": "Chris Johnson",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "245"
   },
   {
     "name": "Bryann Turner",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "269"
   },
   {
     "name": "Fred Macaraeg",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "206"
   },
   {
     "name": "Samuel Lind",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "235"
   },
   {
     "name": "Hutton Boles",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "310"
   },
   {
     "name": "Austin Davis",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "292"
   },
   {
     "name": "Chase Durham",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "300"
   },
   {
     "name": "Alexander Connery",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "295"
   },
   {
     "name": "Jordan Berroteran",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "311"
   },
   {
     "name": "Charlotte Sullivan",
-    "gender": "Female",
-    "weightClass": "40",
+    "weightCategory": "Female 40kg",
     "entryTotal": "62"
   },
   {
     "name": "Danielle Do",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "87"
   },
   {
     "name": "Kloe Beardsley",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "100"
   },
   {
     "name": "Stevie Majoros",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "120"
   },
   {
     "name": "Addison Ruocco",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "139"
   },
   {
     "name": "Erin Mena",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "150"
   },
   {
     "name": "Amanda Roberts",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "185"
   },
   {
     "name": "Rebecca Chow",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "120"
   },
   {
     "name": "Angela Di",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "130"
   },
   {
     "name": "Kelly Garber",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "95"
   },
   {
     "name": "Allie Jarvis",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "195"
   },
   {
     "name": "Chelsea Nieves",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "180"
   },
   {
     "name": "Denise Tam",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "200"
   },
   {
     "name": "Haston Hill",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "235"
   },
   {
     "name": "Luke Twardy",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "250"
   },
   {
     "name": "Chieh-Hsin You",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "260"
   },
   {
     "name": "Oscar Fernandez",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "235"
   },
   {
     "name": "Jonathan Herrera",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "220"
   },
   {
     "name": "Lourence Cabantog",
-    "gender": "Male",
-    "weightClass": "55",
+    "weightCategory": "Male 55kg",
     "entryTotal": "185"
   },
   {
     "name": "Brayden Edman",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "285"
   },
   {
     "name": "Scarlet Ruiz",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "95"
   },
   {
     "name": "Gabrielle Gutierrez",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "103"
   },
   {
     "name": "Ireland OBrien",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "128"
   },
   {
     "name": "danila tuazon",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "180"
   },
   {
     "name": "Hayden Mentzer",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "157"
   },
   {
     "name": "Lisa Guadagnolo",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "130"
   },
   {
     "name": "Elaine Tsay",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "136"
   },
   {
     "name": "Kimberly Andrew",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "170"
   },
   {
     "name": "Natalie Jonsson",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "130"
   },
   {
     "name": "Christina Girton",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "115"
   },
   {
     "name": "Juliet Aguilar",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "173"
   },
   {
     "name": "Damian Guzman",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "219"
   },
   {
     "name": "David Evans",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "215"
   },
   {
     "name": "Kieven Fischer",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "242"
   },
   {
     "name": "Elias Hamp",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "290"
   },
   {
     "name": "John Ellison",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "240"
   },
   {
     "name": "Marady Chhun",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "255"
   },
   {
     "name": "Eric Chen",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "230"
   },
   {
     "name": "Ivan Escott",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "305"
   },
   {
     "name": "Jacob Cluff",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "313"
   },
   {
     "name": "Payton Mangay-ayam",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "163"
   },
   {
     "name": "Wynter Montgomery",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "143"
   },
   {
     "name": "Ella Crane",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "155"
   },
   {
     "name": "Kathryn North",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "125"
   },
   {
     "name": "Kimberlee Douglas",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "205"
   },
   {
     "name": "Sarah Campos",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "140"
   },
   {
     "name": "Chelsea Hopkins",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "155"
   },
   {
     "name": "Susannah Perez",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "100"
   },
   {
     "name": "Kahla Hill",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "160"
   },
   {
     "name": "Rachel Clemmer",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "177"
   },
   {
     "name": "Connor Chan",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "235"
   },
   {
     "name": "Jaime Inigo Flor",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "210"
   },
   {
     "name": "Jonathan Raymond",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "250"
   },
   {
     "name": "Daniel Brown",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "259"
   },
   {
     "name": "Douglas Desatnik",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "170"
   },
   {
     "name": "Kent Neuerburg",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "169"
   },
   {
     "name": "Jaimerius Williams",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "330"
   },
   {
     "name": "William Palumbo",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "296"
   },
   {
     "name": "Ryan Lowrey",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "298"
   },
   {
     "name": "Norman Carreiro",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "285"
   },
   {
     "name": "Layla Johnson",
-    "gender": "Female",
-    "weightClass": "33",
+    "weightCategory": "Female 33kg",
     "entryTotal": "55"
   },
   {
     "name": "Thevini Withana",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "72"
   },
   {
     "name": "Abigail Wunderlich",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "113"
   },
   {
     "name": "Jaycee Mann",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "170"
   },
   {
     "name": "Noelle Sallaz",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "110"
   },
   {
     "name": "Rachel Reiboldt",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "145"
   },
   {
     "name": "TIA VANCE",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "134"
   },
   {
     "name": "Gwendolyn Montgomery",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "110"
   },
   {
     "name": "Natasha Wunderlich",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "135"
   },
   {
     "name": "Stephanie Ross",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "180"
   },
   {
     "name": "Alexis Danchak",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "175"
   },
   {
     "name": "Caitlin Thilges",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "220"
   },
   {
     "name": "Ryan Murphy",
-    "gender": "Male",
-    "weightClass": "+73",
+    "weightCategory": "Male +73kg",
     "entryTotal": "140"
   },
   {
     "name": "Brian Hernandez",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "234"
   },
   {
     "name": "Pablo Castillo",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "265"
   },
   {
     "name": "Jason Dinius",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "265"
   },
   {
     "name": "Carlos Martinez",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "0"
   },
   {
     "name": "Christopher Camenares",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "235"
   },
   {
     "name": "Colton Risinger",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "295"
   },
   {
     "name": "James Tice",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "325"
   },
   {
     "name": "Desirae Phoenix",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "110"
   },
   {
     "name": "Elizabeth Klinge",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "109"
   },
   {
     "name": "Gigi Smith",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "153"
   },
   {
     "name": "Emma Heck",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "170"
   },
   {
     "name": "Jane Miller",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "160"
   },
   {
     "name": "Stephanie Giacalone",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "165"
   },
   {
     "name": "Kelly Nichols",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "140"
   },
   {
     "name": "Crystal Ball",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "145"
   },
   {
     "name": "Shannalyn West",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "135"
   },
   {
     "name": "Meghan Campion",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "118"
   },
   {
     "name": "Jennifer Valosek",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "125"
   },
   {
     "name": "Jamie Hegg",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "205"
   },
   {
     "name": "Dominic Sanchez",
-    "gender": "Male",
-    "weightClass": "36",
+    "weightCategory": "Male 36kg",
     "entryTotal": "50"
   },
   {
     "name": "William Drake",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "180"
   },
   {
     "name": "Christopher MCDONALD",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "187"
   },
   {
     "name": "Manuel Kimmons",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "280"
   },
   {
     "name": "Erik Schreiber",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "251"
   },
   {
     "name": "Alvin Matthews",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "110"
   },
   {
     "name": "Jeffy Li",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "280"
   },
   {
     "name": "Jacob Marks",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "295"
   },
   {
     "name": "Maryam Grafton",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "140"
   },
   {
     "name": "Aleah Baron",
-    "gender": "Female",
-    "weightClass": "+81",
+    "weightCategory": "Female +81kg",
     "entryTotal": "179"
   },
   {
     "name": "Sophia Milian",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "129"
   },
   {
     "name": "Gracy Johnson",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "170"
   },
   {
     "name": "Michaela Flaherty",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "115"
   },
   {
     "name": "Ashley Burnell",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "125"
   },
   {
     "name": "Kathryn Flores",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "147"
   },
   {
     "name": "Urbana Sepulveda",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "153"
   },
   {
     "name": "Diana Thorne",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "135"
   },
   {
     "name": "Shannon Strzynski",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "103"
   },
   {
     "name": "Nicole Kennedy-Raymes",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "115"
   },
   {
     "name": "Julia Ryan",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "194"
   },
   {
     "name": "David Grafton",
-    "gender": "Male",
-    "weightClass": "36",
+    "weightCategory": "Male 36kg",
     "entryTotal": "75"
   },
   {
     "name": "Cody Anderson",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "145"
   },
   {
     "name": "Nathan Cohen",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "220"
   },
   {
     "name": "Christopher Douglas",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "260"
   },
   {
     "name": "Gavin Hough",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "260"
   },
   {
     "name": "Michael Keating",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "160"
   },
   {
     "name": "Javan Freyenberger",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "275"
   },
   {
     "name": "Barry Lewis",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "110"
   },
   {
     "name": "Reagan Herchold",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "110"
   },
   {
     "name": "Charlee Meyer",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "70"
   },
   {
     "name": "Jasmin Trinh",
-    "gender": "Female",
-    "weightClass": "40",
+    "weightCategory": "Female 40kg",
     "entryTotal": "84"
   },
   {
     "name": "Nina Pollack",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "155"
   },
   {
     "name": "Lauryn Ginsburg",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "160"
   },
   {
     "name": "Jenny Clouse",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "160"
   },
   {
     "name": "Kaylin White",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "170"
   },
   {
     "name": "Carly Puzacke",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "180"
   },
   {
     "name": "Desmond Myles",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "186"
   },
   {
     "name": "Angel Quintero",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "245"
   },
   {
     "name": "Marcus Sweet",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "240"
   },
   {
     "name": "Michael Davidge",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "270"
   },
   {
     "name": "Enzo Mancini",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "275"
   },
   {
     "name": "Shamil Parbhoo",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "194"
   },
   {
     "name": "Jason Bolton",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "222"
   },
   {
     "name": "Brandon Hocke",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "222"
   },
   {
     "name": "Tony Lau",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "190"
   },
   {
     "name": "Kevin Dittler",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "173"
   },
   {
     "name": "William McClure",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "140"
   },
   {
     "name": "Arron Tate",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "292"
   },
   {
     "name": "Jaedyn Orton",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "125"
   },
   {
     "name": "Skylar Fernandes",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "85"
   },
   {
     "name": "Sara Donis",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "165"
   },
   {
     "name": "brittany venzke",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "127"
   },
   {
     "name": "Katrina Rasmussen",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "205"
   },
   {
     "name": "Huyen-Lam Nguyen",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "85"
   },
   {
     "name": "Kelley Howell",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "95"
   },
   {
     "name": "Lenore Grijalva",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "90"
   },
   {
     "name": "Virginie Beljour",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "150"
   },
   {
     "name": "Couger Jaramillo",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "179"
   },
   {
     "name": "Alexis Wolfe",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "175"
   },
   {
     "name": "MATTIE FLICKINGER",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "190"
   },
   {
     "name": "Thea Wall",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "215"
   },
   {
     "name": "Kaden Quick",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "255"
   },
   {
     "name": "Derick Puff",
-    "gender": "Male",
-    "weightClass": "55",
+    "weightCategory": "Male 55kg",
     "entryTotal": "170"
   },
   {
     "name": "Justin Frimmel",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "250"
   },
   {
     "name": "Andrew Pensko",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "250"
   },
   {
     "name": "Keith Hicks",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "255"
   },
   {
     "name": "gabe chhum",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "270"
   },
   {
     "name": "Nicolas Munro",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "296"
   },
   {
     "name": "Paloma Milian",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "52"
   },
   {
     "name": "Nicoly Dos",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "104"
   },
   {
     "name": "Zoey Morelli",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "130"
   },
   {
     "name": "Patricia Bennett",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "150"
   },
   {
     "name": "Carly Best",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "188"
   },
   {
     "name": "A. Isabelle Miller",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "135"
   },
   {
     "name": "Katherine Brown",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "154"
   },
   {
     "name": "Sarah Hellwig",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "150"
   },
   {
     "name": "Makayla Cogan",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "140"
   },
   {
     "name": "gretchen messner",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "170"
   },
   {
     "name": "Bryn Odberg",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "200"
   },
   {
     "name": "Teresa Kiel",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "186"
   },
   {
     "name": "Faith Cooke",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "165"
   },
   {
     "name": "Jamelle Apolinar",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "196"
   },
   {
     "name": "Chase Dooley",
-    "gender": "Male",
-    "weightClass": "+102",
+    "weightCategory": "Male +102kg",
     "entryTotal": "228"
   },
   {
     "name": "Brendan Giddings",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "250"
   },
   {
     "name": "Daniel Louie",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "175"
   },
   {
     "name": "Charles Janicki",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "170"
   },
   {
     "name": "Steve Nicholls",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "230"
   },
   {
     "name": "Howard Roche",
-    "gender": "Male",
-    "weightClass": "55",
+    "weightCategory": "Male 55kg",
     "entryTotal": "222"
   },
   {
     "name": "Elle Bays",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "175"
   },
   {
     "name": "Brianna Leverenz",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "178"
   },
   {
     "name": "Karisa Rossman",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "180"
   },
   {
     "name": "Rebecca Murdoch",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "132"
   },
   {
     "name": "Karen Agena",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "110"
   },
   {
     "name": "Stephanie Geer",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "123"
   },
   {
     "name": "maria shesiuk",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "155"
   },
   {
     "name": "Cherisse Taylor",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "151"
   },
   {
     "name": "Genessee Quizon",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "118"
   },
   {
     "name": "Samantha Artiga",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "121"
   },
   {
     "name": "Elizabeth Korchnak",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "128"
   },
   {
     "name": "Sandra Guterres",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "80"
   },
   {
     "name": "Jasmine He",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "168"
   },
   {
     "name": "Danielle Abusow",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "193"
   },
   {
     "name": "Karlie Zumbro",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "175"
   },
   {
     "name": "Preston Sparks",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "175"
   },
   {
     "name": "James-David Dendy",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "230"
   },
   {
     "name": "Zachary Leach",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "245"
   },
   {
     "name": "glenn shull",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "129"
   },
   {
     "name": "Nick DeShane",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "310"
   },
   {
     "name": "Ellen Lehman",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "120"
   },
   {
     "name": "Alyssa Hines",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "140"
   },
   {
     "name": "Autumn Sands",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "166"
   },
   {
     "name": "Allison Rebustillo",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "180"
   },
   {
     "name": "Violeta Fernandez",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "163"
   },
   {
     "name": "Kailey Papas",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "200"
   },
   {
     "name": "Marissa Reeves",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "115"
   },
   {
     "name": "Flo Ursua",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "120"
   },
   {
     "name": "Paula Habel",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "140"
   },
   {
     "name": "DOLORES TRIVIZ",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "90"
   },
   {
     "name": "Amanda Serapiglia",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "136"
   },
   {
     "name": "emma sabini",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "165"
   },
   {
     "name": "Juliana Riotto",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "225"
   },
   {
     "name": "Evan Gehret",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "235"
   },
   {
     "name": "Moses Corbell",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "236"
   },
   {
     "name": "Bryant Illenberg",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "290"
   },
   {
     "name": "Michael Burr",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "230"
   },
   {
     "name": "Sid Florendo",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "182"
   },
   {
     "name": "George Averitt",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "287"
   },
   {
     "name": "Charles Shervheim",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "312"
   },
   {
     "name": "Kyla Byron",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "76"
   },
   {
     "name": "Gianna Van",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "162"
   },
   {
     "name": "Isabel Zach",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "190"
   },
   {
     "name": "Derien Pratt",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "131"
   },
   {
     "name": "Courtney Hanson",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "161"
   },
   {
     "name": "Amy West",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "135"
   },
   {
     "name": "Brigitte Bieyro",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "135"
   },
   {
     "name": "Heather Thrush",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "118"
   },
   {
     "name": "Stacy Harrison",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "116"
   },
   {
     "name": "Brenda Espinoza",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "148"
   },
   {
     "name": "Margaret binzer",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "100"
   },
   {
     "name": "Nicole Caamano",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "223"
   },
   {
     "name": "Kelsey Koontz",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "200"
   },
   {
     "name": "Jamie Pearce",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "185"
   },
   {
     "name": "Samuel Lewis",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "210"
   },
   {
     "name": "David Bray",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "285"
   },
   {
     "name": "Josue Castaneda",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "185"
   },
   {
     "name": "Quinn Kashishian",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "233"
   },
   {
     "name": "Conner Sparks",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "295"
   },
   {
     "name": "Josh Brinkworth",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "295"
   },
   {
     "name": "Keilana Brewer",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "135"
   },
   {
     "name": "Allie Nichols",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "150"
   },
   {
     "name": "Kate Reichelderfer",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "148"
   },
   {
     "name": "Julie Mizak",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "145"
   },
   {
     "name": "Eun jung Koh",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "126"
   },
   {
     "name": "Vicki Piper",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "133"
   },
   {
     "name": "Georgia Cameron",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "178"
   },
   {
     "name": "Laura Cochran",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "180"
   },
   {
     "name": "Kha-Nhu Lam",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "160"
   },
   {
     "name": "Ava Biesterfeld",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "211"
   },
   {
     "name": "Rachael Skinner",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "183"
   },
   {
     "name": "Megan Munsell",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "175"
   },
   {
     "name": "Leanne Watson",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "193"
   },
   {
     "name": "Jenna McClain",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "190"
   },
   {
     "name": "Scott Gonzalez",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "193"
   },
   {
     "name": "Darren Scott",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "177"
   },
   {
     "name": "Timothy Luistro",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "220"
   },
   {
     "name": "Bobby Hill",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "250"
   },
   {
     "name": "Cameron Lee",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "270"
   },
   {
     "name": "Calvin Lackey",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "280"
   },
   {
     "name": "Brooklynn Hoover",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "125"
   },
   {
     "name": "madeline francescone",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "150"
   },
   {
     "name": "Jane Levy",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "105"
   },
   {
     "name": "Alexa Estevez",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "173"
   },
   {
     "name": "Elouise Schultz",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "160"
   },
   {
     "name": "Stephanie Langdon",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "123"
   },
   {
     "name": "Kendele Miyasaki",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "120"
   },
   {
     "name": "Crysta Parkin",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "137"
   },
   {
     "name": "Heather Krause",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "115"
   },
   {
     "name": "Jenny Hwa",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "156"
   },
   {
     "name": "Ana Kelly",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "160"
   },
   {
     "name": "Jeanna Mullen",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "175"
   },
   {
     "name": "Robert Whitlock",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "240"
   },
   {
     "name": "Kason Luu",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "182"
   },
   {
     "name": "Ryan McDonald",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "290"
   },
   {
     "name": "Rucker Johnson",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "240"
   },
   {
     "name": "Thomas Dubay",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "245"
   },
   {
     "name": "Bryson Brown",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "215"
   },
   {
     "name": "Jacob Howard",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "212"
   },
   {
     "name": "Christopher Hernandez",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "267"
   },
   {
     "name": "Aurora Garland",
-    "gender": "Female",
-    "weightClass": "40",
+    "weightCategory": "Female 40kg",
     "entryTotal": "60"
   },
   {
     "name": "Kaia Jacobs",
-    "gender": "Female",
-    "weightClass": "+76",
+    "weightCategory": "Female +76kg",
     "entryTotal": "175"
   },
   {
     "name": "Emily Green",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "160"
   },
   {
     "name": "Reagan Best",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "133"
   },
   {
     "name": "Madi Muse",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "144"
   },
   {
     "name": "Natalie Smith",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "144"
   },
   {
     "name": "Kelly Burrows",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "128"
   },
   {
     "name": "Laura Caggiano",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "185"
   },
   {
     "name": "Aleigh Moore",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "165"
   },
   {
     "name": "Kayden Doherty",
-    "gender": "Male",
-    "weightClass": "44",
+    "weightCategory": "Male 44kg",
     "entryTotal": "70"
   },
   {
     "name": "Andrew Weymer",
-    "gender": "Male",
-    "weightClass": "49",
+    "weightCategory": "Male 49kg",
     "entryTotal": "130"
   },
   {
     "name": "Dylan Brown",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "150"
   },
   {
     "name": "Jack Green",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "200"
   },
   {
     "name": "Nahshon Paul",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "219"
   },
   {
     "name": "Bryce Eberhardt",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "254"
   },
   {
     "name": "Samuel Wainwright",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "282"
   },
   {
     "name": "William Wainwright",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "277"
   },
   {
     "name": "cameron williams",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "250"
   },
   {
     "name": "Trevor Owens",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "285"
   },
   {
     "name": "Chrisanto D'Agostino",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "345"
   },
   {
     "name": "Taylor Fife",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "59"
   },
   {
     "name": "Ayah Muhammad",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "154"
   },
   {
     "name": "Angelina Dabney",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "180"
   },
   {
     "name": "Alyssa Jordan",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "157"
   },
   {
     "name": "Ivy Gunn",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "170"
   },
   {
     "name": "Rubie Dobbins",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "154"
   },
   {
     "name": "Tristain Atwood",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "176"
   },
   {
     "name": "Madison Atwood",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "187"
   },
   {
     "name": "Lillian Glueck",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "162"
   },
   {
     "name": "Tracy Harris",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "128"
   },
   {
     "name": "Kathryn Rose",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "170"
   },
   {
     "name": "Shelby Pflug",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "208"
   },
   {
     "name": "Tiffany Roberts",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "185"
   },
   {
     "name": "Ava Oteri",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "175"
   },
   {
     "name": "Hector Garcia",
-    "gender": "Male",
-    "weightClass": "44",
+    "weightCategory": "Male 44kg",
     "entryTotal": "63"
   },
   {
     "name": "Dryden Yates",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "180"
   },
   {
     "name": "Trevor Kimm",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "335"
   },
   {
     "name": "Scott Harris",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "302"
   },
   {
     "name": "Tayon Vereen",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "360"
   },
   {
     "name": "carlos gonzalez",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "315"
   },
   {
     "name": "Eva Windsor",
-    "gender": "Female",
-    "weightClass": "+76",
+    "weightCategory": "Female +76kg",
     "entryTotal": "135"
   },
   {
     "name": "Natalia Frumker",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "118"
   },
   {
     "name": "Catessa Guadagnoli",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "174"
   },
   {
     "name": "Susan Gerhard",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "101"
   },
   {
     "name": "Lucy Lapane",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "144"
   },
   {
     "name": "Lisa Ho",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "185"
   },
   {
     "name": "Erica Sheagley",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "177"
   },
   {
     "name": "Andi Johnson",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "180"
   },
   {
     "name": "Haley McDaniel",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "200"
   },
   {
     "name": "Carly Lansley",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "201"
   },
   {
     "name": "Trisha Ruyle",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "200"
   },
   {
     "name": "Jayden Whittaker",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "155"
   },
   {
     "name": "Harrison Phelps",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "205"
   },
   {
     "name": "Ryan Hansen",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "280"
   },
   {
     "name": "Shane Welter",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "220"
   },
   {
     "name": "Morgan Rummel",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "284"
   },
   {
     "name": "Jason Ryu",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "243"
   },
   {
     "name": "Jacob Johnsson",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "275"
   },
   {
     "name": "Luke MacLennan",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "325"
   },
   {
     "name": "Dimitri Albury",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "335"
   },
   {
     "name": "Vivian Murray",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "77"
   },
   {
     "name": "Ellie Kichler",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "110"
   },
   {
     "name": "Christabel Lily Graton",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "110"
   },
   {
     "name": "Laney Yost",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "150"
   },
   {
     "name": "Melinda Golden",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "172"
   },
   {
     "name": "Kathleen Hafeli",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "125"
   },
   {
     "name": "Colleen Moon",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "124"
   },
   {
     "name": "Laura Barito",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "195"
   },
   {
     "name": "Marion Meunier",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "191"
   },
   {
     "name": "Spencer Davern",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "150"
   },
   {
     "name": "Neil Fountain",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "95"
   },
   {
     "name": "Keegan McHale",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "170"
   },
   {
     "name": "Asher Fountain",
-    "gender": "Male",
-    "weightClass": "+89",
+    "weightCategory": "Male +89kg",
     "entryTotal": "160"
   },
   {
     "name": "Bryant Thomas",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "240"
   },
   {
     "name": "Geoffrey Martin",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "230"
   },
   {
     "name": "Charles Arcario",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "240"
   },
   {
     "name": "Will Easley",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "315"
   },
   {
     "name": "Christopher Marquez",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "300"
   },
   {
     "name": "Kaleb wendricks",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "345"
   },
   {
     "name": "David Jorge",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "330"
   },
   {
     "name": "Zoe Macias",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "95"
   },
   {
     "name": "Samantha Goodman",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "145"
   },
   {
     "name": "Aimee Causby",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "137"
   },
   {
     "name": "Emily Lau",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "120"
   },
   {
     "name": "Karisa Hoke",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "120"
   },
   {
     "name": "Naoko Miyamoto",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "155"
   },
   {
     "name": "Olivia Piacentini",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "150"
   },
   {
     "name": "Sarah Sarff",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "139"
   },
   {
     "name": "Selena Cearley",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "150"
   },
   {
     "name": "Jennifer Miller",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "147"
   },
   {
     "name": "Nataliya Malyutina",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "140"
   },
   {
     "name": "Kathy Telfer",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "73"
   },
   {
     "name": "Brandi Herring",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "97"
   },
   {
     "name": "Nairobi Romero",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "210"
   },
   {
     "name": "Melissa Salazar",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "180"
   },
   {
     "name": "Francesca Duncan",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "205"
   },
   {
     "name": "Megan Kudrick",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "190"
   },
   {
     "name": "Sarah Barnett",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "233"
   },
   {
     "name": "Rowdy Cearley",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "170"
   },
   {
     "name": "Timur Kusov",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "320"
   },
   {
     "name": "Reagan Case",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "105"
   },
   {
     "name": "Isabella Wray",
-    "gender": "Female",
-    "weightClass": "+76",
+    "weightCategory": "Female +76kg",
     "entryTotal": "150"
   },
   {
     "name": "Nevaeh Kellerman",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "140"
   },
   {
     "name": "Kat Carter",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "200"
   },
   {
     "name": "Alyson Weidmann",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "108"
   },
   {
     "name": "Katelyn Curtis",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "205"
   },
   {
     "name": "Elyssabeth Beers",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "160"
   },
   {
     "name": "Suzanne Evans",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "88"
   },
   {
     "name": "Vicki Myers",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "90"
   },
   {
     "name": "Kayla Cocker",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "180"
   },
   {
     "name": "Alexia Gonzalez",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "210"
   },
   {
     "name": "Brianna Chu",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "190"
   },
   {
     "name": "Kristen Braccio",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "185"
   },
   {
     "name": "Sebastian Rose",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "185"
   },
   {
     "name": "Henry Ludbrook",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "240"
   },
   {
     "name": "Kaiden Mima",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "206"
   },
   {
     "name": "James Braun",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "216"
   },
   {
     "name": "Nathan Gonzaga",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "265"
   },
   {
     "name": "Andre Sanchez",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "240"
   },
   {
     "name": "Jabo Nguyen",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "320"
   },
   {
     "name": "Chassity Del",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "172"
   },
   {
     "name": "Lilla Heath",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "130"
   },
   {
     "name": "Ansley Amore",
-    "gender": "Female",
-    "weightClass": "+81",
+    "weightCategory": "Female +81kg",
     "entryTotal": "173"
   },
   {
     "name": "Anna Rucker",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "190"
   },
   {
     "name": "Taylor Hedke",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "154"
   },
   {
     "name": "Hayden Brandon",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "155"
   },
   {
     "name": "Eve Goldsher",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "165"
   },
   {
     "name": "Alise Enriquez",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "165"
   },
   {
     "name": "Jessica Heberlein",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "131"
   },
   {
     "name": "Erin Nelson",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "175"
   },
   {
     "name": "Lauren Storck",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "118"
   },
   {
     "name": "Amy Hovan",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "174"
   },
   {
     "name": "Leigh-Ann Trepanier",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "190"
   },
   {
     "name": "Lauren Lee",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "173"
   },
   {
     "name": "Victoria Fries",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "200"
   },
   {
     "name": "Deborah Doran",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "195"
   },
   {
     "name": "Ezekiel Macias",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "132"
   },
   {
     "name": "James Dantoni",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "222"
   },
   {
     "name": "freddie villanueva",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "190"
   },
   {
     "name": "Kyle Schulman",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "338"
   },
   {
     "name": "Amelia Phillips",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "136"
   },
   {
     "name": "Paige Hanchett",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "125"
   },
   {
     "name": "Amanda Williams",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "125"
   },
   {
     "name": "Chelsea Rebholz",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "155"
   },
   {
     "name": "Desiree Gonzalez",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "108"
   },
   {
     "name": "Sarah Welsh",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "145"
   },
   {
     "name": "Amanda Cann",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "155"
   },
   {
     "name": "Joelle Emery",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "185"
   },
   {
     "name": "Emma Hoffman",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "200"
   },
   {
     "name": "Megan Brasee",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "200"
   },
   {
     "name": "Sarah Kajdasz",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "191"
   },
   {
     "name": "Rachel Brindley",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "200"
   },
   {
     "name": "Jeremy Gillihan",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "230"
   },
   {
     "name": "Kendrick Parideu",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "224"
   },
   {
     "name": "Ronald Johnson",
-    "gender": "Male",
-    "weightClass": "55",
+    "weightCategory": "Male 55kg",
     "entryTotal": "73"
   },
   {
     "name": "Kevin Sheehan",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "277"
   },
   {
     "name": "Ross Twanmoh",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "246"
   },
   {
     "name": "Troy Fries",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "320"
   },
   {
     "name": "Jack Walbye",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "285"
   },
   {
     "name": "Alexander Souvall",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "260"
   },
   {
     "name": "Kodi McBride",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "143"
   },
   {
     "name": "TIERANY LALLY",
-    "gender": "Female",
-    "weightClass": "40",
+    "weightCategory": "Female 40kg",
     "entryTotal": "75"
   },
   {
     "name": "Alani Rose",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "92"
   },
   {
     "name": "Makenna Walker",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "110"
   },
   {
     "name": "Brynli McBride",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "137"
   },
   {
     "name": "Meagan Chisholm",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "108"
   },
   {
     "name": "Jennifer Houghton",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "165"
   },
   {
     "name": "Daisy May Gutierrez",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "135"
   },
   {
     "name": "Angie Cornejo",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "120"
   },
   {
     "name": "Ambrea Watts",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "160"
   },
   {
     "name": "Krisanne Driscoll",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "95"
   },
   {
     "name": "Monica Parucho",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "160"
   },
   {
     "name": "Shay Carlock",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "200"
   },
   {
     "name": "Diego Cordero",
-    "gender": "Male",
-    "weightClass": "49",
+    "weightCategory": "Male 49kg",
     "entryTotal": "144"
   },
   {
     "name": "Jagarii Gardner",
-    "gender": "Male",
-    "weightClass": "55",
+    "weightCategory": "Male 55kg",
     "entryTotal": "180"
   },
   {
     "name": "Gabriel Couilloud",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "220"
   },
   {
     "name": "Bryan Jow",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "245"
   },
   {
     "name": "Andrew Robinson",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "185"
   },
   {
     "name": "Stephen Powell",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "179"
   },
   {
     "name": "Michael Banks",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "310"
   },
   {
     "name": "Lily Ontiveros",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "108"
   },
   {
     "name": "Mackenzie Gaye'",
-    "gender": "Female",
-    "weightClass": "+76",
+    "weightCategory": "Female +76kg",
     "entryTotal": "140"
   },
   {
     "name": "Ashley Dvorin",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "163"
   },
   {
     "name": "Ashley Cronin",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "120"
   },
   {
     "name": "Lindsay Perrizo",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "160"
   },
   {
     "name": "Abby Boon",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "140"
   },
   {
     "name": "Tiffany Gutknecht",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "90"
   },
   {
     "name": "Erica Blanton",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "132"
   },
   {
     "name": "Rachel Conaway",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "155"
   },
   {
     "name": "Katherine Lee",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "149"
   },
   {
     "name": "Nicola Benfield",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "190"
   },
   {
     "name": "Alicia DiSpaltro",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "180"
   },
   {
     "name": "Yuliana Lopez",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "179"
   },
   {
     "name": "Carley Graham",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "185"
   },
   {
     "name": "Antonino Micela",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "200"
   },
   {
     "name": "Owen Jones",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "235"
   },
   {
     "name": "Colby Mapps",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "310"
   },
   {
     "name": "Eugene Shem",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "240"
   },
   {
     "name": "Christian Tsakanikas",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "290"
   },
   {
     "name": "Mateo Villa",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "290"
   },
   {
     "name": "Lilly Mullenaux",
-    "gender": "Female",
-    "weightClass": "36",
+    "weightCategory": "Female 36kg",
     "entryTotal": "65"
   },
   {
     "name": "Evelyn Otis",
-    "gender": "Female",
-    "weightClass": "40",
+    "weightCategory": "Female 40kg",
     "entryTotal": "53"
   },
   {
     "name": "Kaiya Blackhurst",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "110"
   },
   {
     "name": "Mahealani Mason",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "151"
   },
   {
     "name": "Delaney Brown",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "112"
   },
   {
     "name": "Adia Tomlinson",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "144"
   },
   {
     "name": "Eleanor Otis",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "130"
   },
   {
     "name": "Traci Beaune",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "0"
   },
   {
     "name": "Kristin Curd",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "131"
   },
   {
     "name": "Christine Moore",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "130"
   },
   {
     "name": "Lisa Barrow",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "100"
   },
   {
     "name": "Madison Johnston",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "181"
   },
   {
     "name": "Morgan Beattie",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "180"
   },
   {
     "name": "Kayli Kullos",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "185"
   },
   {
     "name": "Grayson Ibrahim",
-    "gender": "Male",
-    "weightClass": "32",
+    "weightCategory": "Male 32kg",
     "entryTotal": "45"
   },
   {
     "name": "Ashton McAllister",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "140"
   },
   {
     "name": "Evan Kniss",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "216"
   },
   {
     "name": "Andrew Raudabaugh",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "250"
   },
   {
     "name": "Jimmy Marquez",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "320"
   },
   {
     "name": "Cameron Fyffe",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "310"
   },
   {
     "name": "Sophia Hippelheuser",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "84"
   },
   {
     "name": "Brinlee Huber",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "110"
   },
   {
     "name": "Carli McBride",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "140"
   },
   {
     "name": "Grace Montgomery",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "185"
   },
   {
     "name": "Talia Waugh",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "135"
   },
   {
     "name": "Elise Caron",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "163"
   },
   {
     "name": "Amanda York",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "120"
   },
   {
     "name": "Carlyn Winston",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "174"
   },
   {
     "name": "ALEXANDRIA Zikoyanis",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "105"
   },
   {
     "name": "Janetta Lavender",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "120"
   },
   {
     "name": "Angela Gallegos",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "170"
   },
   {
     "name": "Elena Schorr",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "0"
   },
   {
     "name": "Estelle Rohr",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "225"
   },
   {
     "name": "Nyah Namisnak",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "175"
   },
   {
     "name": "Anna McElderry",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "225"
   },
   {
     "name": "Victoria Jefferson",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "215"
   },
   {
     "name": "Kevin Hill",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "265"
   },
   {
     "name": "Brian Smarsh",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "300"
   },
   {
     "name": "Benson Robles",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "320"
   },
   {
     "name": "Andrew Guevara",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "310"
   },
   {
     "name": "Macie Boast",
-    "gender": "Female",
-    "weightClass": "+64",
+    "weightCategory": "Female +64kg",
     "entryTotal": "95"
   },
   {
     "name": "Josie Stenstrom",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "100"
   },
   {
     "name": "Jordan Nantz",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "160"
   },
   {
     "name": "Molly Dorrance",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "110"
   },
   {
     "name": "Rebekah Horn",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "135"
   },
   {
     "name": "Torie Mathis",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "103"
   },
   {
     "name": "Tram Tran",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "153"
   },
   {
     "name": "Jessica Rodriguez",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "166"
   },
   {
     "name": "Samantha Ellison",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "175"
   },
   {
     "name": "Marina Tuono",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "180"
   },
   {
     "name": "Kristen Erickson",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "210"
   },
   {
     "name": "Rebecca Walker",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "210"
   },
   {
     "name": "Roman Costa",
-    "gender": "Male",
-    "weightClass": "44",
+    "weightCategory": "Male 44kg",
     "entryTotal": "87"
   },
   {
     "name": "Ciprian luna",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "220"
   },
   {
     "name": "Jesse Vezina",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "240"
   },
   {
     "name": "Jacob OConnor",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "275"
   },
   {
     "name": "Connor Houghton",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "285"
   },
   {
     "name": "Spencer Dent",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "285"
   },
   {
     "name": "Morgan McCullough",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "340"
   },
   {
     "name": "Zachary Huse",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "340"
   },
   {
     "name": "Briana DiCosmo",
-    "gender": "Female",
-    "weightClass": "40",
+    "weightCategory": "Female 40kg",
     "entryTotal": "66"
   },
   {
     "name": "Kinsley Rodden",
-    "gender": "Female",
-    "weightClass": "+76",
+    "weightCategory": "Female +76kg",
     "entryTotal": "171"
   },
   {
     "name": "Ruby Shepard",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "190"
   },
   {
     "name": "Stephanie Jefferson",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "166"
   },
   {
     "name": "Ashley Helton",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "140"
   },
   {
     "name": "Christina Lam",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "130"
   },
   {
     "name": "Alice Bauer",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "0"
   },
   {
     "name": "Delores Hill",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "141"
   },
   {
     "name": "Heather Mentone",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "183"
   },
   {
     "name": "Emily Shih",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "180"
   },
   {
     "name": "Emily Boyich",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "190"
   },
   {
     "name": "Stefani Warnick",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "185"
   },
   {
     "name": "Lily Turner",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "205"
   },
   {
     "name": "Alexandria Fillmore",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "198"
   },
   {
     "name": "Ryland Dutton",
-    "gender": "Male",
-    "weightClass": "49",
+    "weightCategory": "Male 49kg",
     "entryTotal": "85"
   },
   {
     "name": "Aaron Denney",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "245"
   },
   {
     "name": "Jabari Prince",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "282"
   },
   {
     "name": "Cameron Dowling",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "245"
   },
   {
     "name": "Aaron Nice",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "340"
   },
   {
     "name": "malek mousa",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "310"
   },
   {
     "name": "Addison Bell",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "150"
   },
   {
     "name": "Caitlyn Ogami",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "147"
   },
   {
     "name": "Tanya LaBell",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "160"
   },
   {
     "name": "Deanna McGillivray",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "190"
   },
   {
     "name": "Stephanie Rosario",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "155"
   },
   {
     "name": "Kat Bogers",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "145"
   },
   {
     "name": "Jessica Gianardi",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "155"
   },
   {
     "name": "Emily Kessler-Lewis",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "200"
   },
   {
     "name": "Matias Navarrete",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "145"
   },
   {
     "name": "Isaiah Cunningham",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "180"
   },
   {
     "name": "Frank Jimenez",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "230"
   },
   {
     "name": "Elijah Rivera",
-    "gender": "Male",
-    "weightClass": "+102",
+    "weightCategory": "Male +102kg",
     "entryTotal": "228"
   },
   {
     "name": "Jacob Elder",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "265"
   },
   {
     "name": "Michael Tucciarone",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "200"
   },
   {
     "name": "Greg Karas",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "190"
   },
   {
     "name": "Noah Ranno",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "255"
   },
   {
     "name": "Caleb Goodman",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "320"
   },
   {
     "name": "Wyatt Coffey",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "310"
   },
   {
     "name": "Valera ` Djaghouri",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "290"
   },
   {
     "name": "Russell Bowman",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "340"
   },
   {
     "name": "Chloe Desjardins",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "130"
   },
   {
     "name": "Allie Brink",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "142"
   },
   {
     "name": "Alexandra Hibbs",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "125"
   },
   {
     "name": "Penelope Desjardins",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "144"
   },
   {
     "name": "Ava Jackson",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "138"
   },
   {
     "name": "Colleen Maring",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "132"
   },
   {
     "name": "Ibis Loya",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "145"
   },
   {
     "name": "Deanna Johnson",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "80"
   },
   {
     "name": "Gretchen Villa",
-    "gender": "Female",
-    "weightClass": "45",
+    "weightCategory": "Female 45kg",
     "entryTotal": "145"
   },
   {
     "name": "Mikerline Apollon",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "168"
   },
   {
     "name": "Leah Smith",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "180"
   },
   {
     "name": "Jes Franklin",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "200"
   },
   {
     "name": "Nixon Catalano",
-    "gender": "Male",
-    "weightClass": "32",
+    "weightCategory": "Male 32kg",
     "entryTotal": "45"
   },
   {
     "name": "Santos Torres",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "178"
   },
   {
     "name": "Cody Monsevais",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "270"
   },
   {
     "name": "Nicholas Lee",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "235"
   },
   {
     "name": "Gary Alinea",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "170"
   },
   {
     "name": "Troy Stange",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "180"
   },
   {
     "name": "Tyler Schade",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "326"
   },
   {
     "name": "Adam White",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "300"
   },
   {
     "name": "Nora Paoloni",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "95"
   },
   {
     "name": "Ava Giorgi",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "170"
   },
   {
     "name": "Elizabeth Hernandez",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "141"
   },
   {
     "name": "Rachel Jackson",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "116"
   },
   {
     "name": "Kristin Roskowick",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "170"
   },
   {
     "name": "Anne Powell",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "110"
   },
   {
     "name": "Miriam Smith",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "80"
   },
   {
     "name": "Kaziah Jones",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "174"
   },
   {
     "name": "Christine Reilly",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "183"
   },
   {
     "name": "Flynn King",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "190"
   },
   {
     "name": "Carter Sing",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "240"
   },
   {
     "name": "Ryan Cunningham",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "210"
   },
   {
     "name": "Antonio Marcus",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "219"
   },
   {
     "name": "Douglas Perusso",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "227"
   },
   {
     "name": "osagie iyamu",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "217"
   },
   {
     "name": "Jacob Flores",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "240"
   },
   {
     "name": "Dakota Hooper",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "280"
   },
   {
     "name": "James Sayger",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "260"
   },
   {
     "name": "Xavier Borde",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "350"
   },
   {
     "name": "Daniel Russell",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "305"
   },
   {
     "name": "Brooklynn Vella",
-    "gender": "Female",
-    "weightClass": "36",
+    "weightCategory": "Female 36kg",
     "entryTotal": "61"
   },
   {
     "name": "Madeleine Maher",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "120"
   },
   {
     "name": "Mya Lagares",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "131"
   },
   {
     "name": "Alexa Woodman",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "153"
   },
   {
     "name": "Rebecca Dublin",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "190"
   },
   {
     "name": "Marissa Sterrett",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "140"
   },
   {
     "name": "Anna martin",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "155"
   },
   {
     "name": "Alice McBroom",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "163"
   },
   {
     "name": "Madeline Staniszewski",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "200"
   },
   {
     "name": "anna maguire",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "175"
   },
   {
     "name": "Nathanael Maher",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "146"
   },
   {
     "name": "Jackson Crane",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "150"
   },
   {
     "name": "Roy Maher",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "250"
   },
   {
     "name": "Lane Stewart",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "202"
   },
   {
     "name": "Kyle Wilp",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "290"
   },
   {
     "name": "Josh Purcell",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "193"
   },
   {
     "name": "John Gilleland",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "280"
   },
   {
     "name": "Jeffrey Gerlach",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "250"
   },
   {
     "name": "Justin Perry",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "292"
   },
   {
     "name": "Luke Shamberger",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "290"
   },
   {
     "name": "Lila Mangan",
-    "gender": "Female",
-    "weightClass": "40",
+    "weightCategory": "Female 40kg",
     "entryTotal": "76"
   },
   {
     "name": "Madison Hatcher",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "105"
   },
   {
     "name": "Payton Kramer",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "115"
   },
   {
     "name": "Areeya Draper",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "102"
   },
   {
     "name": "McKenzie Hatcher",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "175"
   },
   {
     "name": "Jessica Walters",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "155"
   },
   {
     "name": "Joanna Mangiante",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "90"
   },
   {
     "name": "Christa Degidio",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "151"
   },
   {
     "name": "Tiffany Craven",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "190"
   },
   {
     "name": "Jessica Tatman",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "180"
   },
   {
     "name": "Robin Leafblad",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "195"
   },
   {
     "name": "Harley Creech",
-    "gender": "Female",
-    "weightClass": "81",
+    "weightCategory": "Female 81kg",
     "entryTotal": "210"
   },
   {
     "name": "Alex Rose",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "200"
   },
   {
     "name": "Quinn Corcoran",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "170"
   },
   {
     "name": "Hampton Morris",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "285"
   },
   {
     "name": "Hunter Piasecki",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "230"
   },
   {
     "name": "Jonathan McHale",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "250"
   },
   {
     "name": "Armando Ordonez",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "190"
   },
   {
     "name": "Layne Palm",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "330"
   },
   {
     "name": "Joshua Magee",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "290"
   },
   {
     "name": "Lei Prescott",
-    "gender": "Female",
-    "weightClass": "+64",
+    "weightCategory": "Female +64kg",
     "entryTotal": "91"
   },
   {
     "name": "Victoria Carter",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "154"
   },
   {
     "name": "Lexi Thomas",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "185"
   },
   {
     "name": "Casandra Krier",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "125"
   },
   {
     "name": "Libby Elias",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "140"
   },
   {
     "name": "Courtney Ihlenfeld",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "108"
   },
   {
     "name": "Jamie Ancewicz",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "119"
   },
   {
     "name": "Tovah Kjolsrud",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "85"
   },
   {
     "name": "DanaMarie Movsessian",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "151"
   },
   {
     "name": "Nile Franklin",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "133"
   },
   {
     "name": "Alexis Boutchie",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "175"
   },
   {
     "name": "Daniel Marquez",
-    "gender": "Male",
-    "weightClass": "67",
+    "weightCategory": "Male 67kg",
     "entryTotal": "240"
   },
   {
     "name": "Holton Lowrie",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "225"
   },
   {
     "name": "James Boesch",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "231"
   },
   {
     "name": "Rafael Oliver",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "250"
   },
   {
     "name": "Kellan Bulman",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "235"
   },
   {
     "name": "Victor Igtiben",
-    "gender": "Male",
-    "weightClass": "81",
+    "weightCategory": "Male 81kg",
     "entryTotal": "230"
   },
   {
     "name": "Reginald Mays",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "180"
   },
   {
     "name": "Ethan Bowen",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "260"
   },
   {
     "name": "Dustin Baranowski",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "300"
   },
   {
     "name": "Madison DiCosmo",
-    "gender": "Female",
-    "weightClass": "30",
+    "weightCategory": "Female 30kg",
     "entryTotal": "43"
   },
   {
     "name": "Hailey Ehlers",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "85"
   },
   {
     "name": "Kaya Malia Henn",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "124"
   },
   {
     "name": "Ivy Weiss",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "95"
   },
   {
     "name": "Ella Gamache",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "105"
   },
   {
     "name": "Kaylee Landa",
-    "gender": "Female",
-    "weightClass": "87",
+    "weightCategory": "Female 87kg",
     "entryTotal": "200"
   },
   {
     "name": "Desirae Lyall",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "161"
   },
   {
     "name": "Jacqueline Viola Moulton",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "130"
   },
   {
     "name": "Claire Vahary",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "175"
   },
   {
     "name": "Charis Chan",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "187"
   },
   {
     "name": "Darci Molina",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "215"
   },
   {
     "name": "Analise Kirby",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "182"
   },
   {
     "name": "Alisha Thresher",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "165"
   },
   {
     "name": "Preston Chatman",
-    "gender": "Male",
-    "weightClass": "55",
+    "weightCategory": "Male 55kg",
     "entryTotal": "77"
   },
   {
     "name": "Jackson Leonard",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "260"
   },
   {
     "name": "Douglas Herder",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "128"
   },
   {
     "name": "Michael Ziss",
-    "gender": "Male",
-    "weightClass": "55",
+    "weightCategory": "Male 55kg",
     "entryTotal": "216"
   },
   {
     "name": "Cory O'Connor",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "240"
   },
   {
     "name": "Jason Pendergraph",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "285"
   },
   {
     "name": "Cesar Flores",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "360"
   },
   {
     "name": "Bristol Dixon",
-    "gender": "Female",
-    "weightClass": "+76",
+    "weightCategory": "Female +76kg",
     "entryTotal": "132"
   },
   {
     "name": "Jayleen Sanchez",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "124"
   },
   {
     "name": "Melina Rivera",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "131"
   },
   {
     "name": "Peyton Gunn",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "125"
   },
   {
     "name": "Jessica Cruse",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "117"
   },
   {
     "name": "Jessica Bachkora",
-    "gender": "Female",
-    "weightClass": "76",
+    "weightCategory": "Female 76kg",
     "entryTotal": "180"
   },
   {
     "name": "Lindsey Kujawski",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "135"
   },
   {
     "name": "Denise Hopkins",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "90"
   },
   {
     "name": "tiffany leung",
-    "gender": "Female",
-    "weightClass": "49",
+    "weightCategory": "Female 49kg",
     "entryTotal": "130"
   },
   {
     "name": "Brena Andrews",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "180"
   },
   {
     "name": "Erin Amos",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "185"
   },
   {
     "name": "Christian Figueroa",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "230"
   },
   {
     "name": "Michael Tucciarone",
-    "gender": "Male",
-    "weightClass": "61",
+    "weightCategory": "Male 61kg",
     "entryTotal": "190"
   },
   {
     "name": "Colin Reis",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "320"
   },
   {
     "name": "Eugene McDougall",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "220"
   },
   {
     "name": "Dominique Laster",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "300"
   },
   {
     "name": "Isaac Cruz",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "260"
   },
   {
     "name": "evan reinhart",
-    "gender": "Male",
-    "weightClass": "102",
+    "weightCategory": "Male 102kg",
     "entryTotal": "310"
   },
   {
     "name": "Denali Scoular",
-    "gender": "Male",
-    "weightClass": "109",
+    "weightCategory": "Male 109kg",
     "entryTotal": "310"
   },
   {
     "name": "Matthew Naugle",
-    "gender": "Male",
-    "weightClass": "+109",
+    "weightCategory": "Male +109kg",
     "entryTotal": "345"
   },
   {
     "name": "Maddi Landers",
-    "gender": "Female",
-    "weightClass": "64",
+    "weightCategory": "Female 64kg",
     "entryTotal": "75"
   },
   {
     "name": "shayla strickland",
-    "gender": "Female",
-    "weightClass": "55",
+    "weightCategory": "Female 55kg",
     "entryTotal": "99"
   },
   {
     "name": "Anastasia Jimenez",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "140"
   },
   {
     "name": "Issi Massei Agrait",
-    "gender": "Female",
-    "weightClass": "59",
+    "weightCategory": "Female 59kg",
     "entryTotal": "180"
   },
   {
     "name": "Tracy Chase",
-    "gender": "Female",
-    "weightClass": "71",
+    "weightCategory": "Female 71kg",
     "entryTotal": "164"
   },
   {
     "name": "Megan Mathias",
-    "gender": "Female",
-    "weightClass": "+87",
+    "weightCategory": "Female +87kg",
     "entryTotal": "139"
   },
   {
     "name": "Erubey Garcia",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "145"
   },
   {
     "name": "CJ Fernandez",
-    "gender": "Male",
-    "weightClass": "89",
+    "weightCategory": "Male 89kg",
     "entryTotal": "280"
   },
   {
     "name": "Yomar Andres Lopez",
-    "gender": "Male",
-    "weightClass": "96",
+    "weightCategory": "Male 96kg",
     "entryTotal": "305"
   },
   {
     "name": "Martin Glenn-Adams",
-    "gender": "Male",
-    "weightClass": "73",
+    "weightCategory": "Male 73kg",
     "entryTotal": "260"
   }
 ]
