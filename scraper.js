@@ -51,7 +51,7 @@ async function scrapeWeightliftingData() {
                     }
                     return {
                         firstName: cells[1]?.textContent.trim(),
-                        lastName: cells[2]?.textContent.trim(),
+                        lastName: cells[2]?.textContent.trim().split(' ')[0],
                         gender: cells[7]?.textContent.trim(),
                         weightClass: cells[9]?.textContent.trim(),
                         entryTotal: cells[10]?.textContent.trim()
