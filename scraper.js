@@ -50,15 +50,9 @@ async function scrapeWeightliftingData() {
                         return null;
                     }
                     return {
-                        memberId: cells[0]?.textContent.trim(),
                         firstName: cells[1]?.textContent.trim(),
                         lastName: cells[2]?.textContent.trim(),
-                        state: cells[3]?.textContent.trim(),
-                        yearOfBirth: cells[4]?.textContent.trim(),
-                        age: cells[5]?.textContent.trim(),
-                        club: cells[6]?.textContent.trim(),
                         gender: cells[7]?.textContent.trim(),
-                        division: cells[8]?.textContent.trim(),
                         weightClass: cells[9]?.textContent.trim(),
                         entryTotal: cells[10]?.textContent.trim()
                     };
@@ -77,10 +71,17 @@ async function scrapeWeightliftingData() {
             const nextButton = await page.$('button[aria-label="Next page"]:not([disabled])');
             if (nextButton) {
                 await nextButton.click();
-                // Wait for network request to complete
-                await page.waitForResponse(response => 
-                    response.url().includes('entries') && response.status() === 200
-                );
+                try {
+                    // Try to wait for response, but continue if it times out
+                    await Promise.race([
+                        page.waitForResponse(response => 
+                            response.url().includes('entries') && response.status() === 200
+                        ),
+                        page.waitForTimeout(5000) // 5 second timeout
+                    ]);
+                } catch (error) {
+                    console.log('Response wait timed out, continuing...');
+                }
                 // Additional wait for data to load
                 await page.waitForTimeout(2000);
                 pageNum++;
