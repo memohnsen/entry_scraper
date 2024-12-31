@@ -92,9 +92,24 @@ async function scrapeWeightliftingData() {
             }
         }
 
-        // Save the data
+        // Save the data as TypeScript
         const fs = require('fs');
-        fs.writeFileSync('weightlifting_entries.json', JSON.stringify(allEntries, null, 2));
+        const tsContent = `
+// Entry type definition
+interface WeightliftingEntry {
+    name: string;
+    weightCategory: string;
+    entryTotal: string;
+}
+
+// Scraped entries data
+export const entries: WeightliftingEntry[] = ${JSON.stringify(allEntries, null, 2)
+    .replace(/"name":/g, 'name:')
+    .replace(/"weightCategory":/g, 'weightCategory:')
+    .replace(/"entryTotal":/g, 'entryTotal:')};
+`;
+        
+        fs.writeFileSync('weightlifting_entries.ts', tsContent);
         
         console.log(`Successfully scraped ${allEntries.length} total entries (${Math.ceil(allEntries.length / 20)} pages)`);
         return allEntries;
