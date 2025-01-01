@@ -88,6 +88,42 @@ async function scrapeWeightliftingData() {
             }
         }
 
+        // Sort the entries before saving
+        const sortedEntries = allEntries
+            // First convert strings back to objects for sorting
+            .map(entry => {
+                // Use Function constructor to safely evaluate the string to an object
+                return Function(`return ${entry}`)();
+            })
+            // Sort by weightCategory and entryTotal
+            .sort((a, b) => {
+                // Extract weight value and check for '+' prefix
+                const getWeight = (str) => {
+                    const match = str.match(/(\+)?(\d+)/);
+                    if (!match) return { value: Infinity, hasPlus: false };
+                    return {
+                        value: parseInt(match[2]),
+                        hasPlus: match[1] === '+'
+                    };
+                };
+                
+                const weightA = getWeight(a.weightCategory);
+                const weightB = getWeight(b.weightCategory);
+                
+                // First sort by gender
+                if (a.weightCategory.startsWith('Female') && !b.weightCategory.startsWith('Female')) return -1;
+                if (!a.weightCategory.startsWith('Female') && b.weightCategory.startsWith('Female')) return 1;
+                
+                // Then by weight class, treating '+' as distinct
+                if (weightA.value !== weightB.value) return weightA.value - weightB.value;
+                if (weightA.hasPlus !== weightB.hasPlus) return weightA.hasPlus ? 1 : -1;
+                
+                // Finally by entry total
+                return parseInt(a.entryTotal) - parseInt(b.entryTotal);
+            })
+            // Convert back to formatted strings
+            .map(entry => `{ name: "${entry.name}", weightCategory: "${entry.weightCategory}", entryTotal: "${entry.entryTotal}" }`);
+
         // Save the data as TypeScript
         const fs = require('fs');
         const tsContent = `// Entry type definition
@@ -95,7 +131,7 @@ interface WeightliftingEntry { name: string; weightCategory: string; entryTotal:
 
 // Scraped entries data
 export const entries: WeightliftingEntry[] = [
-${allEntries.join(',\n')}
+${sortedEntries.join(',\n')}
 ];`;
         
         fs.writeFileSync('weightlifting_entries.ts', tsContent);
