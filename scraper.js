@@ -53,11 +53,7 @@ async function scrapeWeightliftingData() {
                     const lastName = cells[2]?.textContent.trim().split(' ')[0];
                     const gender = cells[7]?.textContent.trim();
                     const weightClass = cells[9]?.textContent.trim();
-                    return {
-                        name: `${firstName} ${lastName}`,
-                        weightCategory: `${gender} ${weightClass}kg`,
-                        entryTotal: cells[10]?.textContent.trim()
-                    };
+                    return `{ name: "${firstName} ${lastName}", weightCategory: "${gender} ${weightClass}kg", entryTotal: "${cells[10]?.textContent.trim()}" }`;
                 }).filter(entry => entry !== null);
             });
 
@@ -94,20 +90,13 @@ async function scrapeWeightliftingData() {
 
         // Save the data as TypeScript
         const fs = require('fs');
-        const tsContent = `
-// Entry type definition
-interface WeightliftingEntry {
-    name: string;
-    weightCategory: string;
-    entryTotal: string;
-}
+        const tsContent = `// Entry type definition
+interface WeightliftingEntry { name: string; weightCategory: string; entryTotal: string; }
 
 // Scraped entries data
-export const entries: WeightliftingEntry[] = ${JSON.stringify(allEntries, null, 2)
-    .replace(/"name":/g, 'name:')
-    .replace(/"weightCategory":/g, 'weightCategory:')
-    .replace(/"entryTotal":/g, 'entryTotal:')};
-`;
+export const entries: WeightliftingEntry[] = [
+${allEntries.join(',\n')}
+];`;
         
         fs.writeFileSync('weightlifting_entries.ts', tsContent);
         
