@@ -15,7 +15,7 @@ async function scrapeWeightliftingData() {
     
     try {
         console.log('Navigating to page...');
-        await page.goto('https://usaweightlifting.sport80.com/public/events/12845/entries/19313?bl=wizard', {
+        await page.goto('https://usaweightlifting.sport80.com/public/events/13478/entries/20135?bl=', {
             waitUntil: 'networkidle',
             timeout: 60000
         });
@@ -51,9 +51,10 @@ async function scrapeWeightliftingData() {
                     }
                     const firstName = cells[1]?.textContent.trim();
                     const lastName = cells[2]?.textContent.trim().split(' ')[0];
+                    const club = cells[6]?.textContent.trim();
                     const gender = cells[7]?.textContent.trim();
                     const weightClass = cells[9]?.textContent.trim();
-                    return `{ name: "${firstName} ${lastName}", weightCategory: "${gender} ${weightClass}kg", entryTotal: "${cells[10]?.textContent.trim()}" }`;
+                    return `{ name: "${firstName} ${lastName}", club: "${club}", weightCategory: "${gender} ${weightClass}kg", entryTotal: "${cells[10]?.textContent.trim()}" }`;
                 }).filter(entry => entry !== null);
             });
 
@@ -122,19 +123,24 @@ async function scrapeWeightliftingData() {
                 return parseInt(a.entryTotal) - parseInt(b.entryTotal);
             })
             // Convert back to formatted strings
-            .map(entry => `{ name: "${entry.name}", weightCategory: "${entry.weightCategory}", entryTotal: "${entry.entryTotal}" }`);
+            .map(entry => `{ name: "${entry.name}", club: "${entry.club}", weightCategory: "${entry.weightCategory}", entryTotal: "${entry.entryTotal}" }`);
 
         // Save the data as TypeScript
         const fs = require('fs');
         const tsContent = `// Entry type definition
-interface WeightliftingEntry { name: string; weightCategory: string; entryTotal: string; }
+interface WeightliftingEntry { 
+    name: string; 
+    club: string;
+    weightCategory: string; 
+    entryTotal: string; 
+}
 
 // Scraped entries data
 export const entries: WeightliftingEntry[] = [
 ${sortedEntries.join(',\n')}
 ];`;
         
-        fs.writeFileSync('weightlifting_entries.ts', tsContent);
+        fs.writeFileSync('arnold_25/entry/uni_adaptive_entries.ts', tsContent);
         
         console.log(`Successfully scraped ${allEntries.length} total entries (${Math.ceil(allEntries.length / 20)} pages)`);
         return allEntries;

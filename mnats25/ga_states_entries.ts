@@ -1,0 +1,81 @@
+// Entry type definition
+interface WeightliftingEntry { 
+    memberId: string;
+    name: string; 
+    age: number;
+    club: string;
+    gender: string;
+    weightClass: string; 
+    entryTotal: number; 
+}
+
+// Scraped entries data
+export const entries: WeightliftingEntry[] = [
+{ memberId: "1072745", name: "Jayde Duncan", age: 8, club: "South Georgia Barbell", gender: "Female", weightClass: "30kg", entryTotal: 30 },
+{ memberId: "1080159", name: "Hadley Tillman", age: 8, club: "South Georgia Barbell", gender: "Female", weightClass: "30kg", entryTotal: 30 },
+{ memberId: "1074630", name: "Phoebe Storck", age: 12, club: "ATLANTA PERFORMANCE", gender: "Female", weightClass: "40kg", entryTotal: 37 },
+{ memberId: "1068964", name: "Talayna Britt", age: 10, club: "WILLIAMS WEIGHTLIFTING", gender: "Female", weightClass: "49kg", entryTotal: 65 },
+{ memberId: "1078810", name: "KAIDENCE WASHINGTON", age: 11, club: "COASTAL EMPIRE WEIGHTLIFTING", gender: "Female", weightClass: "55kg", entryTotal: 60 },
+{ memberId: "1067513", name: "Meagan Chisholm", age: 39, club: "South Georgia Barbell", gender: "Female", weightClass: "59kg", entryTotal: 109 },
+{ memberId: "1072744", name: "Megan Warburg", age: 33, club: "South Georgia Barbell", gender: "Female", weightClass: "59kg", entryTotal: 95 },
+{ memberId: "1062284", name: "Leila Ray", age: 14, club: "South Georgia Barbell", gender: "Female", weightClass: "59kg", entryTotal: 90 },
+{ memberId: "1027414", name: "Corynne Francis", age: 34, club: "Unaffiliated", gender: "Female", weightClass: "64kg", entryTotal: 157 },
+{ memberId: "1073232", name: "Rose Caderno", age: 28, club: "ALLSOUTH Barbell", gender: "Female", weightClass: "64kg", entryTotal: 130 },
+{ memberId: "1074137", name: "Halaina Yancey", age: 22, club: "Bowen Elite Weightlifting", gender: "Female", weightClass: "64kg", entryTotal: 130 },
+{ memberId: "1059134", name: "Adrien Gates", age: 32, club: "Greenlight Weightlifting", gender: "Female", weightClass: "64kg", entryTotal: 120 },
+{ memberId: "1078811", name: "Imani Washington", age: 12, club: "COASTAL EMPIRE WEIGHTLIFTING", gender: "Female", weightClass: "64kg", entryTotal: 70 },
+{ memberId: "1078812", name: "Gabrielle Holmes", age: 11, club: "COASTAL EMPIRE WEIGHTLIFTING", gender: "Female", weightClass: "64kg", entryTotal: 40 },
+{ memberId: "1059228", name: "Amelia Kushner", age: 24, club: "UNIVERSITY OF TEXAS", gender: "Female", weightClass: "71kg", entryTotal: 155 },
+{ memberId: "1064053", name: "Judah Mangrum", age: 18, club: "Zoetic Weightlifting", gender: "Female", weightClass: "71kg", entryTotal: 150 },
+{ memberId: "1032776", name: "Clara Dennis", age: 34, club: "Unaffiliated", gender: "Female", weightClass: "71kg", entryTotal: 133 },
+{ memberId: "1057733", name: "Debra Woods", age: 44, club: "South Georgia Barbell", gender: "Female", weightClass: "71kg", entryTotal: 115 },
+{ memberId: "1075767", name: "Kailey Diatikar", age: 22, club: "ATLANTA PERFORMANCE", gender: "Female", weightClass: "71kg", entryTotal: 106 },
+{ memberId: "1080784", name: "Maria Paramo", age: 30, club: "South Georgia Barbell", gender: "Female", weightClass: "71kg", entryTotal: 65 },
+{ memberId: "1056171", name: "Emma Meads", age: 17, club: "South Georgia Barbell", gender: "Female", weightClass: "76kg", entryTotal: 135 },
+{ memberId: "1037406", name: "Amber Butler", age: 42, club: "Unaffiliated", gender: "Female", weightClass: "76kg", entryTotal: 112 },
+{ memberId: "1077383", name: "Caitlin Meyer", age: 27, club: "West Georgia Weightlifting", gender: "Female", weightClass: "76kg", entryTotal: 100 },
+{ memberId: "1050688", name: "Renee Michelle Burnette", age: 46, club: "ALLSOUTH Barbell", gender: "Female", weightClass: "76kg", entryTotal: 90 },
+{ memberId: "1051777", name: "Rachel Reiboldt", age: 42, club: "POWER AND GRACE PERFORMANCE.", gender: "Female", weightClass: "81kg", entryTotal: 145 },
+{ memberId: "1080236", name: "Lachelle Phillips", age: 40, club: "West Georgia Weightlifting", gender: "Female", weightClass: "81kg", entryTotal: 90 },
+{ memberId: "175057", name: "Na'Erykah Goodwin", age: 24, club: "COASTAL EMPIRE WEIGHTLIFTING", gender: "Female", weightClass: "87kg", entryTotal: 170 },
+{ memberId: "1080987", name: "Kenya Blocker", age: 41, club: "Unaffiliated", gender: "Female", weightClass: "87kg", entryTotal: 90 },
+{ memberId: "1080020", name: "Shasda Bishop", age: 39, club: "Bowen Elite Weightlifting", gender: "Female", weightClass: "87kg", entryTotal: 67 },
+{ memberId: "1053672", name: "Carly Lansley", age: 34, club: "Haworth Weightlifting", gender: "Female", weightClass: "+87kg", entryTotal: 190 },
+{ memberId: "1070966", name: "Grace Jenkins", age: 26, club: "POWER AND GRACE PERFORMANCE.", gender: "Female", weightClass: "+87kg", entryTotal: 160 },
+{ memberId: "1056259", name: "charles colbaugh", age: 12, club: "Bowen Elite Weightlifting", gender: "Male", weightClass: "49kg", entryTotal: 50 },
+{ memberId: "1077438", name: "Francisco Chacon-Rovira", age: 13, club: "West Georgia Weightlifting", gender: "Male", weightClass: "55kg", entryTotal: 95 },
+{ memberId: "1078914", name: "Hunter Simmons", age: 10, club: "COASTAL EMPIRE WEIGHTLIFTING", gender: "Male", weightClass: "55kg", entryTotal: 40 },
+{ memberId: "1056147", name: "Saxon Colbaugh", age: 15, club: "Bowen Elite Weightlifting", gender: "Male", weightClass: "61kg", entryTotal: 90 },
+{ memberId: "216033", name: "Joseph DarderUquillas", age: 28, club: "TEAM SAVANNAH", gender: "Male", weightClass: "67kg", entryTotal: 220 },
+{ memberId: "1073236", name: "Gavin Nelms", age: 20, club: "Floyd Farms Weightlifting", gender: "Male", weightClass: "67kg", entryTotal: 195 },
+{ memberId: "1043376", name: "Ethan Bowen", age: 27, club: "Bowen Elite Weightlifting", gender: "Male", weightClass: "73kg", entryTotal: 260 },
+{ memberId: "1061997", name: "Benjamin Engelbracht", age: 23, club: "Floyd Farms Weightlifting", gender: "Male", weightClass: "73kg", entryTotal: 220 },
+{ memberId: "1002156", name: "Thomas Minor", age: 32, club: "Grow or Die Barbell", gender: "Male", weightClass: "73kg", entryTotal: 215 },
+{ memberId: "1075752", name: "Jarret Bryan", age: 35, club: "ATLANTA PERFORMANCE", gender: "Male", weightClass: "73kg", entryTotal: 135 },
+{ memberId: "1027555", name: "Steven Acenbrak", age: 67, club: "Unaffiliated", gender: "Male", weightClass: "73kg", entryTotal: 92 },
+{ memberId: "1014939", name: "Jacob OConnor", age: 27, club: "Endless Strength Weightlifting", gender: "Male", weightClass: "81kg", entryTotal: 260 },
+{ memberId: "1052276", name: "Stewart Ragan", age: 33, club: "POWER AND GRACE PERFORMANCE.", gender: "Male", weightClass: "81kg", entryTotal: 240 },
+{ memberId: "1021255", name: "Ashby Floyd", age: 20, club: "Floyd Farms Weightlifting", gender: "Male", weightClass: "81kg", entryTotal: 230 },
+{ memberId: "1046007", name: "Benjamin Chang", age: 33, club: "Unaffiliated", gender: "Male", weightClass: "81kg", entryTotal: 200 },
+{ memberId: "1078048", name: "Martin Rydel", age: 47, club: "South Georgia Barbell", gender: "Male", weightClass: "81kg", entryTotal: 140 },
+{ memberId: "211874", name: "Joshua Venegas", age: 33, club: "Rising Tide Weightlifting", gender: "Male", weightClass: "89kg", entryTotal: 270 },
+{ memberId: "1046444", name: "Hunter Orloff", age: 26, club: "Endless Strength Weightlifting", gender: "Male", weightClass: "89kg", entryTotal: 265 },
+{ memberId: "1052335", name: "Gregory Sweat", age: 23, club: "Floyd Farms Weightlifting", gender: "Male", weightClass: "89kg", entryTotal: 220 },
+{ memberId: "1069219", name: "Daniel Hamill", age: 26, club: "Floyd Farms Weightlifting", gender: "Male", weightClass: "89kg", entryTotal: 204 },
+{ memberId: "1060746", name: "Michael Vo", age: 24, club: "Floyd Farms Weightlifting", gender: "Male", weightClass: "89kg", entryTotal: 195 },
+{ memberId: "1050719", name: "William Nollenberger", age: 37, club: "Cherokee Barbell", gender: "Male", weightClass: "89kg", entryTotal: 179 },
+{ memberId: "1061484", name: "Scott Stamey", age: 50, club: "Brave Barbells N Sprinkles WLC", gender: "Male", weightClass: "89kg", entryTotal: 160 },
+{ memberId: "1075805", name: "Jaden Smith", age: 15, club: "COASTAL EMPIRE WEIGHTLIFTING", gender: "Male", weightClass: "89kg", entryTotal: 110 },
+{ memberId: "1080754", name: "Alonzo Richardson,", age: 14, club: "COASTAL EMPIRE WEIGHTLIFTING", gender: "Male", weightClass: "+89kg", entryTotal: 80 },
+{ memberId: "1057999", name: "Dustin Craig", age: 29, club: "West Georgia Weightlifting", gender: "Male", weightClass: "96kg", entryTotal: 235 },
+{ memberId: "1057698", name: "Robert Fezza", age: 55, club: "POWER AND GRACE PERFORMANCE.", gender: "Male", weightClass: "96kg", entryTotal: 205 },
+{ memberId: "1059130", name: "Nathan Cleghorn", age: 18, club: "Unaffiliated", gender: "Male", weightClass: "96kg", entryTotal: 200 },
+{ memberId: "196688", name: "Ahmad Minor", age: 17, club: "COASTAL EMPIRE WEIGHTLIFTING", gender: "Male", weightClass: "96kg", entryTotal: 180 },
+{ memberId: "1080959", name: "Freddy Perez", age: 20, club: "West Georgia Weightlifting", gender: "Male", weightClass: "96kg", entryTotal: 180 },
+{ memberId: "1068509", name: "Bill Prater", age: 52, club: "Bowen Elite Weightlifting", gender: "Male", weightClass: "96kg", entryTotal: 160 },
+{ memberId: "1020438", name: "David DeGroot", age: 55, club: "Unaffiliated", gender: "Male", weightClass: "96kg", entryTotal: 130 },
+{ memberId: "1074947", name: "Chris Wagner", age: 53, club: "Cherokee Barbell", gender: "Male", weightClass: "102kg", entryTotal: 190 },
+{ memberId: "1028886", name: "Ryan Gesser", age: 50, club: "ATLANTA PERFORMANCE", gender: "Male", weightClass: "102kg", entryTotal: 152 },
+{ memberId: "1052288", name: "Emory McFann", age: 16, club: "Rising Tide Weightlifting", gender: "Male", weightClass: "+102kg", entryTotal: 220 },
+{ memberId: "1079931", name: "Justin Martin-Bailey", age: 41, club: "Bowen Elite Weightlifting", gender: "Male", weightClass: "109kg", entryTotal: 166 }
+];
