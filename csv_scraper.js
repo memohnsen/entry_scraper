@@ -17,7 +17,7 @@ async function scrapeWeightliftingData() {
     
     try {
         console.log('Navigating to page...');
-        await page.goto('https://usaweightlifting.sport80.com/public/events/13556/entries/20233?bl=', {
+        await page.goto('https://usaweightlifting.sport80.com/public/events/13475/entries/20131?bl=', {
             waitUntil: 'networkidle',
             timeout: 60000
         });
@@ -70,7 +70,7 @@ async function scrapeWeightliftingData() {
                         entry_total: parseInt(entryTotal),
                         session_number: null,
                         session_platform: null,
-                        meet: 'Florida WSO Champs'
+                        meet: 'Illinois WSO Championships'
                     };
                 }).filter(entry => entry !== null);
             });
@@ -132,7 +132,7 @@ async function scrapeWeightliftingData() {
 
         // Create CSV writer
         const csvWriter = csv({
-            path: 'fl_states_entries.csv',
+            path: 'il_states_entries.csv',
             header: [
                 { id: 'member_id', title: 'member_id' },
                 { id: 'name', title: 'name' },

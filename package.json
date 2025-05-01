@@ -4,7 +4,7 @@
   "description": "Scraper for USA Weightlifting competition entries",
   "main": "index.js",
   "scripts": {
-    "start": "node mnats25/scraper.js"
+    "start": "node csv_scraper.js"
   },
   "dependencies": {
     "csv-writer": "^1.6.0",
