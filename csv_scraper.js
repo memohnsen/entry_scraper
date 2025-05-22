@@ -1,6 +1,38 @@
+// Load environment variables from .env file
+require('dotenv').config();
+
 const { chromium } = require('playwright');
 const fs = require('fs');
 const csv = require('csv-writer').createObjectCsvWriter;
+const { createClient } = require('@supabase/supabase-js');
+
+// Initialize Supabase client
+const supabaseUrl = process.env.SUPABASE_URL;
+const supabaseKey = process.env.SUPABASE_KEY;
+let supabase;
+
+try {
+    if (!supabaseUrl || !supabaseKey) {
+        console.warn('Supabase credentials not provided. Database updates will be skipped.');
+        supabase = null;
+    } else {
+        supabase = createClient(supabaseUrl, supabaseKey);
+        console.log('Supabase client initialized successfully');
+    }
+} catch (error) {
+    console.error('Error initializing Supabase client:', error);
+    supabase = null;
+}
+
+// Read the target URL from file
+let targetUrl;
+try {
+    targetUrl = fs.readFileSync('target_url.txt', 'utf8').trim();
+    console.log(`Target URL loaded from file: ${targetUrl}`);
+} catch (error) {
+    console.error('Error reading target URL file:', error);
+    process.exit(1);
+}
 
 async function scrapeWeightliftingData() {
     console.log('Launching browser...');
@@ -16,8 +48,8 @@ async function scrapeWeightliftingData() {
     const page = await context.newPage();
     
     try {
-        console.log('Navigating to page...');
-        await page.goto('https://usaweightlifting.sport80.com/public/events/13475/entries/20131?bl=', {
+        console.log(`Navigating to page: ${targetUrl}`);
+        await page.goto(targetUrl, {
             waitUntil: 'networkidle',
             timeout: 60000
         });
@@ -28,6 +60,63 @@ async function scrapeWeightliftingData() {
             const firstCell = document.querySelector('table tbody tr td');
             return firstCell && !firstCell.textContent.includes('Loading');
         }, { timeout: 30000 });
+
+        // Extract meet name from the page
+        let meetName;
+        try {
+            meetName = await page.evaluate(() => {
+                const titleElement = document.querySelector('h1');
+                const eventInfoElement = document.querySelector('.event-info h2');
+                
+                if (titleElement) {
+                    return titleElement.textContent.trim();
+                } else if (eventInfoElement) {
+                    return eventInfoElement.textContent.trim();
+                } else {
+                    // Try to find any heading that might contain the meet name
+                    const headings = Array.from(document.querySelectorAll('h1, h2, h3'));
+                    for (const heading of headings) {
+                        if (heading.textContent.includes('Championship') || 
+                            heading.textContent.includes('Meet') || 
+                            heading.textContent.includes('Competition')) {
+                            return heading.textContent.trim();
+                        }
+                    }
+                    
+                    // If we still can't find it, try to extract from the page title
+                    const pageTitle = document.title;
+                    if (pageTitle) {
+                        return pageTitle.split('|')[0].trim();
+                    }
+                    
+                    return null;
+                }
+            });
+            
+            // Remove " - Members" suffix if present
+            if (meetName && meetName.endsWith(' - Members')) {
+                meetName = meetName.replace(' - Members', '');
+            }
+            
+            if (!meetName) {
+                // If we couldn't extract the meet name, use the URL to generate one
+                const url = page.url();
+                const eventIdMatch = url.match(/events\/(\d+)/);
+                if (eventIdMatch && eventIdMatch[1]) {
+                    meetName = `Event ID ${eventIdMatch[1]}`;
+                    console.warn(`Could not extract meet name from page, using fallback: ${meetName}`);
+                } else {
+                    meetName = `Weightlifting Event ${new Date().toISOString().split('T')[0]}`;
+                    console.warn(`Could not extract meet name or event ID, using date-based fallback: ${meetName}`);
+                }
+            }
+        } catch (error) {
+            // If there's an error in the extraction, use a fallback with the current date
+            meetName = `Weightlifting Event ${new Date().toISOString().split('T')[0]}`;
+            console.error(`Error extracting meet name: ${error.message}. Using fallback: ${meetName}`);
+        }
+        
+        console.log(`Meet name: ${meetName}`);
 
         let hasNextPage = true;
         let allEntries = [];
@@ -44,7 +133,7 @@ async function scrapeWeightliftingData() {
             console.log(`Scraping page ${pageNum}...`);
             
             // Extract data from current page
-            const pageEntries = await page.evaluate(() => {
+            const pageEntries = await page.evaluate((meetName) => {
                 const rows = Array.from(document.querySelectorAll('table tbody tr'));
                 return rows.map(row => {
                     const cells = Array.from(row.querySelectorAll('td'));
@@ -70,10 +159,10 @@ async function scrapeWeightliftingData() {
                         entry_total: parseInt(entryTotal),
                         session_number: null,
                         session_platform: null,
-                        meet: 'Illinois WSO Championships'
+                        meet: meetName
                     };
                 }).filter(entry => entry !== null);
-            });
+            }, meetName);
 
             if (pageEntries.length === 0) {
                 console.log('No valid entries found on current page, ending pagination');
@@ -130,7 +219,7 @@ async function scrapeWeightliftingData() {
             return b.entry_total - a.entry_total;
         });
 
-        // Create CSV writer
+        // Create CSV writer for backup
         const csvWriter = csv({
             path: 'il_states_entries.csv',
             header: [
@@ -147,10 +236,14 @@ async function scrapeWeightliftingData() {
             ]
         });
 
-        // Write to CSV
+        // Write to CSV as backup
         await csvWriter.writeRecords(sortedEntries);
         
         console.log(`Successfully scraped ${allEntries.length} total entries (${Math.ceil(allEntries.length / 20)} pages)`);
+        
+        // Update Supabase
+        await updateSupabase(sortedEntries);
+        
         return allEntries;
 
     } catch (error) {
@@ -162,11 +255,81 @@ async function scrapeWeightliftingData() {
     }
 }
 
+async function updateSupabase(entries) {
+    if (!supabase) {
+        console.error('Supabase client not initialized. Skipping database update.');
+        return;
+    }
+    
+    if (entries.length === 0) {
+        console.log('No entries to update in Supabase');
+        return;
+    }
+    
+    const meetName = entries[0].meet;
+    console.log(`Updating Supabase with entries for meet: ${meetName}`);
+    
+    try {
+        // Upsert entries one by one to handle the special case for session_number and session_platform
+        for (const entry of entries) {
+            // Check if the entry already exists
+            const { data: existingEntries, error: fetchError } = await supabase
+                .from('athletes')
+                .select('session_number, session_platform')
+                .eq('member_id', entry.member_id)
+                .eq('meet', meetName);
+                
+            if (fetchError) {
+                console.error('Error fetching existing entry:', fetchError);
+                continue;
+            }
+            
+            if (existingEntries && existingEntries.length > 0) {
+                const existingEntry = existingEntries[0];
+                
+                // Preserve session_number and session_platform if they are not null
+                if (existingEntry.session_number !== null) {
+                    entry.session_number = existingEntry.session_number;
+                }
+                
+                if (existingEntry.session_platform !== null) {
+                    entry.session_platform = existingEntry.session_platform;
+                }
+                
+                // Update the entry
+                const { error: updateError } = await supabase
+                    .from('athletes')
+                    .update(entry)
+                    .eq('member_id', entry.member_id)
+                    .eq('meet', meetName);
+                    
+                if (updateError) {
+                    console.error('Error updating entry:', updateError);
+                }
+            } else {
+                // Insert new entry
+                const { error: insertError } = await supabase
+                    .from('athletes')
+                    .insert(entry);
+                    
+                if (insertError) {
+                    console.error('Error inserting entry:', insertError);
+                }
+            }
+        }
+        
+        console.log(`Successfully updated Supabase with ${entries.length} entries for meet: ${meetName}`);
+    } catch (error) {
+        console.error('Error updating Supabase:', error);
+        throw error;
+    }
+}
+
 if (require.main === module) {
     console.log('Starting scraper...');
     scrapeWeightliftingData()
         .then(() => {
-            console.log('Scraping completed successfully');
+            console.log('Scraping and database update completed successfully');
             process.exit(0);
         })
         .catch(error => {
