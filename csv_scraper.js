@@ -251,9 +251,47 @@ async function updateSupabase(entries) {
     console.log(`Updating Supabase with entries for meet: ${meetName}`);
     
     try {
+        // Get all existing member IDs from the database to check for duplicates across meets
+        const { data: existingMembers, error: fetchAllError } = await supabase
+            .from('athletes')
+            .select('member_id, meet')
+            .neq('meet', meetName); // Only get member IDs from other meets
+            
+        if (fetchAllError) {
+            console.error('Error fetching existing members:', fetchAllError);
+        }
+        
+        // Create a map of existing member IDs from other meets
+        const existingMemberIds = new Set();
+        if (existingMembers) {
+            existingMembers.forEach(member => {
+                existingMemberIds.add(member.member_id);
+            });
+        }
+        
+        // Generate a random 9-digit number that doesn't exist in the database
+        const generateUniqueMemberId = () => {
+            let newId;
+            do {
+                // Generate random 9-digit number
+                newId = Math.floor(100000000 + Math.random() * 900000000).toString();
+            } while (existingMemberIds.has(newId));
+            
+            // Add to set to avoid duplicates in current batch
+            existingMemberIds.add(newId);
+            return newId;
+        };
+        
         // Upsert entries one by one to handle the special case for session_number and session_platform
         for (const entry of entries) {
-            // Check if the entry already exists
+            // Check if the member_id already exists in another meet
+            if (existingMemberIds.has(entry.member_id)) {
+                const originalId = entry.member_id;
+                entry.member_id = generateUniqueMemberId();
+                console.log(`Found duplicate member_id ${originalId} across meets. Generated new ID: ${entry.member_id}`);
+            }
+            
+            // Check if the entry already exists in this meet
             const { data: existingEntries, error: fetchError } = await supabase
                 .from('athletes')
                 .select('session_number, session_platform')
