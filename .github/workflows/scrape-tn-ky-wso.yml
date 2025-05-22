@@ -1,13 +1,12 @@
-name: Scrape CA North WSO Championships
+name: Scrape TN KY WSO Championships
 
 on:
   schedule:
-    # Run at 2:00 AM UTC every day
-    - cron: '0 2 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch: # Allow manual triggering
 
 env:
-  TARGET_URL: 'https://usaweightlifting.sport80.com/public/events/13997/entries/20823?bl='
+  TARGET_URL: 'https://usaweightlifting.sport80.com/public/events/13921/entries/20720?bl='
 
 jobs:
   scrape:
