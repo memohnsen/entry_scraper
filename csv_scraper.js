@@ -3,7 +3,6 @@ require('dotenv').config();
 
 const { chromium } = require('playwright');
 const fs = require('fs');
-const csv = require('csv-writer').createObjectCsvWriter;
 const { createClient } = require('@supabase/supabase-js');
 
 // Initialize Supabase client
@@ -219,25 +218,7 @@ async function scrapeWeightliftingData() {
             return b.entry_total - a.entry_total;
         });
 
-        // Create CSV writer for backup
-        const csvWriter = csv({
-            path: 'il_states_entries.csv',
-            header: [
-                { id: 'member_id', title: 'member_id' },
-                { id: 'name', title: 'name' },
-                { id: 'age', title: 'age' },
-                { id: 'club', title: 'club' },
-                { id: 'gender', title: 'gender' },
-                { id: 'weight_class', title: 'weight_class' },
-                { id: 'entry_total', title: 'entry_total' },
-                { id: 'session_number', title: 'session_number' },
-                { id: 'session_platform', title: 'session_platform' },
-                { id: 'meet', title: 'meet' }
-            ]
-        });
-
-        // Write to CSV as backup
-        await csvWriter.writeRecords(sortedEntries);
+        // CSV output removed
         
         console.log(`Successfully scraped ${allEntries.length} total entries (${Math.ceil(allEntries.length / 20)} pages)`);
         
