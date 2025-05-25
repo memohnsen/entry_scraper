@@ -4,7 +4,8 @@
   "description": "Scraper for USA Weightlifting competition entries",
   "main": "index.js",
   "scripts": {
-    "start": "node csv_scraper.js"
+    "start": "node csv_scraper.js",
+    "site": "node scrape_from_site.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.49.8",
