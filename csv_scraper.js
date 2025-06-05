@@ -344,11 +344,59 @@ async function updateSupabase(entries) {
     }
 }
 
+async function sendDiscordNotification(athleteCount, meetName) {
+    const discordWebhookUrl = process.env.DISCORD_WEBHOOK_URL;
+    
+    if (!discordWebhookUrl) {
+        console.log('Discord webhook URL not provided. Skipping Discord notification.');
+        return;
+    }
+    
+    const timestamp = new Date().toLocaleString('en-US', {
+        timeZone: 'America/New_York',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: true
+    });
+    
+    const message = `${athleteCount} Athletes Added to Supabase for ${meetName} at ${timestamp}`;
+    
+    try {
+        const response = await fetch(discordWebhookUrl, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                content: message
+            })
+        });
+        
+        if (response.ok) {
+            console.log('Discord notification sent successfully');
+        } else {
+            console.error('Failed to send Discord notification:', response.status, response.statusText);
+        }
+    } catch (error) {
+        console.error('Error sending Discord notification:', error);
+    }
+}
+
 if (require.main === module) {
     console.log('Starting scraper...');
     scrapeWeightliftingData()
-        .then(() => {
+        .then((entries) => {
             console.log('Scraping and database update completed successfully');
+            
+            // Send Discord notification
+            if (entries && entries.length > 0) {
+                const meetName = entries[0].meet;
+                sendDiscordNotification(entries.length, meetName);
+            }
+            
             process.exit(0);
         })
         .catch(error => {
