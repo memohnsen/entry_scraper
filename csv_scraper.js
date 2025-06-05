@@ -3,7 +3,7 @@ require('dotenv').config();
 
 const { chromium } = require('playwright');
 const fs = require('fs');
-const axios = require('axios');
+const https = require('https');
 const { createClient } = require('@supabase/supabase-js');
 
 // Initialize Supabase client
@@ -367,31 +367,77 @@ async function sendDiscordNotification(athleteCount, meetName) {
     // Create the message
     const message = `${athleteCount} Athletes Added to Supabase for ${meetName} at ${currentTime}`;
     
-    const payload = {
+    const payload = JSON.stringify({
         content: message
-    };
+    });
     
-    try {
-        const response = await axios.post(discordWebhookUrl, payload, { timeout: 30000 });
-        console.log(`Discord notification sent successfully: ${message}`);
-    } catch (error) {
-        console.error(`Failed to send Discord notification:`, error.message);
-        if (error.response) {
-            console.error(`Discord webhook response:`, error.response.data);
-        }
-    }
+    return new Promise((resolve, reject) => {
+        const url = new URL(discordWebhookUrl);
+        
+        const options = {
+            hostname: url.hostname,
+            port: url.port || 443,
+            path: url.pathname + url.search,
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Content-Length': Buffer.byteLength(payload)
+            },
+            timeout: 30000
+        };
+        
+        const req = https.request(options, (res) => {
+            let data = '';
+            
+            res.on('data', (chunk) => {
+                data += chunk;
+            });
+            
+            res.on('end', () => {
+                if (res.statusCode >= 200 && res.statusCode < 300) {
+                    console.log(`Discord notification sent successfully: ${message}`);
+                    resolve(data);
+                } else {
+                    console.error(`Failed to send Discord notification: ${res.statusCode} ${res.statusMessage}`);
+                    if (data) {
+                        console.error(`Discord webhook response: ${data}`);
+                    }
+                    reject(new Error(`HTTP ${res.statusCode}: ${res.statusMessage}`));
+                }
+            });
+        });
+        
+        req.on('error', (error) => {
+            console.error(`Failed to send Discord notification:`, error.message);
+            reject(error);
+        });
+        
+        req.on('timeout', () => {
+            req.destroy();
+            const timeoutError = new Error('Discord webhook request timed out');
+            console.error('Failed to send Discord notification:', timeoutError.message);
+            reject(timeoutError);
+        });
+        
+        req.write(payload);
+        req.end();
+    });
 }
 
 if (require.main === module) {
     console.log('Starting scraper...');
     scrapeWeightliftingData()
-        .then((entries) => {
+        .then(async (entries) => {
             console.log('Scraping and database update completed successfully');
             
             // Send Discord notification
             if (entries && entries.length > 0) {
                 const meetName = entries[0].meet;
-                sendDiscordNotification(entries.length, meetName);
+                try {
+                    await sendDiscordNotification(entries.length, meetName);
+                } catch (discordError) {
+                    console.error('Discord notification failed, but continuing:', discordError.message);
+                }
             }
             
             process.exit(0);
