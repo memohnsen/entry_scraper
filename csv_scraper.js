@@ -3,6 +3,7 @@ require('dotenv').config();
 
 const { chromium } = require('playwright');
 const fs = require('fs');
+const axios = require('axios');
 const { createClient } = require('@supabase/supabase-js');
 
 // Initialize Supabase client
@@ -348,11 +349,12 @@ async function sendDiscordNotification(athleteCount, meetName) {
     const discordWebhookUrl = process.env.DISCORD_WEBHOOK_URL;
     
     if (!discordWebhookUrl) {
-        console.log('Discord webhook URL not provided. Skipping Discord notification.');
+        console.log('Discord webhook URL not configured. Skipping notification.');
         return;
     }
     
-    const timestamp = new Date().toLocaleString('en-US', {
+    // Get current timestamp in a readable format
+    const currentTime = new Date().toLocaleString('en-US', {
         timeZone: 'America/New_York',
         year: 'numeric',
         month: '2-digit',
@@ -362,26 +364,21 @@ async function sendDiscordNotification(athleteCount, meetName) {
         hour12: true
     });
     
-    const message = `${athleteCount} Athletes Added to Supabase for ${meetName} at ${timestamp}`;
+    // Create the message
+    const message = `${athleteCount} Athletes Added to Supabase for ${meetName} at ${currentTime}`;
+    
+    const payload = {
+        content: message
+    };
     
     try {
-        const response = await fetch(discordWebhookUrl, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                content: message
-            })
-        });
-        
-        if (response.ok) {
-            console.log('Discord notification sent successfully');
-        } else {
-            console.error('Failed to send Discord notification:', response.status, response.statusText);
-        }
+        const response = await axios.post(discordWebhookUrl, payload, { timeout: 30000 });
+        console.log(`Discord notification sent successfully: ${message}`);
     } catch (error) {
-        console.error('Error sending Discord notification:', error);
+        console.error(`Failed to send Discord notification:`, error.message);
+        if (error.response) {
+            console.error(`Discord webhook response:`, error.response.data);
+        }
     }
 }
 
