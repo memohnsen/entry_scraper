@@ -252,21 +252,40 @@ async function updateSupabase(entries) {
     console.log(`Updating Supabase with entries for meet: ${meetName}`);
     
     try {
-        // Get all existing member IDs from the database to check for duplicates across meets
-        const { data: existingMembers, error: fetchAllError } = await supabase
+        // Get all existing entries for this meet to check for existing athletes by name
+        const { data: existingMeetEntries, error: fetchMeetError } = await supabase
             .from('athletes')
-            .select('member_id, meet')
-            .neq('meet', meetName); // Only get member IDs from other meets
+            .select('member_id, name, session_number, session_platform')
+            .eq('meet', meetName);
             
-        if (fetchAllError) {
-            console.error('Error fetching existing members:', fetchAllError);
+        if (fetchMeetError) {
+            console.error('Error fetching existing meet entries:', fetchMeetError);
+            return;
         }
         
-        // Create a map of existing member IDs from other meets
-        const existingMemberIds = new Set();
-        if (existingMembers) {
-            existingMembers.forEach(member => {
-                existingMemberIds.add(member.member_id);
+        // Create a map of existing entries in this meet by name (case-insensitive)
+        const existingByName = new Map();
+        if (existingMeetEntries) {
+            existingMeetEntries.forEach(entry => {
+                const normalizedName = entry.name.toLowerCase().trim();
+                existingByName.set(normalizedName, entry);
+            });
+        }
+        
+        // Get all existing member IDs from the database to check for duplicates across meets
+        const { data: allExistingMembers, error: fetchAllError } = await supabase
+            .from('athletes')
+            .select('member_id, meet');
+            
+        if (fetchAllError) {
+            console.error('Error fetching all existing members:', fetchAllError);
+        }
+        
+        // Create a set of all existing member IDs across all meets
+        const allExistingMemberIds = new Set();
+        if (allExistingMembers) {
+            allExistingMembers.forEach(member => {
+                allExistingMemberIds.add(member.member_id);
             });
         }
         
@@ -276,69 +295,106 @@ async function updateSupabase(entries) {
             do {
                 // Generate random 9-digit number
                 newId = Math.floor(100000000 + Math.random() * 900000000).toString();
-            } while (existingMemberIds.has(newId));
+            } while (allExistingMemberIds.has(newId));
             
             // Add to set to avoid duplicates in current batch
-            existingMemberIds.add(newId);
+            allExistingMemberIds.add(newId);
             return newId;
         };
         
-        // Upsert entries one by one to handle the special case for session_number and session_platform
+        let processedCount = 0;
+        let insertedCount = 0;
+        let updatedCount = 0;
+        let skippedCount = 0;
+        
+        // Process entries one by one
         for (const entry of entries) {
-            // Check if the member_id already exists in another meet
-            if (existingMemberIds.has(entry.member_id)) {
-                const originalId = entry.member_id;
-                entry.member_id = generateUniqueMemberId();
-                console.log(`Found duplicate member_id ${originalId} across meets. Generated new ID: ${entry.member_id}`);
-            }
+            const normalizedEntryName = entry.name.toLowerCase().trim();
+            const existingEntry = existingByName.get(normalizedEntryName);
             
-            // Check if the entry already exists in this meet
-            const { data: existingEntries, error: fetchError } = await supabase
-                .from('athletes')
-                .select('session_number, session_platform')
-                .eq('member_id', entry.member_id)
-                .eq('meet', meetName);
+            if (existingEntry) {
+                // Athlete name already exists in this meet
+                console.log(`Found existing athlete: ${entry.name} in meet: ${meetName}`);
                 
-            if (fetchError) {
-                console.error('Error fetching existing entry:', fetchError);
-                continue;
-            }
-            
-            if (existingEntries && existingEntries.length > 0) {
-                const existingEntry = existingEntries[0];
+                // Check if any important fields have changed (excluding session data)
+                const hasChanges = (
+                    existingEntry.member_id !== entry.member_id ||
+                    entry.age !== parseInt(existingEntry.age) ||
+                    entry.club !== existingEntry.club ||
+                    entry.gender !== existingEntry.gender ||
+                    entry.weight_class !== existingEntry.weight_class ||
+                    entry.entry_total !== parseInt(existingEntry.entry_total)
+                );
                 
-                // Preserve session_number and session_platform if they are not null
-                if (existingEntry.session_number !== null) {
-                    entry.session_number = existingEntry.session_number;
-                }
-                
-                if (existingEntry.session_platform !== null) {
-                    entry.session_platform = existingEntry.session_platform;
-                }
-                
-                // Update the entry
-                const { error: updateError } = await supabase
-                    .from('athletes')
-                    .update(entry)
-                    .eq('member_id', entry.member_id)
-                    .eq('meet', meetName);
+                if (hasChanges) {
+                    // Preserve the existing member_id and session data
+                    entry.member_id = existingEntry.member_id;
                     
-                if (updateError) {
-                    console.error('Error updating entry:', updateError);
+                    // Preserve session_number and session_platform if they are not null
+                    if (existingEntry.session_number !== null) {
+                        entry.session_number = existingEntry.session_number;
+                    }
+                    
+                    if (existingEntry.session_platform !== null) {
+                        entry.session_platform = existingEntry.session_platform;
+                    }
+                    
+                    // Update the entry
+                    const { error: updateError } = await supabase
+                        .from('athletes')
+                        .update(entry)
+                        .eq('member_id', existingEntry.member_id)
+                        .eq('meet', meetName);
+                        
+                    if (updateError) {
+                        console.error(`Error updating entry for ${entry.name}:`, updateError);
+                    } else {
+                        console.log(`Updated athlete: ${entry.name} in meet: ${meetName}`);
+                        updatedCount++;
+                    }
+                } else {
+                    console.log(`No changes detected for athlete: ${entry.name} in meet: ${meetName} - skipping`);
+                    skippedCount++;
                 }
             } else {
+                // Athlete name doesn't exist in this meet
+                
+                // Check if the member_id is already used in ANY meet
+                if (allExistingMemberIds.has(entry.member_id)) {
+                    // Member ID exists but name doesn't exist in this meet
+                    // This means it's likely the same person in a different meet
+                    // Generate a new member_id for this meet entry
+                    const originalId = entry.member_id;
+                    entry.member_id = generateUniqueMemberId();
+                    console.log(`Member ID ${originalId} exists in other meets. Generated new ID ${entry.member_id} for ${entry.name} in meet: ${meetName}`);
+                }
+                
                 // Insert new entry
                 const { error: insertError } = await supabase
                     .from('athletes')
                     .insert(entry);
                     
                 if (insertError) {
-                    console.error('Error inserting entry:', insertError);
+                    console.error(`Error inserting entry for ${entry.name}:`, insertError);
+                } else {
+                    console.log(`Inserted new athlete: ${entry.name} in meet: ${meetName}`);
+                    insertedCount++;
+                    // Add the new entry to our local map to avoid duplicates in this batch
+                    existingByName.set(normalizedEntryName, {
+                        member_id: entry.member_id,
+                        name: entry.name,
+                        session_number: entry.session_number,
+                        session_platform: entry.session_platform
+                    });
                 }
             }
+            processedCount++;
         }
         
-        console.log(`Successfully updated Supabase with ${entries.length} entries for meet: ${meetName}`);
+        console.log(`Successfully processed ${processedCount} entries for meet: ${meetName}`);
+        console.log(`  - Inserted: ${insertedCount}`);
+        console.log(`  - Updated: ${updatedCount}`);
+        console.log(`  - Skipped (no changes): ${skippedCount}`);
     } catch (error) {
         console.error('Error updating Supabase:', error);
         throw error;
